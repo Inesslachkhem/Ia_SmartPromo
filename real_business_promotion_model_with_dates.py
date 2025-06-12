@@ -144,33 +144,34 @@ class RealDataPromotionModel:
     def _calculate_competition_intensity(self, date):
         """Calculate competition intensity based on time of year"""
         if date.month in [7, 8, 12]:  # Summer and December
-            return 0.9  # High competition
-        elif date.month in [6, 9, 11]:  # Pre-peak seasons
+            return 0.9  # High competition        elif date.month in [6, 9, 11]:  # Pre-peak seasons
             return 0.7  # Medium competition
         else:
             return 0.5  # Normal competition
 
-    def load_real_business_data(self, file_path="complete_business_dataset.xlsx"):
-        """Load the real business dataset"""
-        print("=== LOADING REAL BUSINESS DATA ===")
+    def load_real_business_data(
+        self, file_path="enhanced_business_dataset_with_dates.xlsx"
+    ):
+        """Load the enhanced business dataset with date-based features"""
+        print("=== LOADING ENHANCED BUSINESS DATA WITH DATES ===")
 
-        # Load the complete business dataset
+        # Load the enhanced business dataset
         df = pd.read_excel(file_path, sheet_name="Business_Data", engine="openpyxl")
         print(
-            f"Real business dataset loaded: {df.shape[0]} products, {df.shape[1]} features"
+            f"Enhanced business dataset loaded: {df.shape[0]} products, {df.shape[1]} features"
         )
 
-        # Analyze the real data structure
+        # Analyze the enhanced data structure
         self.analyze_real_data(df)
 
-        # Calculate optimal promotions based on real business logic
+        # Calculate optimal promotions based on enhanced business logic
         df_with_targets = self.calculate_real_optimal_promotions(df)
 
         return df_with_targets
 
     def analyze_real_data(self, df):
-        """Analyze the real business data structure"""
-        print("\n=== REAL BUSINESS DATA ANALYSIS ===")
+        """Analyze the enhanced business data structure"""
+        print("\n=== ENHANCED BUSINESS DATA ANALYSIS ===")
         print(f"Total Products: {df.shape[0]:,}")
         print(f"Total Monthly Revenue: {df['CA_Mensuel_TND'].sum():,.2f} TND")
         print(f"Average Product Price: {df['Prix_Vente_TND'].mean():.2f} TND")
@@ -178,7 +179,22 @@ class RealDataPromotionModel:
             f"Average Monthly Sales: {df['Ventes_Mensuelles_Unites'].mean():.0f} units"
         )
         print(f"Total Stock Value: {df['Valeur_Stock_TND'].sum():,.2f} TND")
-        print(f"Average Profit Margin: {df['Marge_Pourcentage'].mean():.1f}%")
+        print(f"Average Price Elasticity: {df['Elasticite_Prix'].mean():.2f}")
+
+        # Show date-based features
+        print(f"\n=== DATE-BASED FEATURES ===")
+        print(
+            f"Purchase Date Range: {df['Date_Achat'].min()} to {df['Date_Achat'].max()}"
+        )
+        print(
+            f"Sales Date Range: {df['Date_Derniere_Vente'].min()} to {df['Date_Derniere_Vente'].max()}"
+        )
+        print(
+            f"Average Days Since Purchase: {df['Jours_Depuis_Achat'].mean():.0f} days"
+        )
+        print(
+            f"Average Days Since Last Sale: {df['Jours_Depuis_Derniere_Vente'].mean():.0f} days"
+        )
 
         # Show category distribution
         print("\n=== REVENUE BY CATEGORY ===")
@@ -199,8 +215,13 @@ class RealDataPromotionModel:
 
         # 0. Rotation factor (high rotation = less need for promotion)
         # Rotation = Ventes totales / Quantité injectée (Achat)
-        if "Ventes_Mensuelles_Unites" in df_calc.columns and "Quantite_Achat" in df_calc.columns:
-            rotation = df_calc["Ventes_Mensuelles_Unites"] / df_calc["Quantite_Achat"].replace(0, np.nan)
+        if (
+            "Ventes_Mensuelles_Unites" in df_calc.columns
+            and "Quantite_Achat" in df_calc.columns
+        ):
+            rotation = df_calc["Ventes_Mensuelles_Unites"] / df_calc[
+                "Quantite_Achat"
+            ].replace(0, np.nan)
             rotation = rotation.fillna(0)
             # Plus la rotation est faible, plus on veut promouvoir
             rotation_factor = np.clip((1 - rotation), 0, 1) * 0.1  # max 10% d'impact
@@ -213,44 +234,62 @@ class RealDataPromotionModel:
         )
         stock_factor = np.clip(
             (stock_months - 3) / 10, 0, 0.3
-        )  #Si le stock couvre plus de 3 mois, on considère que c’est excessif.
+        )  # Si le stock couvre plus de 3 mois, on considère que c’est excessif.
 
         # 2. Calcul de la marge en pourcentage à la volée et du margin_factor dans un seul bloc
-        df_calc["Marge_Pourcentage"] = ((df_calc["Prix_Vente_TND"] - df_calc["Cout_Unitaire_TND"]) / df_calc["Prix_Vente_TND"]) * 100
-        margin_factor = (df_calc["Marge_Pourcentage"] - 30) / 100  # Scale from margin above 30%
+        df_calc["Marge_Pourcentage"] = (
+            (df_calc["Prix_Vente_TND"] - df_calc["Cout_Unitaire_TND"])
+            / df_calc["Prix_Vente_TND"]
+        ) * 100
+        margin_factor = (
+            df_calc["Marge_Pourcentage"] - 30
+        ) / 100  # Scale from margin above 30%
         margin_factor = np.clip(margin_factor, 0, 0.25)  # Max 25% from margin
-      
 
         # 3. Price elasticity factor (calculated from real sales and price changes)
         # Elasticité Prix = (Variation en % de la Quantité Vendue) / (Variation en % du Prix de Vente)
-        if "Ventes_Mensuelles_Unites_Avant" in df_calc.columns and "Ventes_Mensuelles_Unites_Apres" in df_calc.columns and "Prix_Vente_TND_Avant" in df_calc.columns and "Prix_Vente_TND_Apres" in df_calc.columns:
-            variation_qte = (df_calc["Ventes_Mensuelles_Unites_Apres"] - df_calc["Ventes_Mensuelles_Unites_Avant"]) / df_calc["Ventes_Mensuelles_Unites_Avant"].replace(0, np.nan)
-            variation_prix = (df_calc["Prix_Vente_TND_Apres"] - df_calc["Prix_Vente_TND_Avant"]) / df_calc["Prix_Vente_TND_Avant"].replace(0, np.nan)
+        if (
+            "Ventes_Mensuelles_Unites_Avant" in df_calc.columns
+            and "Ventes_Mensuelles_Unites_Apres" in df_calc.columns
+            and "Prix_Vente_TND_Avant" in df_calc.columns
+            and "Prix_Vente_TND_Apres" in df_calc.columns
+        ):
+            variation_qte = (
+                df_calc["Ventes_Mensuelles_Unites_Apres"]
+                - df_calc["Ventes_Mensuelles_Unites_Avant"]
+            ) / df_calc["Ventes_Mensuelles_Unites_Avant"].replace(0, np.nan)
+            variation_prix = (
+                df_calc["Prix_Vente_TND_Apres"] - df_calc["Prix_Vente_TND_Avant"]
+            ) / df_calc["Prix_Vente_TND_Avant"].replace(0, np.nan)
             elasticity = variation_qte / variation_prix.replace(0, np.nan)
             elasticity = elasticity.replace([np.inf, -np.inf], 0).fillna(0)
-            elasticity_factor = np.abs(elasticity) / 5  # Scale elasticity Diviser par 5 permet de "normaliser" ou "réduire" l’impact de l’élasticité pour qu’il ne domine pas le calcul de la promotion
+            elasticity_factor = (
+                np.abs(elasticity) / 5
+            )  # Scale elasticity Diviser par 5 permet de "normaliser" ou "réduire" l’impact de l’élasticité pour qu’il ne domine pas le calcul de la promotion
         else:
             elasticity_factor = np.abs(df_calc["Elasticite_Prix"]) / 5  # fallback
-        elasticity_factor = np.clip(elasticity_factor, 0, 0.3)  # Max 30% from elasticity
+        elasticity_factor = np.clip(
+            elasticity_factor, 0, 0.3
+        )  # Max 30% from elasticity
 
         # 4. Competition pressure factor
         # competition_factor = (
-          #  df_calc["Facteur_Concurrence"] * 0.15
-      #  )  # Max 15% from competition
+        #  df_calc["Facteur_Concurrence"] * 0.15
+        #  )  # Max 15% from competition
 
         # 5. Historical promotion performance
-      #  hist_performance = (
-          #  df_calc["Derniere_Promo_Performance"] - 1
-        #) * 0.1  # Performance above 1x
-        #hist_performance = np.clip(hist_performance, 0, 0.1)  # Max 10% from history
+        #  hist_performance = (
+        #  df_calc["Derniere_Promo_Performance"] - 1
+        # ) * 0.1  # Performance above 1x
+        # hist_performance = np.clip(hist_performance, 0, 0.1)  # Max 10% from history
 
         # 6. Sales trend factor (declining sales = higher promotion)
-        #trend_factor = np.where(
-            #df_calc["Tendance_Ventes_3M"] < 0,
-            #abs(df_calc["Tendance_Ventes_3M"]) * 0.5,
-            #0,
-        #)  # Up to 5% for declining sales
-        #trend_factor = np.clip(trend_factor, 0, 0.1)
+        # trend_factor = np.where(
+        # df_calc["Tendance_Ventes_3M"] < 0,
+        # abs(df_calc["Tendance_Ventes_3M"]) * 0.5,
+        # 0,
+        # )  # Up to 5% for declining sales
+        # trend_factor = np.clip(trend_factor, 0, 0.1)
 
         # Combine all factors using business logic weights
         optimal_promotion = (
@@ -258,9 +297,9 @@ class RealDataPromotionModel:
             + stock_factor * 0.225  # 22.5% weight - inventory management
             + margin_factor * 0.20  # 20% weight - profitability protection
             + elasticity_factor * 0.30  # 30% weight - customer price sensitivity
-            #+ competition_factor * 0.25  # 15% weight - market pressure
-            #+ hist_performance * 0.10  # 10% weight - past performance
-            #+ trend_factor * 0.10  # 10% weight - sales trends
+            # + competition_factor * 0.25  # 15% weight - market pressure
+            # + hist_performance * 0.10  # 10% weight - past performance
+            # + trend_factor * 0.10  # 10% weight - sales trends
         )
 
         # Apply business constraints
@@ -339,7 +378,6 @@ class RealDataPromotionModel:
             "Profit_Mensuel_TND",
             # Stock features
             "Stock_Actuel_Unites",
-            
             "Valeur_Stock_TND",
             # Historical promotion features
             "Historique_Promo_Freq_12M",
@@ -347,7 +385,7 @@ class RealDataPromotionModel:
             "Derniere_Promo_Performance",
             # Market features
             "Elasticite_Prix",
-          #  "Facteur_Concurrence",
+            #  "Facteur_Concurrence",
             "Demande_Saisonniere",
             "Part_Marche_Pct",
             "Force_Marque",
@@ -525,7 +563,7 @@ class RealDataPromotionModel:
         # Calculate expected impact with date-specific factors
         date_features = self.extract_date_features(target_date)
         seasonal_adjustment = date_features["seasonal_demand_multiplier"]
-        #competition_factor = date_features["competition_intensity"]
+        # competition_factor = date_features["competition_intensity"]
 
         # Adjust promotion based on temporal factors
         temporal_adjustment = 1.0
@@ -584,7 +622,7 @@ class RealDataPromotionModel:
             "adjusted_promotion_pct": round(adjusted_promotion * 100, 2),
             "temporal_adjustment_factor": round(temporal_adjustment, 3),
             "seasonal_demand_multiplier": round(seasonal_adjustment, 3),
-            #"competition_intensity": round(competition_factor, 3),
+            # "competition_intensity": round(competition_factor, 3),
             # Current metrics
             "current_price_tnd": round(original_price, 2),
             "current_monthly_volume": int(original_volume),

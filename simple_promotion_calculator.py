@@ -239,7 +239,7 @@ def display_results(result, verbose=False):
         print(f"   Base Promotion: {result['base_promotion_pct']}%")
         print(f"   Temporal Adjustment: {result['temporal_adjustment_factor']:.3f}")
         print(f"   Seasonal Multiplier: {result['seasonal_demand_multiplier']:.3f}")
-        print(f"   Competition Intensity: {result['competition_intensity']:.3f}")
+        # print(f"   Competition Intensity: {result['competition_intensity']:.3f}")
         print(f"   Current Margin: {result['current_margin_pct']:.1f}%")
     
     # Risk warning
