@@ -144,7 +144,8 @@ class RealDataPromotionModel:
     def _calculate_competition_intensity(self, date):
         """Calculate competition intensity based on time of year"""
         if date.month in [7, 8, 12]:  # Summer and December
-            return 0.9  # High competition        elif date.month in [6, 9, 11]:  # Pre-peak seasons
+            return 0.9  # High competition
+        elif date.month in [6, 9, 11]:  # Pre-peak seasons
             return 0.7  # Medium competition
         else:
             return 0.5  # Normal competition
@@ -181,14 +182,24 @@ class RealDataPromotionModel:
         print(f"Total Stock Value: {df['Valeur_Stock_TND'].sum():,.2f} TND")
         print(f"Average Price Elasticity: {df['Elasticite_Prix'].mean():.2f}")
 
-        # Show date-based features
+        # Show date-based features with proper date conversion
         print(f"\n=== DATE-BASED FEATURES ===")
-        print(
-            f"Purchase Date Range: {df['Date_Achat'].min()} to {df['Date_Achat'].max()}"
-        )
-        print(
-            f"Sales Date Range: {df['Date_Derniere_Vente'].min()} to {df['Date_Derniere_Vente'].max()}"
-        )
+
+        # Convert date columns to datetime if they aren't already
+        try:
+            df["Date_Achat"] = pd.to_datetime(df["Date_Achat"])
+            df["Date_Derniere_Vente"] = pd.to_datetime(df["Date_Derniere_Vente"])
+
+            print(
+                f"Purchase Date Range: {df['Date_Achat'].min().strftime('%Y-%m-%d')} to {df['Date_Achat'].max().strftime('%Y-%m-%d')}"
+            )
+            print(
+                f"Sales Date Range: {df['Date_Derniere_Vente'].min().strftime('%Y-%m-%d')} to {df['Date_Derniere_Vente'].max().strftime('%Y-%m-%d')}"
+            )
+        except Exception as e:
+            print(f"Warning: Could not process date columns: {e}")
+            print("Date columns will be displayed as-is without range analysis")
+
         print(
             f"Average Days Since Purchase: {df['Jours_Depuis_Achat'].mean():.0f} days"
         )
