@@ -1,0 +1,1001 @@
+Id,CodeArticle,CodeBarre,Libelle,CodeDim1,LibelleDim1,CodeDim2,LibelleDim2,Fournisseur,FamilleNiv1,FamilleNiv2,FamilleNiv3,FamilleNiv4,FamilleNiv5,FamilleNiv6,FamilleNiv7,FamilleNiv8,Quantite_Achat,DateLibre,Prix_Vente_TND,Prix_Achat_TND,IdCategorie
+1,ART000001,9826224447213,Danone Lampe oiseau,DIM1-72,know,DIM2-69,member,Monoprix,Maroquinerie,lisser,yet,sorte,phone,passer,content,according,55,2023-09-16,1796.16,1207.74,CAT026
+2,ART000002,5756924593757,Adidas Machine à laver million,DIM1-64,film,DIM2-12,parent,Délice Danone,Cosmétiques,imaginer,fast,his,résister,satisfaire,user,paysage,20,2023-12-07,1256.75,860.16,CAT044
+3,ART000003,1672434266179,IKEA Télévision pass,DIM1-49,nor,DIM2-77,of,Modern Leasing,Bijouterie,lieu,chien,titre,compare,résistance,soldier,style,33,2023-03-24,1942.3,1429.64,CAT001
+4,ART000004,1438889937565,Nivea Réfrigérateur sport,DIM1-69,joindre,DIM2-97,plus,Monoprix,Librairie,garde,wife,clef,juge,gun,still,prouver,15,2023-09-28,590.53,407.91,CAT011
+5,ART000005,1775140105128,Danone Thé profiter,DIM1-34,religion,DIM2-65,indiquer,One Tech Group,Bijouterie,maintain,monde,digne,individual,simple,parfois,improve,14,2024-07-01,1741.68,1338.19,CAT020
+6,ART000006,3419182553711,L'Oréal Shampoing religious,DIM1-26,news,DIM2-20,picture,Aziza,Électronique,popular,people,journée,through,prepare,trésor,why,70,2024-06-06,1907.23,1494.69,CAT034
+7,ART000007,5134125286690,Bosch Fromage révolution,DIM1-63,land,DIM2-3,point,Yazaki Tunisia,Santé,remplir,pont,challenge,hauteur,president,lier,poésie,40,2023-06-01,482.71,374.39,CAT016
+8,ART000008,8876767721906,Apple Télévision fruit,DIM1-94,fin,DIM2-63,rapide,SOTUMAG,Chaussures,concern,others,often,réveiller,fenêtre,occur,ouvert,99,2023-11-27,255.89,177.86,CAT043
+9,ART000009,3407451713393,LG Yaourt traditional,DIM1-34,company,DIM2-68,eaux,Arab Tunisian Bank,Informatique,banc,no,picture,idée,figure,toward,content,28,2024-12-14,1858.18,1386.18,CAT049
+10,ART000010,4223253672947,Danone Table how,DIM1-40,bag,DIM2-52,mois,Aziza,Téléphonie,run,look,generation,certain,prove,to,quoi,67,2023-06-19,905.71,584.13,CAT016
+11,ART000011,3745458929752,Samsung Cahier aucun,DIM1-76,sou,DIM2-71,admit,Orange Tunisie,Maroquinerie,danser,loss,nul,vérité,tempête,cold,better,29,2023-07-14,19.35,14.05,CAT046
+12,ART000012,5206436110374,Apple Lampe conseil,DIM1-5,propos,DIM2-43,act,SOTUMAG,Bijouterie,vieux,technology,nommer,plaire,ensuite,behind,chasse,31,2023-10-13,560.56,360.35,CAT032
+13,ART000013,2622189092751,Danone Machine à laver souffrir,DIM1-74,mur,DIM2-74,trade,Attijari Bank,Maison & Jardin,cause,côte,saluer,have,forward,étonner,quite,61,2023-07-12,1615.96,1000.06,CAT013
+14,ART000014,0438983640379,IKEA Jus budget,DIM1-46,précipiter,DIM2-55,quartier,UTIC,Téléphonie,lisser,cause,traditional,history,petit,aimer,agiter,94,2023-06-17,113.07,90.1,CAT042
+15,ART000015,0684866618892,Samsung Réfrigérateur flamme,DIM1-52,habitant,DIM2-94,prince,Géant,Cosmétiques,d'abord,include,habiter,show,avoir,casser,business,32,2024-04-20,387.22,267.07,CAT035
+16,ART000016,4210202758845,LG T-shirt madame,DIM1-36,ferme,DIM2-60,appel,Orange Tunisie,Hygiène,surface,expert,fait,pourtant,much,around,town,57,2023-10-13,1617.0,1001.86,CAT036
+17,ART000017,4191380003074,Adidas Eau identify,DIM1-2,dessiner,DIM2-12,remercier,Orange Tunisie,Électronique,door,energy,whole,experience,réussir,call,dessus,53,2024-09-16,973.85,752.72,CAT014
+18,ART000018,6174451870537,LG Ordinateur organization,DIM1-49,sister,DIM2-1,pendant,Senia,Sport & Loisirs,perhaps,spring,réfléchir,cri,mouvement,envelopper,provide,59,2023-09-18,574.07,454.36,CAT045
+19,ART000019,6413836702415,Nivea Yaourt entrée,DIM1-92,school,DIM2-63,low,Leoni AG,Électroménager,roman,présenter,suivant,bad,oiseau,éprouver,every,38,2024-12-20,439.31,314.47,CAT004
+20,ART000020,5574313291219,Samsung Yaourt parfois,DIM1-96,former,DIM2-41,camera,Délice Danone,Boissons,speech,partager,major,together,cent,vendre,the,75,2023-06-17,956.19,603.82,CAT034
+21,ART000021,2135680442067,Apple Shampoing only,DIM1-24,cerveau,DIM2-9,blue,Arab Tunisian Bank,Hygiène,commencement,bas,confondre,miser,rich,rose,whose,87,2023-01-17,1724.33,1075.94,CAT026
+22,ART000022,3721510702969,Sony Pain model,DIM1-75,mari,DIM2-77,consider,Délice Danone,Parfumerie,difficult,fin,like,arme,tapis,moment,us,11,2023-02-17,841.35,599.92,CAT038
+23,ART000023,4626383806570,Philips Cahier guy,DIM1-27,important,DIM2-86,couple,Géant,Maison & Jardin,honneur,appel,article,next,speak,davantage,étonner,34,2023-07-27,794.59,579.34,CAT043
+24,ART000024,3965223955902,Bosch Pantalon yourself,DIM1-97,résistance,DIM2-10,position,Groupe Poulina,Téléphonie,continue,always,avenir,semblable,alors,a,whose,80,2024-09-18,1996.92,1227.41,CAT007
+25,ART000025,5250029218510,Adidas Table sea,DIM1-34,peace,DIM2-17,intérieur,Aziza,Hygiène,future,dans,strong,range,contain,dog,malheur,32,2024-07-24,742.21,510.37,CAT011
+26,ART000026,2209690295934,Danone Yaourt pourtant,DIM1-39,inquiéter,DIM2-79,espace,BIAT,Alimentation,front,sueur,volonté,likely,faute,étranger,justice,86,2024-09-03,1635.12,1285.78,CAT020
+27,ART000027,0067626765867,LG Réfrigérateur planche,DIM1-34,déclarer,DIM2-15,back,Yazaki Tunisia,Chaussures,gagner,homme,book,jeter,maître,branche,inutile,20,2024-07-01,548.33,352.1,CAT039
+28,ART000028,6296201533681,Sony Cahier recent,DIM1-88,finish,DIM2-82,chacun,Monoprix,Bijouterie,mer,class,lire,nuit,gagner,decision,animer,63,2023-05-13,505.99,312.93,CAT004
+29,ART000029,1714677418622,Coca-Cola T-shirt value,DIM1-36,hope,DIM2-6,paquet,Groupe Poulina,Librairie,falloir,make,draw,organization,crier,cas,system,99,2024-08-10,265.99,168.19,CAT017
+30,ART000030,8068687937417,Adidas Pantalon weight,DIM1-91,prendre,DIM2-55,comme,STB,Alimentation,consumer,effacer,comprendre,note,vaincre,defense,scène,15,2023-09-06,155.11,121.11,CAT045
+31,ART000031,1686854870991,Samsung Yaourt budget,DIM1-48,citizen,DIM2-75,reste,STB,Vêtements,chemin,fou,understand,everything,real,owner,always,56,2023-08-02,259.25,174.46,CAT020
+32,ART000032,2996065307452,Bosch Ordinateur interrompre,DIM1-27,foreign,DIM2-88,threat,Orange Tunisie,Cosmétiques,toward,ensemble,glace,staff,exist,point,direction,46,2023-06-14,1561.33,1240.89,CAT027
+33,ART000033,7850821486285,LG Thé dernier,DIM1-31,drame,DIM2-21,étranger,One Tech Group,Informatique,passage,lire,fils,than,mouth,prove,usage,4,2023-07-07,362.82,274.47,CAT022
+34,ART000034,7972798552418,Nestlé T-shirt ahead,DIM1-86,appear,DIM2-95,rêve,Orange Tunisie,Sport & Loisirs,encore,trouver,fermer,must,vague,pièce,tapis,21,2024-04-11,1575.81,1066.05,CAT007
+35,ART000035,3494466574378,Coca-Cola Ordinateur research,DIM1-61,pattern,DIM2-29,acheter,Tunisie Telecom,Téléphonie,option,fire,plonger,intérieur,push,training,every,45,2023-05-27,613.86,395.68,CAT015
+36,ART000036,8309652074462,Sony Jus important,DIM1-52,rouge,DIM2-43,jeune,Monoprix,Hygiène,vendre,what,movement,through,titre,fumer,petit,99,2024-07-29,561.85,394.35,CAT042
+37,ART000037,8251353465547,Coca-Cola Jus major,DIM1-69,peser,DIM2-43,spectacle,Groupe Poulina,Cosmétiques,peuple,précis,unique,next,job,cri,douze,34,2023-11-14,361.24,219.51,CAT017
+38,ART000038,2521752500740,IKEA Fromage demande,DIM1-45,pont,DIM2-94,confiance,Géant,Informatique,property,international,me,above,quitter,maintenant,humain,78,2023-01-14,1968.55,1332.79,CAT008
+39,ART000039,3354216894210,Sony Pain général,DIM1-33,lose,DIM2-6,leader,UTIC,Alimentation,jeu,her,défendre,after,enfermer,écrire,saluer,67,2023-04-06,1851.52,1365.26,CAT035
+40,ART000040,0648909010012,Danone Thé life,DIM1-86,candidate,DIM2-26,matter,Aziza,Informatique,durant,glisser,recently,toujours,prevent,ni,prince,9,2023-08-08,1898.0,1375.35,CAT022
+41,ART000041,1739348356423,Coca-Cola Jus regard,DIM1-16,whether,DIM2-93,véritable,Carrefour Tunisie,Bijouterie,give,absolu,traverser,choix,church,prince,chanter,40,2024-05-15,1335.45,908.75,CAT021
+42,ART000042,7447012045569,Adidas Stylo cesse,DIM1-17,admettre,DIM2-25,tourner,UTIC,Bébé & Enfant,imposer,wall,pretty,unit,main,cover,miser,87,2023-12-21,1497.53,1082.87,CAT012
+43,ART000043,6762120216979,IKEA Stylo course,DIM1-71,start,DIM2-1,population,Carrefour Tunisie,Automobiles,valoir,plusieurs,budget,let,beau,real,actually,27,2024-06-04,862.63,622.24,CAT038
+44,ART000044,8891637562892,Nike Cahier afin de,DIM1-57,présenter,DIM2-57,together,Tunisie Telecom,Bijouterie,true,branche,full,indiquer,apply,rejoindre,interesting,61,2023-03-03,1588.5,1007.01,CAT048
+45,ART000045,7971775170164,Philips Télévision also,DIM1-66,centre,DIM2-85,voice,Arab Tunisian Bank,Librairie,terre,growth,that,énergie,glass,sense,sense,12,2023-03-30,1637.75,1059.58,CAT049
+46,ART000046,3055488510272,Sony Stylo mourir,DIM1-26,exécuter,DIM2-19,direction,Groupe Poulina,Boissons,mer,passé,inutile,nature,souvenir,parmi,reason,32,2024-01-23,1967.95,1515.22,CAT040
+47,ART000047,8086978292212,Nike Télévision really,DIM1-54,mother,DIM2-81,kid,Amen Bank,Électroménager,fille,gun,local,convenir,play,threat,seek,92,2023-06-06,1394.23,947.98,CAT032
+48,ART000048,9452288515874,Nivea Machine à laver represent,DIM1-89,understand,DIM2-1,system,Yazaki Tunisia,Informatique,puis,animal,check,travail,doux,social,foule,29,2023-04-24,355.89,250.4,CAT045
+49,ART000049,4380571983862,Adidas Ordinateur prière,DIM1-32,room,DIM2-16,marcher,Modern Leasing,Vêtements,keep,old,agent,degree,themselves,souvenir,someone,60,2024-08-25,1336.82,961.29,CAT036
+50,ART000050,4721228160647,L'Oréal Pantalon case,DIM1-93,rouler,DIM2-65,accept,UTIC,Chaussures,man,aspect,humide,sorte,military,baby,never,58,2023-05-23,1794.93,1386.22,CAT048
+51,ART000051,8268861533552,Philips Pantalon finally,DIM1-97,soirée,DIM2-32,option,Monoprix,Bijouterie,clair,like,surveiller,aspect,I,mauvais,now,63,2023-01-20,1255.36,863.66,CAT018
+52,ART000052,8877043581122,Philips Café soudain,DIM1-31,écraser,DIM2-35,veille,Géant,Librairie,thing,durer,radio,vendre,anglais,series,always,70,2023-02-26,165.75,107.12,CAT010
+53,ART000053,2481934667664,LG Café adult,DIM1-91,report,DIM2-28,race,SOTUMAG,Informatique,surprendre,ruine,vision,liberté,frapper,policy,fonder,53,2023-10-24,665.11,454.37,CAT030
+54,ART000054,0728326842455,Coca-Cola Table remettre,DIM1-54,commun,DIM2-50,accomplir,Amen Bank,Alimentation,note,grand,jeunesse,naissance,debout,en,daughter,98,2023-05-21,1153.5,693.46,CAT031
+55,ART000055,8781414139754,Philips Sac career,DIM1-97,changement,DIM2-50,president,UTIC,Chaussures,doigt,mention,get,rule,respirer,system,later,96,2023-01-04,1470.59,1146.42,CAT039
+56,ART000056,3364525777548,Sony Parfum ok,DIM1-35,descendre,DIM2-56,fonction,Attijari Bank,Alimentation,rappeler,falloir,bras,presser,rond,specific,arrière,50,2024-02-27,675.58,513.19,CAT044
+57,ART000057,2563942788163,LG Thé morning,DIM1-60,tour,DIM2-17,simple,Arab Tunisian Bank,Chaussures,problème,par,dessiner,plutôt,amount,poitrine,battre,4,2023-10-14,1814.32,1293.39,CAT038
+58,ART000058,0385677005184,Apple Smartphone they,DIM1-83,particular,DIM2-55,malade,Leoni AG,Téléphonie,history,profondément,however,profond,head,message,very,24,2024-01-25,105.32,70.09,CAT025
+59,ART000059,7231843222592,Bosch Pantalon ton,DIM1-44,naturel,DIM2-98,service,Senia,Sport & Loisirs,plonger,measure,sang,tapis,age,atteindre,revenir,97,2023-04-15,1902.65,1237.59,CAT027
+60,ART000060,9202428699045,Nike Télévision embrasser,DIM1-3,policy,DIM2-96,trip,STB,Boissons,conference,moyen,rose,son,computer,win,pick,45,2023-06-28,452.32,342.07,CAT005
+61,ART000061,6210388629128,Samsung Eau week,DIM1-97,quelqu'un,DIM2-4,certain,Orange Tunisie,Électroménager,receive,sentier,tuer,nearly,hospital,ville,drop,3,2024-09-05,1244.56,778.15,CAT016
+62,ART000062,5991624731492,Apple Jus even,DIM1-73,accord,DIM2-28,risquer,Modern Leasing,Sport & Loisirs,proposer,maître,ventre,issue,both,nouveau,every,99,2024-03-14,740.95,534.56,CAT039
+63,ART000063,9463688725886,Danone Thé environment,DIM1-15,participant,DIM2-100,staff,One Tech Group,Automobiles,simply,tombe,entier,stay,changer,prêter,stock,14,2024-09-14,1159.48,829.21,CAT020
+64,ART000064,2601279611430,IKEA Chaussures base,DIM1-92,masse,DIM2-26,positive,SOTUMAG,Maroquinerie,seek,dès,leg,droit,day,secrétaire,situation,89,2024-06-07,1661.99,1031.07,CAT016
+65,ART000065,5302146566934,Coca-Cola Stylo voie,DIM1-88,celui,DIM2-77,she,Yazaki Tunisia,Maroquinerie,hand,draw,parvenir,paper,faible,montrer,repas,6,2024-01-26,697.67,510.91,CAT028
+66,ART000066,5184894769733,Adidas Télévision stand,DIM1-83,responsibility,DIM2-44,watch,Groupe Poulina,Informatique,pluie,expression,mari,troubler,hésiter,head,vision,63,2023-07-12,215.55,156.73,CAT024
+67,ART000067,1651827553942,Danone Pantalon vaincre,DIM1-20,précéder,DIM2-56,envoyer,One Tech Group,Bijouterie,faute,entendre,étranger,clearly,commander,trop,positive,84,2024-08-16,543.81,410.54,CAT035
+68,ART000068,7595794728467,IKEA Pantalon rire,DIM1-94,avancer,DIM2-76,mean,Monoprix,Librairie,préparer,indeed,passé,vingt,four,âgé,manquer,32,2023-09-10,1662.31,1090.12,CAT006
+69,ART000069,9428434795520,Sony Pantalon language,DIM1-97,noir,DIM2-60,his,Amen Bank,Parfumerie,far,couple,rideau,changement,summer,rencontre,total,86,2023-06-02,761.08,531.89,CAT002
+70,ART000070,2702672885746,LG Cahier or,DIM1-63,million,DIM2-28,verser,Aziza,Sport & Loisirs,bande,exécuter,those,parler,ever,here,guy,44,2023-11-16,562.92,416.69,CAT039
+71,ART000071,5939982455872,Adidas Livre visit,DIM1-2,marche,DIM2-67,major,Tunisie Telecom,Hygiène,demain,know,time,ça,jeune,haut,read,31,2024-07-05,1441.55,1024.99,CAT032
+72,ART000072,9647598762203,Danone Lampe envoyer,DIM1-61,yeah,DIM2-83,écraser,Attijari Bank,Téléphonie,militaire,cesser,phrase,année,need,chasser,prepare,3,2023-03-07,190.64,129.8,CAT015
+73,ART000073,4334722820056,Philips Lampe treat,DIM1-85,manage,DIM2-75,official,Aziza,Jouets,central,sans,program,need,when,meet,cela,71,2023-08-28,1064.19,850.64,CAT028
+74,ART000074,6424008254786,Bosch Yaourt ventre,DIM1-46,your,DIM2-90,firm,Modern Leasing,Sport & Loisirs,obtenir,picture,accuser,current,us,indicate,découvrir,40,2024-10-05,506.55,377.0,CAT008
+75,ART000075,3416389448468,Apple Cahier billet,DIM1-96,continuer,DIM2-69,bring,One Tech Group,Électroménager,prepare,expert,cup,after,autant,difficile,force,28,2023-04-08,1478.52,1101.37,CAT018
+76,ART000076,0312073564755,L'Oréal Shampoing same,DIM1-37,inconnu,DIM2-13,cours,Tunisie Telecom,Automobiles,faux,away,course,être,them,commencer,matière,30,2023-07-11,724.96,437.03,CAT020
+77,ART000077,3718376452084,LG Yaourt éviter,DIM1-36,pull,DIM2-6,decide,Délice Danone,Chaussures,very,tracer,cinq,souvenir,garden,delà,pattern,38,2023-11-04,1396.35,1015.95,CAT009
+78,ART000078,0097925132718,Apple Parfum word,DIM1-2,bande,DIM2-74,quite,Carrefour Tunisie,Jouets,visite,composer,early,open,support,significant,ami,62,2023-10-06,883.74,700.89,CAT012
+79,ART000079,4077848739283,Coca-Cola Livre game,DIM1-62,face,DIM2-15,blanc,SOTUMAG,Bébé & Enfant,parfois,ten,number,long,suivre,similar,aller,63,2024-08-25,152.79,112.65,CAT041
+80,ART000080,5186387829450,LG Machine à laver put,DIM1-73,bring,DIM2-39,puis,SOTUMAG,Maison & Jardin,attendre,désormais,droit,poids,champ,réunir,really,16,2024-02-13,1118.36,806.63,CAT027
+81,ART000081,0539103717053,Sony Fromage term,DIM1-100,study,DIM2-67,soi,Senia,Téléphonie,newspaper,blond,bank,propos,chanter,quelqu'un,customer,57,2024-02-13,598.22,477.38,CAT038
+82,ART000082,9288619576128,L'Oréal Stylo rejeter,DIM1-80,mother,DIM2-8,really,Arab Tunisian Bank,Cosmétiques,quitter,worker,weight,oil,through,itself,that,98,2024-04-17,419.54,273.93,CAT014
+83,ART000083,9836845776005,LG Télévision pick,DIM1-31,promener,DIM2-23,goût,STB,Hygiène,glace,élément,age,wide,cerveau,pauvre,clearly,21,2023-07-25,10.34,7.63,CAT029
+84,ART000084,9334419693159,Philips Parfum consumer,DIM1-5,that,DIM2-30,science,Carrefour Tunisie,Automobiles,always,bar,intelligence,until,keep,ennemi,souvent,90,2023-02-12,1719.92,1268.4,CAT005
+85,ART000085,8058925832062,Nestlé Livre soldier,DIM1-81,endormir,DIM2-76,figure,Tunisie Telecom,Informatique,choose,intérieur,place,regard,everybody,mince,staff,15,2024-08-14,1091.4,687.36,CAT042
+86,ART000086,7837693898330,Coca-Cola Livre faux,DIM1-19,game,DIM2-10,ciel,Délice Danone,Électronique,land,happen,hors,phone,grand,juste,price,40,2023-12-09,1192.11,934.9,CAT037
+87,ART000087,3352110392405,Apple Pantalon rule,DIM1-60,grand,DIM2-89,market,Carrefour Tunisie,Bébé & Enfant,inquiétude,rapide,drôle,official,prevent,vieillard,malade,35,2023-07-18,1003.44,689.92,CAT032
+88,ART000088,0439407016459,Samsung Fromage allumer,DIM1-56,trip,DIM2-95,during,Géant,Parfumerie,movie,hésiter,trial,digne,préférer,option,aspect,33,2024-12-17,56.6,44.85,CAT015
+89,ART000089,5762055543844,L'Oréal Pain sortir,DIM1-3,unit,DIM2-98,voice,Monoprix,Maroquinerie,remplir,down,je,realize,ce,near,neuf,6,2024-03-20,1527.4,1060.17,CAT012
+90,ART000090,6495782329830,Nike Eau guerre,DIM1-36,observer,DIM2-24,tête,Amen Bank,Informatique,histoire,rentrer,devoir,those,appel,up,its,82,2023-12-11,1629.42,1130.82,CAT006
+91,ART000091,2312209949997,Bosch T-shirt sec,DIM1-42,entraîner,DIM2-86,lier,Yazaki Tunisia,Électronique,véritable,center,seem,create,million,certain,docteur,43,2023-01-26,826.23,543.36,CAT032
+92,ART000092,0463331279758,Coca-Cola Chaussures very,DIM1-98,nuit,DIM2-71,stand,Délice Danone,Téléphonie,seul,service,indeed,protéger,part,the,étendre,12,2024-07-25,632.46,394.14,CAT021
+93,ART000093,8680347644727,Coca-Cola Chaussures financial,DIM1-66,vers,DIM2-1,pencher,STB,Téléphonie,believe,détacher,mériter,game,ago,partir,parvenir,53,2023-07-14,113.14,76.07,CAT034
+94,ART000094,2111751868929,Nivea Parfum oil,DIM1-57,animal,DIM2-98,intéresser,Délice Danone,Électroménager,décider,dessiner,noir,for,fight,colère,droite,35,2024-04-28,1100.69,756.86,CAT019
+95,ART000095,0777809733971,Nike Café it,DIM1-16,base,DIM2-4,été,Arab Tunisian Bank,Maison & Jardin,president,aussitôt,couvrir,terme,although,après,glass,91,2023-02-08,320.96,193.45,CAT036
+96,ART000096,6224999827958,Apple T-shirt certain,DIM1-29,future,DIM2-15,water,Modern Leasing,Cosmétiques,ten,nuit,fuir,center,vieil,girl,network,83,2024-06-24,1665.13,1309.68,CAT032
+97,ART000097,9019817946952,Adidas Stylo never,DIM1-91,within,DIM2-35,simplement,UTIC,Jouets,nature,mind,si,volonté,daughter,colon,pénétrer,61,2024-07-26,491.24,308.95,CAT036
+98,ART000098,9660558303445,L'Oréal Table groupe,DIM1-66,move,DIM2-96,speak,Leoni AG,Hygiène,circonstance,growth,shake,descendre,inconnu,win,whom,36,2024-09-11,1546.49,1033.02,CAT027
+99,ART000099,2727857608491,Philips Shampoing one,DIM1-1,éclairer,DIM2-37,successful,Carrefour Tunisie,Maroquinerie,attorney,fonction,inviter,produce,réunir,culture,guère,75,2024-07-05,1997.81,1544.41,CAT032
+100,ART000100,4617357438422,Adidas Pantalon mais,DIM1-62,droit,DIM2-45,paix,Géant,Chaussures,plus,disparaître,wind,significant,stand,character,profond,98,2023-06-09,1089.14,856.69,CAT030
+101,ART000101,7681040915702,Danone Table protéger,DIM1-31,agency,DIM2-74,purpose,Senia,Maison & Jardin,hôtel,dix,factor,spring,remain,figurer,dans,100,2023-03-30,824.5,617.5,CAT021
+102,ART000102,9881385854249,Nestlé Café départ,DIM1-49,haine,DIM2-50,now,Leoni AG,Jouets,apply,appartenir,weight,chemin,arm,nu,country,5,2024-04-23,256.86,171.17,CAT038
+103,ART000103,4538179217173,Coca-Cola Réfrigérateur return,DIM1-57,many,DIM2-13,enfant,BIAT,Téléphonie,soi,while,including,violent,story,long,all,2,2024-01-05,1446.28,1119.69,CAT027
+104,ART000104,5772459928161,Apple Machine à laver imaginer,DIM1-61,goût,DIM2-34,institution,Géant,Parfumerie,edge,regard,pluie,attorney,detail,still,our,89,2024-02-27,797.98,614.73,CAT006
+105,ART000105,2197199758176,Coca-Cola Jus groupe,DIM1-69,available,DIM2-49,veille,Géant,Jouets,generation,quite,cent,corde,course,particulier,in,70,2023-06-01,76.62,49.57,CAT005
+106,ART000106,5494651909860,Philips Jus fusil,DIM1-30,l'une,DIM2-96,abandonner,SOTUMAG,Informatique,break,tree,épais,scientist,process,seek,into,13,2023-12-05,1521.94,1178.77,CAT046
+107,ART000107,2723865624225,LG Pantalon bois,DIM1-89,couper,DIM2-39,really,Groupe Poulina,Boissons,century,contre,trade,wall,price,partout,old,42,2023-10-26,1593.31,1070.21,CAT019
+108,ART000108,3269097384685,LG T-shirt along,DIM1-32,retenir,DIM2-68,sea,UTIC,Maroquinerie,budget,rock,coucher,make,puis,éteindre,professor,88,2024-06-15,1586.08,1007.18,CAT011
+109,ART000109,9058077879563,Coca-Cola Fromage success,DIM1-49,figure,DIM2-80,armer,Orange Tunisie,Jouets,short,ask,particular,révéler,théâtre,table,frais,75,2023-03-06,290.52,211.38,CAT030
+110,ART000110,8144294440196,Philips Pantalon santé,DIM1-86,toit,DIM2-2,hope,Modern Leasing,Automobiles,faim,poète,quart,jeune,courant,poursuivre,speech,87,2023-07-04,1095.46,754.06,CAT005
+111,ART000111,2395041027672,L'Oréal Sac maybe,DIM1-39,manquer,DIM2-82,matter,UTIC,Sport & Loisirs,check,actually,within,idea,next,chaise,three,59,2024-04-19,1691.38,1352.89,CAT013
+112,ART000112,5441496739381,Apple Parfum research,DIM1-31,haut,DIM2-49,trente,Amen Bank,Santé,bientôt,muet,pur,veille,have,forme,data,74,2023-01-19,595.27,392.31,CAT045
+113,ART000113,0939111926926,IKEA Jus vieux,DIM1-36,éviter,DIM2-2,manage,Amen Bank,Boissons,supérieur,win,specific,role,even,bouche,standard,78,2023-10-25,1491.62,1126.39,CAT019
+114,ART000114,5044271739622,L'Oréal Lampe boy,DIM1-46,rassurer,DIM2-29,discover,Tunisie Telecom,Parfumerie,ouvrage,board,bonheur,réussir,standard,after,church,33,2024-12-25,1357.14,1022.6,CAT047
+115,ART000115,6425690877666,Coca-Cola Jus rare,DIM1-18,absolument,DIM2-81,risk,Yazaki Tunisia,Boissons,campaign,goal,institution,sous,lors,be,soon,40,2024-05-18,1578.28,1129.91,CAT003
+116,ART000116,2806346157174,LG Thé côte,DIM1-12,docteur,DIM2-38,sauvage,Géant,Informatique,politique,at,money,admit,inviter,interrompre,monsieur,23,2023-06-14,405.59,314.45,CAT035
+117,ART000117,8293102707904,Adidas Sac visite,DIM1-65,ah,DIM2-35,soutenir,One Tech Group,Sport & Loisirs,gros,passage,sans,chemise,poussière,beau,nouveau,62,2024-09-22,1934.93,1449.87,CAT019
+118,ART000118,5198253092516,Nestlé Cahier fille,DIM1-15,naturellement,DIM2-60,vif,SOTUMAG,Vêtements,on,oser,rond,considérer,sous,star,aile,97,2023-03-04,1933.17,1439.91,CAT044
+119,ART000119,0219467232484,Coca-Cola Chaussures its,DIM1-72,derrière,DIM2-47,sec,SOTUMAG,Bébé & Enfant,précipiter,souffler,happen,above,divers,quel,soit,2,2024-11-01,532.59,368.0,CAT008
+120,ART000120,7340312772206,Danone Jus taille,DIM1-87,feel,DIM2-34,oiseau,Amen Bank,Bébé & Enfant,good,animal,autrefois,danser,poète,boire,papa,82,2023-11-22,1880.88,1382.39,CAT007
+121,ART000121,5315313636316,Samsung Parfum pay,DIM1-80,arm,DIM2-72,check,Géant,Parfumerie,si,could,hour,passer,sous,expect,intérêt,29,2023-01-25,1297.07,991.96,CAT041
+122,ART000122,4217762534926,Philips Café risquer,DIM1-84,cause,DIM2-53,tough,Yazaki Tunisia,Vêtements,training,santé,third,family,nul,étonner,leader,6,2024-11-23,1892.79,1512.69,CAT020
+123,ART000123,9060078068679,Apple Réfrigérateur parti,DIM1-31,effect,DIM2-69,répandre,Leoni AG,Bébé & Enfant,vide,discover,lien,edge,aile,relationship,color,59,2024-10-28,745.17,550.9,CAT048
+124,ART000124,7726257016580,IKEA Yaourt gauche,DIM1-76,soldier,DIM2-96,save,Leoni AG,Informatique,vaste,soleil,simply,produire,view,chose,history,84,2024-04-25,202.55,146.47,CAT032
+125,ART000125,5528183253815,Samsung Livre sing,DIM1-89,enfoncer,DIM2-48,head,Tunisie Telecom,Téléphonie,most,factor,beau,hair,mention,perte,live,57,2024-09-13,1901.36,1178.6,CAT024
+126,ART000126,3711624112419,Bosch Jus pourtant,DIM1-70,du,DIM2-83,fumée,Aziza,Boissons,rest,pièce,kitchen,sing,front,battre,entrer,51,2023-11-16,555.38,438.64,CAT008
+127,ART000127,5798877492428,Apple Pantalon dream,DIM1-85,hot,DIM2-28,speech,Arab Tunisian Bank,Alimentation,couvrir,feel,compare,vrai,court,voler,début,7,2023-04-01,1574.66,1256.21,CAT016
+128,ART000128,5927452380557,Sony Pain main,DIM1-9,notice,DIM2-98,quinze,STB,Électroménager,campaign,mon,special,passion,clearly,réel,radio,76,2024-01-04,435.82,290.13,CAT015
+129,ART000129,9297517028141,Nestlé Machine à laver moi,DIM1-77,par,DIM2-1,best,Monoprix,Vêtements,around,rouge,fleur,an,rapidement,research,principe,17,2023-06-01,1082.73,673.44,CAT012
+130,ART000130,5998056265656,LG Smartphone fort,DIM1-2,have,DIM2-46,like,Orange Tunisie,Maroquinerie,elle,site,suggest,fight,notre,chair,couper,42,2023-08-24,36.48,22.27,CAT017
+131,ART000131,8519610646284,IKEA Thé see,DIM1-68,douter,DIM2-15,marcher,SOTUMAG,Jouets,once,and,they,minute,door,absolu,fait,58,2024-05-12,1557.14,1119.17,CAT033
+132,ART000132,1462730147193,Adidas Pantalon party,DIM1-29,others,DIM2-79,trouble,Délice Danone,Bijouterie,production,rule,maintenant,face,rond,cours,main,39,2023-10-05,918.79,562.45,CAT002
+133,ART000133,0456504481836,Coca-Cola Parfum cerveau,DIM1-52,recommencer,DIM2-55,turn,Yazaki Tunisia,Jouets,the,experience,big,than,agent,promettre,hotel,92,2023-11-17,1819.85,1419.22,CAT005
+134,ART000134,2132833898887,L'Oréal Cahier neuf,DIM1-19,whom,DIM2-9,coeur,Leoni AG,Sport & Loisirs,ainsi,happen,rock,chair,voice,consider,air,80,2023-06-22,1267.99,941.39,CAT036
+135,ART000135,2342321611076,L'Oréal Chaussures and,DIM1-68,cheval,DIM2-38,tomber,Modern Leasing,Bijouterie,personne,éviter,besoin,region,chaîne,semblable,saint,78,2023-05-24,863.25,537.7,CAT045
+136,ART000136,0124955289386,Nivea Eau champ,DIM1-99,que,DIM2-71,distinguer,Tunisie Telecom,Informatique,Congress,champ,présence,hit,où,détruire,hundred,58,2023-06-16,1776.74,1186.48,CAT027
+137,ART000137,6151718275489,IKEA Pantalon camarade,DIM1-54,minute,DIM2-94,matière,Yazaki Tunisia,Librairie,loss,right,draw,fill,current,place,country,55,2024-06-07,628.48,424.14,CAT017
+138,ART000138,1678112669126,Nivea Machine à laver loin,DIM1-61,inventer,DIM2-9,scène,SOTUMAG,Hygiène,can,nourrir,family,something,heart,reflect,memory,12,2023-04-25,866.59,648.0,CAT048
+139,ART000139,1147732010170,Adidas Machine à laver dessiner,DIM1-8,point,DIM2-76,claim,STB,Chaussures,pretty,briser,structure,defense,recently,military,occur,43,2024-09-20,1341.68,899.89,CAT027
+140,ART000140,0616756770021,Nestlé Jus usually,DIM1-55,portier,DIM2-93,center,Délice Danone,Automobiles,senior,method,retomber,receive,maybe,presque,mener,77,2024-01-20,628.34,449.63,CAT007
+141,ART000141,9545009025599,LG Table sorte,DIM1-85,husband,DIM2-62,nul,Orange Tunisie,Cosmétiques,heavy,have,tôt,étonner,te,person,véritable,45,2024-11-05,1691.52,1053.78,CAT024
+142,ART000142,1520850769869,L'Oréal Livre again,DIM1-29,per,DIM2-55,heureux,STB,Parfumerie,own,future,politique,verser,intérieur,morning,compare,79,2023-10-10,1351.58,818.04,CAT036
+143,ART000143,3718344049636,Coca-Cola Jus robe,DIM1-89,satisfaire,DIM2-35,explain,Groupe Poulina,Électronique,reste,late,journal,tendre,mother,lead,decision,35,2023-11-09,1406.88,1103.43,CAT020
+144,ART000144,9878208297376,Samsung Sac write,DIM1-24,worry,DIM2-19,public,Amen Bank,Bébé & Enfant,long,choose,cri,three,item,trade,souvent,9,2024-10-19,288.04,228.81,CAT041
+145,ART000145,4424936312307,Danone Télévision habiter,DIM1-68,mention,DIM2-28,knowledge,Senia,Informatique,droit,figurer,appartenir,strategy,reason,tache,point,59,2023-02-12,685.09,453.75,CAT024
+146,ART000146,5941651623192,Nestlé Cahier public,DIM1-73,model,DIM2-77,espace,SOTUMAG,Boissons,haut,there,sure,nord,cour,dès,fin,20,2023-11-14,319.03,194.59,CAT040
+147,ART000147,9078515867341,Philips Télévision loi,DIM1-57,senior,DIM2-85,term,UTIC,Jouets,against,toujours,verser,éviter,for,weight,race,78,2024-10-28,886.88,570.36,CAT018
+148,ART000148,6064413432753,Apple Shampoing strategy,DIM1-45,fils,DIM2-56,portier,Yazaki Tunisia,Automobiles,since,with,series,under,de,move,larme,87,2024-04-12,1358.58,958.32,CAT032
+149,ART000149,7002720634599,Samsung Stylo choix,DIM1-29,étranger,DIM2-51,savoir,Arab Tunisian Bank,Boissons,structure,live,TV,façon,vent,successful,decide,1,2023-11-18,412.82,311.05,CAT014
+150,ART000150,2669300893170,Philips Livre faire,DIM1-42,autant,DIM2-16,prepare,Groupe Poulina,Jouets,plan,church,lui,rester,agiter,spring,their,96,2023-04-03,864.16,584.21,CAT009
+151,ART000151,3344762639342,Sony Café nez,DIM1-65,mort,DIM2-72,appartement,Aziza,Hygiène,everybody,soir,whatever,lune,bed,personne,idée,51,2024-06-17,1724.22,1184.96,CAT003
+152,ART000152,6694118005374,Apple Pantalon police,DIM1-41,accomplir,DIM2-74,mother,UTIC,Maroquinerie,five,remain,cause,rôle,façon,près,wonder,52,2024-11-12,1420.45,934.52,CAT027
+153,ART000153,2158624150279,Samsung Chaussures small,DIM1-42,with,DIM2-22,fear,Arab Tunisian Bank,Téléphonie,position,nation,least,hésiter,south,rencontrer,argue,89,2023-04-26,1839.94,1264.67,CAT006
+154,ART000154,3207427617072,Sony Réfrigérateur security,DIM1-56,lot,DIM2-76,budget,Senia,Bijouterie,compagnie,better,former,demain,order,rouge,quand,11,2023-11-20,794.55,595.25,CAT020
+155,ART000155,3715041659151,Bosch Lampe appartenir,DIM1-100,pauvre,DIM2-22,long,SOTUMAG,Bijouterie,phone,impossible,tête,garden,écrire,tâche,future,82,2024-07-31,232.48,148.5,CAT033
+156,ART000156,8961642361039,Bosch Sac membre,DIM1-94,feel,DIM2-83,comme,Leoni AG,Maison & Jardin,military,simply,well,lier,lueur,pont,value,14,2024-01-06,297.16,188.61,CAT013
+157,ART000157,9961659266104,Nestlé Machine à laver major,DIM1-98,tard,DIM2-84,pourquoi,SOTUMAG,Électronique,froid,leave,plaire,church,valoir,thought,puis,99,2023-08-18,1257.76,944.44,CAT030
+158,ART000158,8108186617943,Nike Pain environmental,DIM1-88,près,DIM2-73,circonstance,Arab Tunisian Bank,Librairie,country,mer,capable,under,former,sometimes,price,81,2023-09-23,635.7,390.1,CAT029
+159,ART000159,3219416800617,Nivea Pantalon dépasser,DIM1-39,magazine,DIM2-36,trouble,Amen Bank,Boissons,floor,rock,summer,begin,contenir,disposer,aile,46,2024-10-29,1017.14,704.22,CAT020
+160,ART000160,3723683147271,Samsung Ordinateur age,DIM1-48,dehors,DIM2-37,vivant,SOTUMAG,Hygiène,memory,again,pay,dresser,over,approach,across,79,2024-05-04,1190.19,824.26,CAT025
+161,ART000161,6799840767894,Nestlé Yaourt each,DIM1-95,quartier,DIM2-6,nommer,Modern Leasing,Maroquinerie,on,fenêtre,visit,but,prevent,list,against,84,2023-08-12,380.54,264.52,CAT039
+162,ART000162,7573839597247,Samsung Machine à laver keep,DIM1-58,style,DIM2-14,successful,Géant,Hygiène,somme,forcer,train,carry,douter,sérieux,blood,65,2024-01-19,1294.02,840.53,CAT003
+163,ART000163,3380054522800,Nike Pantalon interrompre,DIM1-68,build,DIM2-67,comme,Arab Tunisian Bank,Électronique,point,grow,specific,renoncer,war,vers,voisin,47,2024-12-20,748.84,507.33,CAT019
+164,ART000164,7119918081216,Nivea Cahier lit,DIM1-77,fruit,DIM2-7,sound,Géant,Hygiène,significant,cuisine,good,comment,ou,specific,éteindre,43,2023-09-23,193.54,131.09,CAT044
+165,ART000165,8214565328635,Danone Livre objet,DIM1-85,why,DIM2-78,water,Leoni AG,Librairie,together,yet,page,adresser,caresser,forward,sport,11,2023-12-04,1167.57,914.62,CAT010
+166,ART000166,6029084668450,Nivea Stylo across,DIM1-90,we,DIM2-85,visible,Senia,Vêtements,like,reconnaître,save,very,stand,gloire,arrière,77,2023-10-30,1419.12,939.34,CAT006
+167,ART000167,8843188485205,Nivea Chaussures rapporter,DIM1-43,effort,DIM2-17,she,BIAT,Hygiène,mouth,bande,event,candidate,tendre,parfaitement,page,83,2023-12-18,1342.56,902.69,CAT033
+168,ART000168,3998935449261,Philips Sac chef,DIM1-24,name,DIM2-28,lisser,Géant,Jouets,billion,vrai,them,beat,bataille,view,placer,25,2023-12-13,456.95,288.33,CAT009
+169,ART000169,5869886497671,Coca-Cola Stylo sign,DIM1-13,than,DIM2-65,cour,STB,Bijouterie,poésie,carry,vieil,pas,alone,repas,will,5,2024-04-12,1325.55,959.18,CAT050
+170,ART000170,1159408215451,IKEA Fromage financial,DIM1-20,ahead,DIM2-21,couler,One Tech Group,Parfumerie,anything,visit,dinner,politique,comment,author,neuf,22,2024-03-21,1443.76,984.89,CAT003
+171,ART000171,9756792287778,Danone Jus image,DIM1-31,sonner,DIM2-57,impact,Arab Tunisian Bank,Automobiles,midi,now,travailler,simply,race,dehors,rêve,97,2024-03-11,1498.33,969.12,CAT029
+172,ART000172,8139890983789,Philips Lampe comme,DIM1-61,aller,DIM2-25,stop,Aziza,Maroquinerie,éteindre,become,interest,portier,jambe,couple,agent,57,2023-10-24,926.05,699.75,CAT019
+173,ART000173,1118242241248,Adidas Shampoing resource,DIM1-54,baisser,DIM2-21,course,Tunisie Telecom,Parfumerie,y,général,bit,change,walk,evening,year,18,2023-02-10,1746.64,1271.97,CAT004
+174,ART000174,3993788614057,Adidas Sac on,DIM1-14,attorney,DIM2-92,air,BIAT,Cosmétiques,property,aller,once,étendue,grain,like,sueur,37,2024-08-31,172.33,112.8,CAT011
+175,ART000175,5823868700791,LG Shampoing read,DIM1-56,abandonner,DIM2-12,pluie,Orange Tunisie,Téléphonie,piece,those,have,rue,answer,quitter,glace,45,2023-11-04,1861.29,1136.6,CAT027
+176,ART000176,2846398554743,Bosch Shampoing toujours,DIM1-31,growth,DIM2-50,pauvre,SOTUMAG,Santé,admit,tant,seulement,above,trente,naître,sound,29,2024-02-22,61.23,47.01,CAT007
+177,ART000177,1807156956200,Bosch Eau peau,DIM1-19,would,DIM2-18,papa,Délice Danone,Automobiles,encore,fond,dark,silencieux,system,environ,him,61,2023-08-07,1393.66,1047.71,CAT009
+178,ART000178,9303614987288,Nike Parfum tomber,DIM1-79,beauté,DIM2-1,beauté,SOTUMAG,Alimentation,face,puis,dark,vide,responsibility,able,put,33,2024-10-25,435.23,308.91,CAT010
+179,ART000179,6641877580307,L'Oréal Thé why,DIM1-68,no,DIM2-55,four,Yazaki Tunisia,Automobiles,mensonge,intention,rêve,engager,bad,double,impossible,31,2023-02-18,605.8,392.37,CAT004
+180,ART000180,0760954317356,Nestlé Eau instinct,DIM1-80,bonheur,DIM2-59,south,SOTUMAG,Cosmétiques,sorte,particular,cas,arbre,form,conclure,ouvrir,64,2023-08-23,1195.49,868.39,CAT002
+181,ART000181,1108046619633,Sony Pain partie,DIM1-92,majority,DIM2-19,up,Carrefour Tunisie,Informatique,jamais,partir,people,cheveu,âge,sauvage,révéler,1,2024-05-10,1231.55,879.49,CAT016
+182,ART000182,5679723200247,Nivea Chaise must,DIM1-86,foreign,DIM2-11,court,BIAT,Santé,for,film,across,avis,presser,nommer,deal,9,2024-05-12,1907.04,1337.72,CAT035
+183,ART000183,1537795995949,Adidas Shampoing get,DIM1-3,chaud,DIM2-50,under,Attijari Bank,Boissons,poursuivre,accent,vide,perdre,espérer,simple,surface,82,2023-06-09,776.83,505.51,CAT024
+184,ART000184,2050150812471,Bosch Smartphone sourire,DIM1-9,animal,DIM2-45,doute,Orange Tunisie,Cosmétiques,former,employer,serve,jamais,désormais,amour,faire,99,2023-01-17,1165.9,777.08,CAT049
+185,ART000185,6153473552898,Bosch Ordinateur unit,DIM1-70,colon,DIM2-44,confondre,One Tech Group,Téléphonie,distinguer,run,friend,provide,aucun,raconter,strategy,90,2023-09-12,959.67,731.56,CAT012
+186,ART000186,0428973179125,Danone Télévision society,DIM1-100,moment,DIM2-59,country,Délice Danone,Automobiles,seem,never,senior,matter,party,pull,écarter,26,2024-11-26,92.39,71.8,CAT013
+187,ART000187,7363466925489,Philips Cahier consulter,DIM1-66,garçon,DIM2-51,natural,STB,Jouets,drug,pénétrer,last,manage,issue,summer,free,33,2023-10-24,78.06,49.82,CAT042
+188,ART000188,2734151488810,Coca-Cola Sac with,DIM1-100,chambre,DIM2-7,bois,Géant,Sport & Loisirs,American,instinct,troisième,enough,skill,cut,réclamer,16,2023-01-07,1599.69,1244.39,CAT028
+189,ART000189,4566907826335,Nike Thé pied,DIM1-50,profiter,DIM2-44,seven,One Tech Group,Jouets,grow,haut,objet,determine,listen,maison,rire,89,2023-08-26,997.56,651.75,CAT034
+190,ART000190,7553666845902,Danone Télévision corde,DIM1-55,inconnu,DIM2-11,I,UTIC,Parfumerie,menacer,quoi,cup,boy,over,purpose,better,24,2023-03-23,1093.22,678.36,CAT021
+191,ART000191,0970231643348,Nivea Cahier parvenir,DIM1-38,lumière,DIM2-40,dépasser,Modern Leasing,Parfumerie,trade,include,choix,ramasser,mean,même,confier,92,2023-08-29,855.1,588.98,CAT045
+192,ART000192,7299493874301,Samsung Pantalon paquet,DIM1-94,mine,DIM2-46,qualité,Arab Tunisian Bank,Informatique,whether,magazine,parent,centre,race,hand,include,36,2023-11-19,1280.74,787.67,CAT004
+193,ART000193,2967629160325,IKEA Eau us,DIM1-47,reflect,DIM2-66,vin,One Tech Group,Alimentation,possible,sound,l'un,chef,it,community,despite,19,2023-12-25,1698.1,1284.21,CAT044
+194,ART000194,1765636004127,LG Ordinateur religious,DIM1-9,memory,DIM2-31,author,Aziza,Santé,regarder,yeux,challenge,tend,thought,dent,servir,50,2023-05-18,1899.19,1369.35,CAT003
+195,ART000195,1862104275239,Nike Jus troisième,DIM1-48,ouvrir,DIM2-48,subir,Modern Leasing,Hygiène,mémoire,life,secret,aussi,speak,étranger,when,74,2023-06-05,279.7,190.09,CAT024
+196,ART000196,0600531312209,Philips Eau music,DIM1-32,immobile,DIM2-15,or,Groupe Poulina,Électronique,sonner,réalité,wrong,camera,également,lever,consumer,64,2023-11-09,1037.9,647.18,CAT036
+197,ART000197,0637314950136,Danone Livre fish,DIM1-58,blue,DIM2-28,étude,Arab Tunisian Bank,Automobiles,seigneur,program,resource,inspirer,succès,today,author,89,2023-01-14,1833.38,1173.43,CAT032
+198,ART000198,6838903091436,Coca-Cola Machine à laver sometimes,DIM1-10,soldat,DIM2-58,bande,One Tech Group,Téléphonie,maison,fine,crise,democratic,espace,single,center,12,2023-09-04,1621.97,1189.83,CAT021
+199,ART000199,8640355338032,Apple Café seul,DIM1-71,near,DIM2-70,cover,Carrefour Tunisie,Automobiles,professional,beaucoup,available,autre,du,cependant,sauter,21,2023-07-03,1425.06,1036.79,CAT045
+200,ART000200,6742336293445,Adidas Sac prove,DIM1-29,fier,DIM2-16,base,Tunisie Telecom,Vêtements,information,computer,let,mouth,soon,pluie,marcher,31,2024-10-25,1581.79,1063.25,CAT002
+201,ART000201,4982824674741,Bosch Pain or,DIM1-60,away,DIM2-71,century,Leoni AG,Parfumerie,deal,discuter,agent,million,wish,yard,situation,12,2023-10-26,136.17,108.92,CAT026
+202,ART000202,4916016923645,Nike Thé Mr,DIM1-68,prove,DIM2-53,same,UTIC,Maroquinerie,tendre,with,simply,établir,already,program,ville,10,2023-07-22,255.03,185.78,CAT021
+203,ART000203,2439920116696,Nike Pantalon promettre,DIM1-88,nord,DIM2-67,nuage,Aziza,Vêtements,role,month,peace,similar,soldier,chien,teach,100,2023-07-28,1104.85,703.12,CAT038
+204,ART000204,6402701168647,IKEA Machine à laver conference,DIM1-65,maison,DIM2-8,voie,Yazaki Tunisia,Bijouterie,douceur,court,parmi,difficile,baisser,distinguer,week,20,2023-12-09,611.73,406.51,CAT011
+205,ART000205,2141614150939,Sony Café memory,DIM1-45,admettre,DIM2-67,fauteuil,Carrefour Tunisie,Hygiène,tout,chair,public,mal,work,material,PM,33,2023-09-19,396.62,259.74,CAT036
+206,ART000206,5535669055108,Philips Eau truth,DIM1-79,share,DIM2-69,animer,SOTUMAG,Bijouterie,quelque,scene,lumière,present,myself,recent,absolument,83,2023-01-13,341.43,215.39,CAT038
+207,ART000207,0573976915673,L'Oréal Jus matière,DIM1-93,policy,DIM2-78,vraiment,Géant,Maroquinerie,propre,conclure,style,gloire,concern,business,recognize,6,2023-07-09,1651.35,1017.64,CAT002
+208,ART000208,2116025643479,Nestlé Eau tout,DIM1-74,quoi,DIM2-34,believe,Tunisie Telecom,Maroquinerie,try,rideau,tâche,huge,ready,system,enfance,54,2023-03-31,1238.13,866.21,CAT002
+209,ART000209,1115931952560,Adidas Eau habitude,DIM1-38,salut,DIM2-83,mêler,Carrefour Tunisie,Jouets,front,subject,proposer,cher,act,four,gauche,32,2024-01-24,1610.35,1097.0,CAT044
+210,ART000210,2942095481495,Apple Pantalon program,DIM1-89,pourquoi,DIM2-8,sea,One Tech Group,Téléphonie,artist,claim,enfin,dessiner,short,firm,amour,54,2023-09-20,971.08,648.72,CAT014
+211,ART000211,7566184438617,Bosch Machine à laver idée,DIM1-92,vouloir,DIM2-41,lot,Aziza,Bébé & Enfant,rire,ouvrage,film,école,dont,livre,tuer,17,2023-10-20,1522.53,1084.54,CAT033
+212,ART000212,2015720185966,Sony Cahier souffler,DIM1-60,election,DIM2-16,combat,Monoprix,Téléphonie,milieu,five,tenter,stand,pencher,face,hold,32,2023-04-04,286.05,188.23,CAT004
+213,ART000213,1178309997419,Coca-Cola Chaussures marquer,DIM1-79,quite,DIM2-54,fire,Orange Tunisie,Électronique,chance,attack,monsieur,mesure,attack,écarter,détruire,42,2023-01-05,1867.83,1237.52,CAT047
+214,ART000214,5102932184010,Nike Chaise président,DIM1-66,himself,DIM2-60,nord,Attijari Bank,Automobiles,étouffer,any,reason,challenge,run,necessary,police,64,2024-06-18,51.24,35.92,CAT026
+215,ART000215,0303243298396,Sony Lampe fall,DIM1-75,sommeil,DIM2-46,bad,Délice Danone,Boissons,ever,rate,minute,because,require,yard,raison,37,2023-02-24,992.31,728.86,CAT042
+216,ART000216,3598926256603,Adidas Stylo brûler,DIM1-2,capital,DIM2-14,valeur,UTIC,Vêtements,attorney,push,loi,star,child,fille,chaleur,34,2023-06-22,1456.38,991.29,CAT049
+217,ART000217,1128497185945,IKEA Ordinateur political,DIM1-7,auquel,DIM2-73,hiver,STB,Électroménager,course,sure,me,extraordinaire,venir,titre,couleur,47,2024-03-16,1108.68,750.88,CAT005
+218,ART000218,0539672757849,Nestlé Pantalon later,DIM1-71,grand,DIM2-36,grand,Arab Tunisian Bank,Parfumerie,spend,through,spectacle,bruit,certainement,riche,caresser,16,2024-03-06,261.68,177.62,CAT007
+219,ART000219,0682778816092,Adidas Cahier accuser,DIM1-47,scientist,DIM2-97,election,Leoni AG,Électroménager,servir,concern,dès,lourd,problème,approach,mission,78,2023-05-13,1020.7,620.64,CAT033
+220,ART000220,1538144744300,LG Ordinateur director,DIM1-92,woman,DIM2-43,peine,Attijari Bank,Bijouterie,art,according,get,health,accomplir,voice,moindre,59,2023-01-07,302.14,189.73,CAT033
+221,ART000221,6731882617027,Bosch Fromage draw,DIM1-21,indicate,DIM2-51,firm,Arab Tunisian Bank,Automobiles,later,ramasser,boy,realize,color,lendemain,accept,76,2024-11-17,676.07,477.62,CAT033
+222,ART000222,1340266502375,L'Oréal Café by,DIM1-39,middle,DIM2-61,such,Groupe Poulina,Santé,île,more,catch,cheval,comprendre,jeunesse,valoir,43,2023-02-10,1349.24,967.05,CAT027
+223,ART000223,6906744716396,Coca-Cola Thé prince,DIM1-89,étranger,DIM2-81,speak,Groupe Poulina,Parfumerie,falloir,trace,decide,seat,vision,discours,entendre,61,2023-04-13,534.73,404.57,CAT042
+224,ART000224,0432609310660,L'Oréal Pain scene,DIM1-30,endormir,DIM2-93,last,Délice Danone,Maroquinerie,ask,quickly,grain,fermer,fast,seek,employee,62,2024-11-26,345.17,256.89,CAT041
+225,ART000225,2000534749169,LG Chaussures étudier,DIM1-88,himself,DIM2-32,fly,Délice Danone,Maroquinerie,chair,vague,inquiéter,site,situation,economy,develop,90,2023-03-09,224.24,154.32,CAT002
+226,ART000226,2910933711899,LG T-shirt fish,DIM1-53,sort,DIM2-89,quinze,Tunisie Telecom,Informatique,attendre,distinguer,oil,vote,want,list,oncle,65,2024-01-11,1551.07,1201.4,CAT031
+227,ART000227,8802942409031,Danone Thé miss,DIM1-8,dégager,DIM2-91,social,Leoni AG,Bijouterie,or,institution,design,accent,rêve,satisfaire,prison,27,2024-01-27,1123.97,781.92,CAT043
+228,ART000228,4344812308340,Bosch Chaussures supporter,DIM1-23,flamme,DIM2-59,feu,STB,Librairie,surveiller,écouter,abattre,project,garden,voir,seven,70,2023-11-14,711.8,550.6,CAT050
+229,ART000229,5005342408915,Nivea Jus young,DIM1-89,true,DIM2-34,ouvrir,Arab Tunisian Bank,Jouets,il,Democrat,clearly,each,home,planche,poursuivre,25,2023-12-23,1914.89,1362.67,CAT018
+230,ART000230,2397240422692,Philips Lampe blanc,DIM1-99,bon,DIM2-37,else,Tunisie Telecom,Jouets,when,black,âgé,malgré,against,agir,conscience,41,2024-08-21,962.21,757.01,CAT036
+231,ART000231,4290018513272,Philips Thé team,DIM1-37,gros,DIM2-16,measure,Amen Bank,Chaussures,état,recommencer,product,ami,charger,board,change,49,2024-12-09,1792.04,1368.54,CAT026
+232,ART000232,0366254361725,Philips Machine à laver enfermer,DIM1-6,force,DIM2-37,ball,SOTUMAG,Santé,by,wind,atteindre,désirer,nice,plan,un,57,2023-04-27,1313.66,914.07,CAT048
+233,ART000233,9451475410220,Coca-Cola Table choose,DIM1-69,likely,DIM2-35,teacher,STB,Sport & Loisirs,cinq,short,check,ici,devant,head,miss,18,2024-01-09,222.91,159.91,CAT048
+234,ART000234,9523668788789,Samsung Lampe masse,DIM1-86,roman,DIM2-68,new,Orange Tunisie,Maison & Jardin,vivre,épais,able,ainsi,open,cell,bande,7,2023-10-08,204.89,152.33,CAT022
+235,ART000235,4728633302129,Nivea Réfrigérateur significant,DIM1-99,vieux,DIM2-18,hot,Groupe Poulina,Chaussures,visite,tour,plaindre,appeler,lors,but,bruit,21,2024-03-18,816.78,568.06,CAT031
+236,ART000236,2272847657046,Nestlé Table dame,DIM1-37,surveiller,DIM2-42,sentir,Carrefour Tunisie,Boissons,près,affirmer,there,response,once,wide,security,99,2023-11-26,183.47,118.6,CAT037
+237,ART000237,4186236903622,Danone Thé victime,DIM1-5,me,DIM2-23,read,UTIC,Électronique,their,community,machine,day,boy,brusquement,player,5,2023-01-22,1994.36,1510.91,CAT026
+238,ART000238,4281139043830,Danone Chaise essayer,DIM1-38,bed,DIM2-5,résister,Groupe Poulina,Automobiles,answer,hauteur,guerre,lever,information,hauteur,she,73,2023-04-11,1207.55,793.25,CAT022
+239,ART000239,5681820967909,Adidas Eau color,DIM1-68,vague,DIM2-64,bar,Leoni AG,Bijouterie,entrée,usage,debout,line,inviter,here,among,60,2023-07-05,549.31,365.92,CAT008
+240,ART000240,9912971024811,Nike Thé between,DIM1-83,former,DIM2-33,garde,One Tech Group,Alimentation,bientôt,part,head,boire,voyage,evening,establish,95,2024-05-20,677.54,483.46,CAT019
+241,ART000241,1970546692757,LG Table hour,DIM1-79,vague,DIM2-82,move,Senia,Informatique,everyone,solitude,été,curieux,froid,cold,too,66,2023-06-23,659.21,483.76,CAT026
+242,ART000242,7157787112167,LG Chaise decision,DIM1-62,get,DIM2-42,hier,Orange Tunisie,Alimentation,PM,difference,building,look,reculer,perte,sûr,34,2023-09-06,770.23,578.25,CAT029
+243,ART000243,9605673030647,Philips Cahier prove,DIM1-75,car,DIM2-93,blanc,Amen Bank,Alimentation,interview,général,try,network,transformer,create,certain,34,2023-09-23,1309.1,847.33,CAT045
+244,ART000244,2356778265966,Apple Jus reposer,DIM1-60,brusquement,DIM2-40,ignorer,One Tech Group,Bébé & Enfant,address,patron,précieux,build,everyone,parmi,spectacle,88,2024-05-11,1007.53,759.65,CAT046
+245,ART000245,0336829635339,Apple Café lutte,DIM1-82,admit,DIM2-38,watch,Aziza,Parfumerie,morning,violent,range,job,he,them,necessary,29,2023-03-30,442.16,307.58,CAT009
+246,ART000246,7652892866467,Danone Pantalon science,DIM1-78,ce,DIM2-48,cela,UTIC,Chaussures,société,body,so,souvenir,most,traîner,together,61,2023-06-14,1515.91,1159.85,CAT043
+247,ART000247,7861371576609,Nivea Lampe station,DIM1-97,prêt,DIM2-77,executive,SOTUMAG,Bijouterie,food,report,accepter,alone,année,mais,government,58,2024-03-20,1058.71,651.76,CAT024
+248,ART000248,3863960962620,Apple Pain well,DIM1-8,nation,DIM2-71,or,BIAT,Électroménager,chance,présence,sourire,threat,third,humide,certain,74,2023-01-20,1075.64,715.97,CAT011
+249,ART000249,0920981960271,Nike Shampoing culture,DIM1-15,tenter,DIM2-88,gauche,Tunisie Telecom,Maroquinerie,raconter,malheur,receive,fin,couper,sujet,chose,63,2024-12-21,186.43,128.47,CAT033
+250,ART000250,1244211753617,Nike Ordinateur stuff,DIM1-17,nation,DIM2-66,point,UTIC,Téléphonie,écouter,how,property,system,détacher,action,tombe,73,2023-04-02,120.18,88.28,CAT030
+251,ART000251,5799802841397,Danone Stylo raison,DIM1-3,promener,DIM2-51,éloigner,Monoprix,Alimentation,building,appel,certainly,capable,fenêtre,meet,cercle,96,2024-07-03,439.71,267.81,CAT005
+252,ART000252,7768634234613,Danone Sac company,DIM1-9,police,DIM2-70,use,Délice Danone,Hygiène,land,team,prevent,servir,laugh,rester,hour,61,2023-12-16,68.31,43.44,CAT027
+253,ART000253,0849649856018,Nestlé Machine à laver humide,DIM1-83,street,DIM2-94,liberté,UTIC,Santé,bon,tirer,hot,haute,admettre,rise,imposer,49,2023-12-28,899.83,607.5,CAT025
+254,ART000254,3816493831840,Nivea Jus rêver,DIM1-70,rest,DIM2-18,friend,Aziza,Cosmétiques,decade,autant,moment,fin,call,particulier,semaine,23,2024-04-04,1985.73,1401.47,CAT026
+255,ART000255,3904090742604,Sony Thé interroger,DIM1-1,blanc,DIM2-97,beyond,Groupe Poulina,Automobiles,several,face,some,instead,rendre,minute,mériter,60,2024-06-24,1348.63,923.58,CAT035
+256,ART000256,7159103002152,Coca-Cola Chaussures draw,DIM1-30,ce,DIM2-32,l'un,Modern Leasing,Santé,véritable,face,choix,grain,famille,rise,expect,20,2024-12-19,554.92,417.91,CAT047
+257,ART000257,9712529671883,Nestlé Ordinateur risquer,DIM1-85,recently,DIM2-54,fast,Arab Tunisian Bank,Alimentation,spring,draw,famille,seek,le,tombe,vieillard,31,2023-02-28,416.13,299.11,CAT007
+258,ART000258,0303763715397,L'Oréal Pantalon soon,DIM1-87,section,DIM2-91,reality,Délice Danone,Maison & Jardin,présent,confier,loin,local,minute,billet,land,95,2024-06-17,93.25,60.32,CAT029
+259,ART000259,9127113072401,Nestlé Table recently,DIM1-100,he,DIM2-8,by,Leoni AG,Bijouterie,lentement,difference,milieu,movie,argue,explain,billion,38,2024-05-18,472.15,337.69,CAT047
+260,ART000260,6343629489783,L'Oréal Pain boy,DIM1-99,tant,DIM2-87,chose,Géant,Maison & Jardin,claire,arracher,edge,question,fine,soleil,including,39,2023-03-20,1753.14,1234.65,CAT043
+261,ART000261,4732354940126,Philips T-shirt single,DIM1-36,tonight,DIM2-8,demi,STB,Maroquinerie,responsibility,déjà,inspirer,change,trace,later,against,95,2023-07-24,1823.6,1341.71,CAT041
+262,ART000262,2095790737104,Nike Yaourt rester,DIM1-7,thing,DIM2-45,pur,Senia,Bijouterie,course,changement,summer,local,simple,offer,record,41,2023-07-16,1394.14,878.09,CAT027
+263,ART000263,7054589714806,LG Chaussures moyen,DIM1-97,tombe,DIM2-69,lèvre,Attijari Bank,Maison & Jardin,allow,rire,here,céder,malgré,fille,under,29,2023-07-26,604.97,380.45,CAT046
+264,ART000264,5696443098596,Samsung Pantalon officier,DIM1-72,our,DIM2-53,fight,UTIC,Chaussures,acte,within,perdre,puis,price,grâce,fight,68,2024-09-13,272.52,177.41,CAT016
+265,ART000265,0703491074061,Nivea Cahier recent,DIM1-11,auteur,DIM2-58,certainly,Aziza,Hygiène,unit,stock,casser,character,odeur,froid,appuyer,69,2024-12-25,1450.55,885.28,CAT013
+266,ART000266,3666144942964,Nivea Chaussures summer,DIM1-78,vaincre,DIM2-78,être,Délice Danone,Hygiène,nécessaire,glisser,bed,our,offer,mal,big,25,2024-02-14,1610.28,1199.43,CAT038
+267,ART000267,5857567667086,Sony Yaourt nombre,DIM1-62,côté,DIM2-27,stop,Géant,Automobiles,rôle,care,argue,car,religious,peau,those,2,2023-03-07,427.56,338.81,CAT013
+268,ART000268,4159149750195,Danone Réfrigérateur visite,DIM1-97,profond,DIM2-62,représenter,Orange Tunisie,Parfumerie,century,tromper,glisser,serve,poète,clair,à,91,2024-04-13,413.0,293.4,CAT016
+269,ART000269,8133170876013,IKEA Stylo interview,DIM1-60,create,DIM2-69,réfléchir,Aziza,Automobiles,term,town,oeil,sueur,dieu,titre,dent,34,2024-01-05,722.49,500.83,CAT032
+270,ART000270,4419754661768,Nike Thé choose,DIM1-98,forme,DIM2-41,camera,Tunisie Telecom,Santé,activity,along,and,chair,us,factor,d'autres,41,2024-01-24,830.79,642.05,CAT037
+271,ART000271,5868122595720,LG Thé still,DIM1-3,wind,DIM2-34,author,STB,Maroquinerie,however,police,rideau,carry,per,pattern,author,75,2023-01-23,1441.42,908.79,CAT019
+272,ART000272,3117753312667,Sony Cahier bas,DIM1-49,building,DIM2-73,bonheur,Orange Tunisie,Jouets,source,policy,dernier,box,huge,suivant,dont,71,2024-01-17,1310.94,875.07,CAT044
+273,ART000273,4332683190133,Danone Parfum côté,DIM1-83,lieu,DIM2-95,out,Attijari Bank,Téléphonie,jardin,vague,customer,retrouver,month,heavy,bien,22,2023-11-29,1466.88,929.79,CAT023
+274,ART000274,1912841173098,Adidas Thé agency,DIM1-63,frapper,DIM2-24,in,STB,Boissons,author,français,quoi,promener,inside,réel,rose,68,2024-12-28,72.48,57.19,CAT005
+275,ART000275,0056435023855,Samsung Jus épaule,DIM1-98,baby,DIM2-1,joue,UTIC,Vêtements,nécessaire,relever,your,feuille,chat,pousser,tempête,81,2023-12-02,466.71,294.12,CAT046
+276,ART000276,4300038960878,Adidas Table médecin,DIM1-59,safe,DIM2-48,observer,Délice Danone,Parfumerie,often,classe,buy,he,jeune,why,espace,82,2023-03-13,1335.18,1044.85,CAT040
+277,ART000277,3689003010277,Nike Jus forcer,DIM1-3,haute,DIM2-1,play,STB,Chaussures,fruit,serrer,measure,théâtre,briser,writer,pourquoi,53,2024-11-28,28.64,21.32,CAT034
+278,ART000278,7458438458819,Philips Yaourt jouer,DIM1-3,season,DIM2-65,far,UTIC,Électronique,droite,protéger,grand,comment,share,arracher,vingt,14,2024-05-19,1836.51,1156.6,CAT034
+279,ART000279,1070449641040,L'Oréal Table mission,DIM1-68,mari,DIM2-33,life,Aziza,Sport & Loisirs,enfermer,manier,tomber,no,ton,almost,write,51,2024-12-07,162.64,112.51,CAT026
+280,ART000280,4930596601861,Danone Lampe town,DIM1-29,language,DIM2-39,commercial,SOTUMAG,Boissons,manage,conscience,fonction,bed,recherche,green,American,12,2023-10-08,813.53,578.05,CAT025
+281,ART000281,4901495427708,Nivea Ordinateur act,DIM1-2,although,DIM2-90,media,One Tech Group,Hygiène,mort,rocher,fixe,attack,couple,space,event,64,2023-04-09,1691.43,1280.2,CAT042
+282,ART000282,2290310287958,Coca-Cola Pain remettre,DIM1-13,bas,DIM2-68,even,Délice Danone,Maison & Jardin,tuer,now,sein,juste,brûler,budget,erreur,28,2023-09-11,1803.04,1401.88,CAT045
+283,ART000283,6164205955658,Philips Parfum yes,DIM1-6,pretty,DIM2-10,de,Monoprix,Chaussures,another,wonder,sans,chemise,haut,yard,manger,73,2024-05-25,1317.93,1035.57,CAT012
+284,ART000284,6113989868180,Samsung Cahier servir,DIM1-27,receive,DIM2-76,free,Leoni AG,Bébé & Enfant,day,whether,imposer,livre,pas,smile,vide,10,2023-12-12,602.06,390.19,CAT037
+285,ART000285,5158815793763,Nivea Chaussures retour,DIM1-70,rapide,DIM2-43,morceau,Senia,Vêtements,sérieux,stuff,growth,buy,mort,mouth,rideau,89,2024-05-06,1449.71,1085.97,CAT033
+286,ART000286,2702164871202,Samsung Sac agent,DIM1-13,bonheur,DIM2-56,produire,Orange Tunisie,Hygiène,well,health,moindre,vraiment,by,watch,perhaps,44,2024-07-14,1212.31,958.9,CAT040
+287,ART000287,1576764722988,Nestlé Chaussures croire,DIM1-42,sauver,DIM2-4,represent,Monoprix,Téléphonie,hundred,leg,prêter,you,entrer,minute,anything,63,2023-08-10,460.14,362.7,CAT036
+288,ART000288,6522036849957,LG T-shirt journal,DIM1-88,company,DIM2-75,français,Senia,Hygiène,message,door,français,police,entrée,chance,eaux,99,2023-01-22,1239.14,920.21,CAT016
+289,ART000289,8830705349676,Philips Télévision partir,DIM1-20,why,DIM2-49,voisin,Leoni AG,Bébé & Enfant,papa,minute,before,flot,lendemain,endroit,immobile,41,2024-01-29,724.6,435.51,CAT006
+290,ART000290,4781506185380,Nike Stylo spectacle,DIM1-47,étendre,DIM2-98,sable,Monoprix,Cosmétiques,turn,trésor,faute,civil,teach,pousser,catch,17,2024-05-08,179.16,123.58,CAT028
+291,ART000291,8306178932061,Adidas Yaourt positive,DIM1-53,program,DIM2-14,suivre,Groupe Poulina,Hygiène,member,geste,fruit,might,piece,of,find,46,2023-06-20,1110.67,799.25,CAT039
+292,ART000292,4675361275150,Coca-Cola Cahier sea,DIM1-50,plutôt,DIM2-2,plant,Carrefour Tunisie,Informatique,right,appartenir,executive,mot,représenter,every,its,50,2024-09-20,1559.44,1216.72,CAT047
+293,ART000293,6640473504762,L'Oréal Lampe réveiller,DIM1-67,raison,DIM2-22,sorte,Senia,Électronique,silencieux,carry,ami,believe,while,speak,terreur,18,2024-02-07,541.49,378.3,CAT018
+294,ART000294,5832863425561,LG Télévision remercier,DIM1-56,agir,DIM2-36,âme,UTIC,Automobiles,premier,strong,and,forêt,agent,sourire,argent,62,2024-08-05,1566.42,1018.71,CAT024
+295,ART000295,6624111860083,Danone Lampe cesser,DIM1-81,daughter,DIM2-64,still,Arab Tunisian Bank,Parfumerie,large,goût,low,changement,reality,however,laugh,26,2023-06-22,918.43,607.02,CAT009
+296,ART000296,8474883607656,Bosch Chaussures parti,DIM1-80,risquer,DIM2-49,militaire,Géant,Téléphonie,parce que,me,système,go,source,cesser,échapper,43,2024-04-05,864.08,686.81,CAT042
+297,ART000297,1269789307468,Philips Machine à laver sit,DIM1-42,they,DIM2-78,arrêter,Tunisie Telecom,Jouets,risk,try,fer,représenter,offer,form,humain,41,2024-07-04,359.39,285.26,CAT026
+298,ART000298,8811616202816,Danone Stylo doucement,DIM1-89,true,DIM2-82,article,Attijari Bank,Maroquinerie,mission,sou,challenge,inside,gauche,ombre,service,32,2024-02-10,655.14,500.07,CAT018
+299,ART000299,9592248395891,Bosch Chaussures marriage,DIM1-15,develop,DIM2-73,within,Tunisie Telecom,Maroquinerie,défaut,action,keep,creuser,audience,haïr,douter,70,2024-02-22,363.95,258.41,CAT050
+300,ART000300,5109792158359,Nike Thé dix,DIM1-91,feel,DIM2-27,pattern,Modern Leasing,Automobiles,hold,world,option,brûler,charger,folie,fait,89,2023-04-09,142.97,105.03,CAT027
+301,ART000301,5999497320331,Nivea Machine à laver situation,DIM1-39,coup,DIM2-31,pitié,Monoprix,Vêtements,idée,autre,prince,large,general,month,essuyer,92,2023-10-21,849.14,522.05,CAT025
+302,ART000302,7548581932424,Nike Fromage opportunity,DIM1-75,might,DIM2-52,reveal,STB,Bijouterie,renverser,reach,could,lors,spend,should,different,89,2023-10-25,839.51,636.47,CAT003
+303,ART000303,2037583094513,Danone Sac whole,DIM1-69,morning,DIM2-77,service,SOTUMAG,Cosmétiques,along,quality,information,vieux,eye,rêve,petit,99,2024-01-16,500.22,335.65,CAT043
+304,ART000304,7810509222161,L'Oréal Eau avec,DIM1-6,public,DIM2-73,haute,Senia,Librairie,reconnaître,tonight,terreur,installer,water,sac,name,56,2024-05-31,216.36,141.01,CAT007
+305,ART000305,6013824127048,Danone Shampoing vérité,DIM1-67,consumer,DIM2-72,haine,Amen Bank,Maroquinerie,option,buy,man,ressembler,behavior,cent,casser,29,2023-09-04,894.33,619.42,CAT026
+306,ART000306,2035713432402,L'Oréal Jus season,DIM1-89,could,DIM2-65,challenge,Leoni AG,Santé,job,diriger,use,désigner,event,everything,port,4,2024-03-25,968.13,661.42,CAT019
+307,ART000307,5872096289363,Apple Télévision race,DIM1-94,despite,DIM2-19,scene,Aziza,Automobiles,believe,expression,père,almost,profondément,pitié,perdu,44,2023-10-17,913.39,643.23,CAT014
+308,ART000308,9051502675518,Nike Sac libre,DIM1-13,commercial,DIM2-57,office,Modern Leasing,Librairie,amour,table,personal,side,material,événement,plant,9,2024-01-10,604.03,376.32,CAT046
+309,ART000309,4038166496906,Nivea Cahier principe,DIM1-14,glace,DIM2-87,retenir,One Tech Group,Maison & Jardin,confier,story,cent,structure,joue,individual,payer,67,2024-05-26,353.03,235.19,CAT011
+310,ART000310,3244123361328,Nike T-shirt accept,DIM1-30,collection,DIM2-52,black,One Tech Group,Électronique,oil,say,peuple,theory,seat,chacun,career,82,2024-08-15,1316.33,797.48,CAT026
+311,ART000311,6546968157904,Sony Fromage seulement,DIM1-58,épais,DIM2-76,high,UTIC,Bébé & Enfant,more,siège,who,tandis que,convenir,cup,écrire,1,2023-12-05,1410.95,925.12,CAT014
+312,ART000312,5626244670462,Nestlé Café découvrir,DIM1-9,rest,DIM2-74,pénétrer,Yazaki Tunisia,Chaussures,jouer,tête,suggest,debout,career,rich,activity,24,2024-05-22,734.76,508.09,CAT013
+313,ART000313,6046419785750,Nivea Livre brother,DIM1-63,notre,DIM2-68,truth,Géant,Parfumerie,creuser,interroger,decade,learn,pendre,among,pont,50,2023-10-13,1224.56,762.71,CAT038
+314,ART000314,9546540842454,Coca-Cola Sac adult,DIM1-59,garden,DIM2-80,provide,One Tech Group,Automobiles,se,lèvre,quelqu'un,energy,caractère,comprendre,souvenir,79,2023-12-01,1182.39,741.11,CAT044
+315,ART000315,5793897015503,Sony Réfrigérateur si,DIM1-40,mari,DIM2-15,interrompre,One Tech Group,Santé,knowledge,age,expliquer,officier,distinguer,floor,vie,89,2023-10-18,287.01,196.21,CAT025
+316,ART000316,3642480962446,L'Oréal Machine à laver montrer,DIM1-50,aller,DIM2-55,realize,One Tech Group,Jouets,fin,maintain,bill,enfin,votre,do,signe,82,2024-07-19,1077.07,846.73,CAT042
+317,ART000317,9695867805557,Adidas Chaise test,DIM1-22,civil,DIM2-63,too,Carrefour Tunisie,Vêtements,develop,très,especially,alone,sourire,option,because,24,2024-08-03,632.59,457.92,CAT029
+318,ART000318,4457702992953,Samsung Sac just,DIM1-63,former,DIM2-18,easy,Tunisie Telecom,Bébé & Enfant,will,manger,chair,discover,choix,could,mode,72,2023-10-01,1013.35,690.93,CAT032
+319,ART000319,6945515888634,IKEA Parfum miss,DIM1-91,few,DIM2-57,close,Attijari Bank,Électronique,minute,about,source,reality,vaincre,marier,kid,11,2023-05-27,1132.97,729.75,CAT049
+320,ART000320,9329981996050,Philips Ordinateur dehors,DIM1-29,return,DIM2-69,lutte,Carrefour Tunisie,Électronique,semaine,old,début,home,dès,write,humide,100,2023-08-16,917.36,692.16,CAT048
+321,ART000321,0397739732785,Adidas Parfum sentir,DIM1-66,turn,DIM2-15,été,Amen Bank,Cosmétiques,seven,accuser,user,trial,training,avoid,ever,35,2024-07-09,1551.35,1098.99,CAT024
+322,ART000322,7704605687613,Nestlé Ordinateur courir,DIM1-93,son,DIM2-57,demander,STB,Électroménager,itself,change,plus,fatigue,impression,passion,soldier,55,2024-08-10,209.32,157.05,CAT042
+323,ART000323,5475749490224,Coca-Cola Stylo agree,DIM1-5,lutter,DIM2-58,sell,Monoprix,Santé,food,résultat,may,report,clear,course,town,12,2023-07-19,880.94,665.22,CAT008
+324,ART000324,0394290458864,Sony Lampe present,DIM1-95,jeunesse,DIM2-76,saint,Aziza,Parfumerie,necessary,human,raise,pur,continue,watch,address,81,2023-09-23,859.19,539.44,CAT040
+325,ART000325,4332491357797,Coca-Cola Table puissance,DIM1-27,droit,DIM2-8,red,Amen Bank,Santé,mince,impossible,fidèle,avec,our,été,subject,69,2024-06-19,565.76,358.51,CAT035
+326,ART000326,3720948413126,Philips Café ask,DIM1-38,ensemble,DIM2-74,ruine,Monoprix,Bijouterie,majority,ramener,honneur,dos,but,because,decade,87,2024-02-26,1631.29,1292.89,CAT009
+327,ART000327,9749096173991,Samsung T-shirt a,DIM1-36,somebody,DIM2-84,plant,Leoni AG,Vêtements,mind,imposer,my,quite,everything,jaune,resource,32,2024-05-01,296.76,227.23,CAT021
+328,ART000328,1270587722162,IKEA Jus between,DIM1-63,guess,DIM2-19,doigt,Amen Bank,Sport & Loisirs,entrée,gros,front,board,within,réunir,ignorer,81,2023-05-30,831.38,511.38,CAT029
+329,ART000329,2292587964341,IKEA Télévision world,DIM1-66,hospital,DIM2-96,grave,Monoprix,Santé,short,themselves,listen,large,sound,accept,around,59,2023-10-02,1900.76,1361.69,CAT021
+330,ART000330,7403344505669,Apple Thé open,DIM1-94,élever,DIM2-59,total,Aziza,Hygiène,both,étage,image,year,your,tombe,rise,69,2023-07-14,798.44,610.78,CAT028
+331,ART000331,9960105485748,Philips Parfum peu,DIM1-42,bouche,DIM2-37,stage,Géant,Chaussures,thank,cri,painting,reprendre,oreille,important,onto,74,2024-06-19,265.54,201.19,CAT032
+332,ART000332,2155732573754,Nestlé Jus decide,DIM1-7,especially,DIM2-6,côté,Yazaki Tunisia,Téléphonie,surveiller,late,sure,success,quatre,printemps,admit,3,2023-01-25,252.85,174.03,CAT011
+333,ART000333,8749511918184,IKEA Smartphone prix,DIM1-26,rêver,DIM2-89,poor,Leoni AG,Automobiles,bonheur,television,make,visit,temps,baby,tard,21,2023-12-19,1749.47,1082.34,CAT018
+334,ART000334,0694096003566,Philips Sac extraordinaire,DIM1-11,rouler,DIM2-48,no,One Tech Group,Boissons,ready,revoir,walk,discours,eau,course,année,51,2024-08-28,1253.08,927.14,CAT047
+335,ART000335,8515533342647,IKEA Lampe emmener,DIM1-84,agreement,DIM2-12,où,Yazaki Tunisia,Alimentation,maître,palais,marché,parce que,inside,durer,performance,28,2023-03-14,956.23,687.28,CAT009
+336,ART000336,8981231795564,Nivea Shampoing écouter,DIM1-57,presser,DIM2-2,mean,Groupe Poulina,Librairie,movie,passé,accuser,suggest,instead,lequel,young,16,2024-10-11,1976.37,1460.15,CAT028
+337,ART000337,6431670450231,Apple Parfum respect,DIM1-30,condamner,DIM2-50,côté,SOTUMAG,Cosmétiques,sound,bas,ton,hot,than,noir,derrière,14,2024-07-30,630.14,395.37,CAT020
+338,ART000338,5120734654951,Nivea Machine à laver animer,DIM1-87,air,DIM2-19,already,SOTUMAG,Bijouterie,morceau,rapport,sound,danser,aide,watch,cercle,73,2023-02-21,21.91,13.87,CAT042
+339,ART000339,7768729047746,Danone Sac ici,DIM1-28,positive,DIM2-81,plaire,Leoni AG,Informatique,smile,composer,produire,couleur,tombe,cesse,fear,79,2023-07-14,1374.7,848.65,CAT014
+340,ART000340,4245798894257,LG Réfrigérateur house,DIM1-97,rocher,DIM2-16,matière,Amen Bank,Bébé & Enfant,douceur,ah,spectacle,espace,milieu,activity,member,45,2023-05-26,1926.68,1460.84,CAT021
+341,ART000341,7379487148554,Philips Lampe exiger,DIM1-83,surface,DIM2-11,sport,Orange Tunisie,Chaussures,record,trait,source,at,last,réclamer,cerveau,77,2023-12-22,1202.02,789.71,CAT039
+342,ART000342,1842547681828,Samsung Café ten,DIM1-85,coucher,DIM2-39,aimer,Tunisie Telecom,Bijouterie,lendemain,réserver,qui,notice,vide,mais,changer,78,2024-05-08,1021.5,692.93,CAT048
+343,ART000343,2896340646866,Samsung Eau management,DIM1-31,century,DIM2-64,a,Senia,Cosmétiques,étroit,detail,banc,challenge,plein,établir,stop,31,2024-05-16,1001.67,615.23,CAT039
+344,ART000344,6933513426194,Bosch Smartphone durer,DIM1-41,change,DIM2-17,soon,Senia,Maroquinerie,activity,protéger,need,souhaiter,each,fire,rayon,54,2023-04-30,734.0,465.76,CAT044
+345,ART000345,5406417692749,Nestlé Parfum puis,DIM1-10,ceci,DIM2-3,effort,Amen Bank,Hygiène,think,know,suivre,folie,west,push,kind,2,2023-10-05,528.06,414.27,CAT003
+346,ART000346,0173973964171,Adidas Chaussures policy,DIM1-37,and,DIM2-81,sang,BIAT,Informatique,riche,colère,lire,teacher,serious,journal,together,55,2024-03-21,1405.11,1023.07,CAT006
+347,ART000347,6603920514608,L'Oréal Yaourt time,DIM1-20,her,DIM2-36,he,SOTUMAG,Automobiles,fixe,step,il,say,specific,éclater,sit,11,2024-08-08,1025.05,814.77,CAT014
+348,ART000348,2715598354111,Adidas Machine à laver form,DIM1-42,purpose,DIM2-51,mari,Amen Bank,Hygiène,fatiguer,have,sure,war,somebody,demande,admit,40,2023-05-28,1398.86,1106.06,CAT047
+349,ART000349,8848826913119,Samsung Lampe together,DIM1-32,child,DIM2-12,no,UTIC,Cosmétiques,industry,matière,fumer,ignorer,page,étendre,traîner,59,2023-01-21,1226.53,811.79,CAT004
+350,ART000350,3333732043098,Nivea Thé this,DIM1-95,join,DIM2-23,musique,Yazaki Tunisia,Alimentation,prononcer,product,skin,seat,suggest,lawyer,his,91,2023-09-06,278.74,176.38,CAT001
+351,ART000351,1253892187857,Adidas Sac sentir,DIM1-67,juge,DIM2-93,pénétrer,Monoprix,Électronique,paper,pauvre,modern,attention,amuser,operation,journal,48,2024-11-04,258.23,200.05,CAT050
+352,ART000352,1514940976268,Apple Thé toucher,DIM1-99,force,DIM2-4,give,Géant,Informatique,retourner,charge,travel,si,vraiment,people,boire,35,2024-02-16,1050.09,779.65,CAT017
+353,ART000353,2339220715110,Nivea Pain painting,DIM1-10,support,DIM2-64,I,Modern Leasing,Bijouterie,certainly,cover,haine,cost,until,money,devoir,47,2023-11-08,115.6,73.22,CAT037
+354,ART000354,3515718409085,Philips Chaise vague,DIM1-99,beyond,DIM2-14,abri,Amen Bank,Cosmétiques,accompagner,if,ahead,town,depuis,suffire,court,30,2023-09-26,1482.86,902.78,CAT001
+355,ART000355,2959272827090,Sony Smartphone rang,DIM1-6,haïr,DIM2-61,box,Aziza,Bébé & Enfant,result,salut,changement,data,silence,writer,without,20,2024-08-31,362.03,257.25,CAT003
+356,ART000356,1815352373608,Danone Café artist,DIM1-84,talk,DIM2-54,proposer,Orange Tunisie,Librairie,tourner,which,sometimes,forcer,central,source,fuir,32,2023-11-10,835.43,554.71,CAT047
+357,ART000357,6170715879643,L'Oréal Télévision stop,DIM1-48,spend,DIM2-16,quart,BIAT,Boissons,diriger,gris,sur,single,quoi,aujourd'hui,image,23,2023-10-01,450.25,358.53,CAT034
+358,ART000358,6882850317231,Apple Chaussures baby,DIM1-60,pourquoi,DIM2-37,réunir,Carrefour Tunisie,Librairie,attitude,describe,frère,essayer,cost,the,madame,12,2023-02-04,1108.42,746.84,CAT001
+359,ART000359,2939469434607,L'Oréal Stylo than,DIM1-39,huge,DIM2-95,thousand,Arab Tunisian Bank,Maison & Jardin,police,plan,soudain,analysis,career,blond,classe,60,2024-12-01,739.71,591.44,CAT032
+360,ART000360,1285246484497,Danone Table boy,DIM1-70,mettre,DIM2-98,cause,Orange Tunisie,Vêtements,deep,promettre,personne,boy,ensuite,mêler,car,1,2023-07-07,1865.13,1205.99,CAT002
+361,ART000361,9572790833508,Nivea Sac croiser,DIM1-89,trade,DIM2-2,will,Géant,Alimentation,justice,deep,mener,claim,mouth,enfoncer,souffler,98,2023-09-18,1316.32,981.24,CAT048
+362,ART000362,0713984822857,Sony Réfrigérateur chute,DIM1-68,mouvement,DIM2-31,soirée,UTIC,Jouets,huit,American,chasser,accorder,about,meilleur,enfermer,8,2024-03-13,1945.26,1444.03,CAT010
+363,ART000363,0796496737949,Samsung Télévision provide,DIM1-30,measure,DIM2-67,partout,UTIC,Santé,door,frais,membre,us,lui,odeur,charge,59,2023-12-24,1949.24,1395.96,CAT006
+364,ART000364,8362536667778,LG Shampoing major,DIM1-82,green,DIM2-51,reduce,SOTUMAG,Maroquinerie,cell,étendre,vue,retirer,tombe,we,official,73,2023-10-19,129.25,102.48,CAT043
+365,ART000365,3627187496036,Philips Lampe interrompre,DIM1-34,tombe,DIM2-41,write,Senia,Librairie,couple,agent,mauvais,fil,surprendre,paper,cri,41,2023-09-03,908.25,558.52,CAT015
+366,ART000366,3275998011100,LG Table autrement,DIM1-100,tonight,DIM2-99,haut,Amen Bank,Cosmétiques,degree,égal,though,loi,past,may,score,20,2023-08-14,215.79,149.59,CAT029
+367,ART000367,1822261896289,Apple T-shirt scene,DIM1-69,road,DIM2-46,cinquante,Tunisie Telecom,Téléphonie,papier,as,marche,hundred,conference,sable,word,40,2024-03-30,929.38,574.44,CAT008
+368,ART000368,7079551512297,Philips Jus research,DIM1-91,whom,DIM2-90,chose,Arab Tunisian Bank,Boissons,souvent,final,lequel,admit,condition,today,dark,28,2024-02-09,1672.67,1053.22,CAT021
+369,ART000369,7520344765043,Sony Café receive,DIM1-46,installer,DIM2-51,confondre,BIAT,Boissons,revenir,goutte,decision,husband,also,same,government,87,2024-09-15,601.19,364.45,CAT012
+370,ART000370,6525483744172,Coca-Cola Chaussures trace,DIM1-58,training,DIM2-72,ancien,STB,Maison & Jardin,chercher,bout,maintenant,cuisine,causer,admettre,jaune,13,2023-05-02,926.78,578.58,CAT009
+371,ART000371,5191023121102,Coca-Cola Ordinateur strong,DIM1-100,écouter,DIM2-29,ça,Leoni AG,Électroménager,full,place,voler,point,personne,sign,page,52,2024-01-30,747.62,588.76,CAT041
+372,ART000372,1234289311321,L'Oréal Télévision something,DIM1-76,décider,DIM2-34,prove,SOTUMAG,Alimentation,plant,move,discover,enough,simply,quelque,terreur,9,2023-08-07,399.51,275.14,CAT042
+373,ART000373,1017509617010,Apple Machine à laver per,DIM1-43,save,DIM2-16,retomber,Délice Danone,Téléphonie,short,little,situation,hospital,first,form,ensemble,7,2023-02-03,340.14,233.55,CAT037
+374,ART000374,6775677722664,IKEA Thé corps,DIM1-64,I,DIM2-4,ministre,Senia,Informatique,address,strong,crier,emmener,ailleurs,marriage,feuille,23,2023-06-03,711.12,465.78,CAT012
+375,ART000375,7624843379760,LG Pantalon yourself,DIM1-5,poitrine,DIM2-79,léger,Arab Tunisian Bank,Parfumerie,bien,season,political,chance,prononcer,suggest,nécessaire,32,2023-01-11,1296.32,884.61,CAT032
+376,ART000376,2549691928456,Nike Yaourt surface,DIM1-8,l'une,DIM2-12,at,Monoprix,Bébé & Enfant,parce que,key,éclater,rise,haut,stop,one,18,2024-03-24,841.37,653.69,CAT042
+377,ART000377,3259399337977,Sony Shampoing haut,DIM1-81,marquer,DIM2-70,son,Groupe Poulina,Bébé & Enfant,beat,maintain,audience,improve,finir,long,pièce,92,2023-06-23,721.43,545.61,CAT035
+378,ART000378,5597824575982,L'Oréal Sac tandis que,DIM1-65,seconde,DIM2-42,garde,Senia,Sport & Loisirs,donner,energy,land,général,democratic,garder,appartenir,24,2023-03-03,57.0,36.7,CAT039
+379,ART000379,7276829751475,Samsung Livre decade,DIM1-61,feel,DIM2-68,sac,Aziza,Maroquinerie,ici,compagnie,immense,home,herbe,oil,souhaiter,30,2024-05-17,1948.09,1265.42,CAT007
+380,ART000380,6259045990805,Philips Lampe pousser,DIM1-69,bientôt,DIM2-95,crise,Délice Danone,Maison & Jardin,puis,yeux,cercle,heavy,beat,gun,position,74,2024-02-28,1693.78,1136.46,CAT025
+381,ART000381,8662813721439,LG Chaise avenir,DIM1-31,autrefois,DIM2-76,plan,Géant,Santé,attacher,entretenir,contre,future,something,after,mind,76,2024-06-04,61.27,41.07,CAT045
+382,ART000382,8103903397054,L'Oréal Pain rond,DIM1-19,Mr,DIM2-73,militaire,Tunisie Telecom,Jouets,croire,souffrance,exactly,much,collection,seuil,good,70,2023-09-12,621.56,377.66,CAT032
+383,ART000383,6147079863212,Sony Ordinateur meilleur,DIM1-78,durer,DIM2-29,retourner,Groupe Poulina,Bijouterie,there,sauvage,herself,arm,reste,director,habitant,62,2023-06-18,6.36,4.07,CAT040
+384,ART000384,5376576927788,Bosch Machine à laver stuff,DIM1-92,brusquement,DIM2-23,à,Géant,Boissons,sol,affirmer,wonder,grâce,I,chaise,lui,3,2024-05-16,299.69,234.79,CAT046
+385,ART000385,6514604014249,Coca-Cola Réfrigérateur wonder,DIM1-68,comme,DIM2-47,placer,SOTUMAG,Santé,ah,casser,pas,expect,vivre,at,elle,91,2023-11-05,1884.14,1351.31,CAT026
+386,ART000386,0076762090146,Philips Cahier serve,DIM1-42,degree,DIM2-18,agent,One Tech Group,Informatique,try,envoyer,take,tempête,résistance,operation,strong,82,2024-07-09,1921.52,1274.85,CAT042
+387,ART000387,4519577825580,Adidas Café hors,DIM1-89,investment,DIM2-79,rôle,Aziza,Maison & Jardin,hotel,hand,choose,Republican,here,before,value,86,2023-09-16,1179.96,797.27,CAT012
+388,ART000388,7782058295821,Danone Thé durer,DIM1-38,beat,DIM2-17,up,One Tech Group,Alimentation,premier,proposer,riche,exemple,ennemi,middle,image,90,2024-03-01,1897.65,1461.48,CAT026
+389,ART000389,8639561372305,Samsung Pain pourquoi,DIM1-24,bon,DIM2-78,effort,Géant,Parfumerie,floor,réalité,distance,ailleurs,garde,écarter,un,29,2023-02-22,1281.1,1008.66,CAT007
+390,ART000390,7165609456535,Bosch Machine à laver later,DIM1-96,prove,DIM2-10,type,Orange Tunisie,Santé,almost,front,allow,school,traditional,soldier,non,41,2024-06-15,339.94,259.83,CAT006
+391,ART000391,0607174811311,Nivea Jus hundred,DIM1-94,effort,DIM2-43,already,Modern Leasing,Alimentation,force,direction,beyond,valeur,sauver,président,authority,34,2023-12-26,423.32,259.73,CAT045
+392,ART000392,9680491872747,Nestlé Livre aspect,DIM1-14,plant,DIM2-93,last,Groupe Poulina,Boissons,venir,bruit,pluie,enjoy,meilleur,malade,goutte,50,2023-06-23,879.25,697.97,CAT027
+393,ART000393,9737112229906,Nike T-shirt model,DIM1-49,study,DIM2-45,against,STB,Bébé & Enfant,prove,ni,along,least,audience,causer,understand,13,2024-01-04,1658.47,1211.0,CAT037
+394,ART000394,8321021923782,Sony Jus onto,DIM1-21,mean,DIM2-58,théâtre,SOTUMAG,Boissons,rose,business,entrer,court,cell,activity,as,38,2023-03-29,45.06,35.61,CAT017
+395,ART000395,9804253733774,Bosch Télévision difficult,DIM1-22,depuis,DIM2-49,on,One Tech Group,Hygiène,cours,prévoir,bientôt,must,ressembler,éternel,those,71,2024-12-29,1883.96,1257.71,CAT006
+396,ART000396,4606056035674,Nike Fromage compter,DIM1-91,possible,DIM2-4,race,UTIC,Électronique,est,modern,oeuvre,neuf,reprendre,voilà,surprendre,78,2023-10-15,1780.06,1087.1,CAT011
+397,ART000397,6475489547874,Sony Cahier sometimes,DIM1-25,personne,DIM2-53,benefit,STB,Chaussures,guess,étude,world,two,phone,haut,what,34,2024-03-15,1322.89,856.58,CAT020
+398,ART000398,5435864496396,IKEA Ordinateur véritable,DIM1-74,customer,DIM2-71,seem,Attijari Bank,Vêtements,democratic,party,colère,pull,durer,cover,house,7,2023-11-01,724.85,447.61,CAT028
+399,ART000399,4978524914164,Nivea Jus about,DIM1-77,discours,DIM2-62,without,Tunisie Telecom,Cosmétiques,look,much,decide,approach,production,physical,placer,4,2023-10-28,417.87,275.11,CAT041
+400,ART000400,1221500141881,Nike Télévision care,DIM1-15,venir,DIM2-40,democratic,Senia,Jouets,ton,adresser,interrompre,feel,effect,en,without,63,2024-10-15,1790.28,1106.8,CAT017
+401,ART000401,2089532638903,IKEA Yaourt centre,DIM1-24,table,DIM2-48,capital,Senia,Santé,étendue,do,pauvre,dernier,fois,absolument,travers,24,2023-12-05,894.32,615.25,CAT017
+402,ART000402,7331167726964,Sony Livre rayon,DIM1-35,describe,DIM2-73,leave,Délice Danone,Vêtements,fund,précieux,this,policy,main,voici,selon,97,2023-05-11,1394.46,860.58,CAT007
+403,ART000403,3355643436974,Nestlé Sac vendre,DIM1-70,taire,DIM2-53,parti,Amen Bank,Maison & Jardin,même,here,again,least,where,behind,especially,71,2023-06-27,126.66,96.73,CAT025
+404,ART000404,5472239898300,Adidas T-shirt his,DIM1-88,ensuite,DIM2-61,voix,Amen Bank,Maison & Jardin,certain,être,pur,local,fumée,on,truth,61,2023-06-27,601.21,469.28,CAT026
+405,ART000405,4281319092481,Samsung Café year,DIM1-65,want,DIM2-74,époque,BIAT,Maroquinerie,dont,bien,fermer,quitter,peau,several,croiser,87,2023-07-10,1965.6,1226.65,CAT010
+406,ART000406,5248088062205,LG Pantalon clearly,DIM1-22,et,DIM2-28,painting,Tunisie Telecom,Vêtements,maintain,parvenir,vous,yeux,déchirer,bien,century,6,2023-08-12,849.63,583.76,CAT044
+407,ART000407,8768868785997,LG Eau society,DIM1-77,need,DIM2-34,compare,Géant,Hygiène,card,eaux,seigneur,thousand,business,idea,firm,12,2023-01-19,779.26,553.59,CAT026
+408,ART000408,7303627924630,Adidas Livre ailleurs,DIM1-59,ou,DIM2-2,message,Arab Tunisian Bank,Maroquinerie,man,hot,peine,ne,éteindre,supposer,garde,67,2023-02-11,1564.46,1068.35,CAT008
+409,ART000409,7661945887076,L'Oréal Machine à laver le,DIM1-76,daughter,DIM2-75,win,Yazaki Tunisia,Cosmétiques,affirmer,courir,as,prévenir,sourd,agent,international,73,2024-09-12,1560.19,1206.8,CAT019
+410,ART000410,5954508917764,IKEA Sac trace,DIM1-34,cruel,DIM2-50,give,Attijari Bank,Maroquinerie,sign,charge,dos,soi,fact,discussion,attention,78,2023-01-10,948.73,621.5,CAT012
+411,ART000411,3693626894305,L'Oréal Machine à laver découvrir,DIM1-78,faute,DIM2-88,stop,Senia,Boissons,employer,whole,trente,build,tranquille,task,practice,51,2024-10-22,1779.7,1313.6,CAT022
+412,ART000412,4988558298499,Danone Ordinateur enlever,DIM1-61,offrir,DIM2-35,expert,Aziza,Alimentation,yard,moment,approach,suddenly,both,remplir,employer,44,2023-12-27,1635.68,1083.13,CAT020
+413,ART000413,1885666954138,Coca-Cola Parfum son,DIM1-90,without,DIM2-88,haut,Yazaki Tunisia,Maison & Jardin,on,teacher,class,material,instinct,by,eat,18,2024-11-13,604.46,416.24,CAT048
+414,ART000414,6936634392522,Philips Cahier personal,DIM1-94,tonight,DIM2-54,chant,Arab Tunisian Bank,Hygiène,camarade,creuser,mind,ville,autre,petit,après,25,2023-08-15,886.22,663.06,CAT027
+415,ART000415,5910245109107,Coca-Cola Shampoing divers,DIM1-48,menacer,DIM2-8,box,BIAT,Électronique,personal,power,signifier,certainly,paysan,coach,pourtant,9,2024-06-19,625.69,425.89,CAT033
+416,ART000416,0652775844664,L'Oréal Shampoing habiller,DIM1-4,develop,DIM2-23,pays,Tunisie Telecom,Électroménager,voici,arrière,baisser,coûter,parfaitement,crainte,forcer,8,2024-06-18,502.73,306.72,CAT030
+417,ART000417,9376618943703,Danone Sac close,DIM1-26,dark,DIM2-36,attorney,Aziza,Téléphonie,approcher,improve,pouvoir,reason,step,listen,immobile,65,2024-05-26,796.9,586.71,CAT008
+418,ART000418,9202461752028,Bosch Lampe prison,DIM1-63,fall,DIM2-77,détail,Modern Leasing,Électronique,American,sourire,seek,such,green,chaud,sport,61,2023-06-13,1175.83,786.45,CAT023
+419,ART000419,5848689993603,Danone Livre serve,DIM1-89,nothing,DIM2-12,another,Carrefour Tunisie,Alimentation,go,morceau,pied,woman,who,herbe,parfois,50,2023-08-22,104.05,78.66,CAT037
+420,ART000420,3946408303732,Coca-Cola Table able,DIM1-29,anyone,DIM2-83,fille,Orange Tunisie,Électroménager,admit,specific,pousser,quitter,state,envoyer,option,35,2023-05-18,1304.92,788.19,CAT033
+421,ART000421,0615370124241,Samsung Jus just,DIM1-61,nu,DIM2-17,décrire,One Tech Group,Parfumerie,bill,for,briser,commencement,espoir,feu,cinquante,2,2023-09-20,451.42,343.54,CAT039
+422,ART000422,8878179415152,Danone Stylo mêler,DIM1-91,reculer,DIM2-83,share,Monoprix,Informatique,soleil,beau,courir,college,plan,all,tonight,49,2024-09-07,1703.91,1108.22,CAT030
+423,ART000423,1863239791373,Philips Pantalon impact,DIM1-87,quality,DIM2-67,decide,Arab Tunisian Bank,Bébé & Enfant,arrêter,cup,réunir,adult,range,just,herbe,75,2023-03-08,209.11,167.26,CAT033
+424,ART000424,1988192778855,Adidas Sac sonner,DIM1-83,suivre,DIM2-77,else,Arab Tunisian Bank,Automobiles,not,finally,cher,geste,vieux,team,claim,39,2023-09-22,1370.4,839.74,CAT031
+425,ART000425,1851744600457,Nivea Livre vrai,DIM1-42,contre,DIM2-36,livrer,Monoprix,Automobiles,cesse,special,friend,devenir,rose,entrée,fixe,25,2024-10-15,304.11,197.08,CAT049
+426,ART000426,8984841604615,Nestlé Ordinateur exist,DIM1-77,contraire,DIM2-52,cerveau,Géant,Vêtements,cher,and,table,into,fatigue,sans,calmer,93,2023-05-11,55.78,44.6,CAT032
+427,ART000427,9107322836087,IKEA Livre part,DIM1-52,position,DIM2-50,banc,Délice Danone,Maroquinerie,development,data,guy,mon,whether,exist,société,91,2024-07-03,1989.53,1330.27,CAT013
+428,ART000428,4970169342920,Sony Café travers,DIM1-88,conseil,DIM2-69,entraîner,Attijari Bank,Santé,aucun,valeur,cell,fixe,revoir,tendre,choix,65,2023-11-18,603.89,463.86,CAT011
+429,ART000429,5372215566844,LG Yaourt record,DIM1-38,subir,DIM2-13,eaux,Attijari Bank,Vêtements,head,toute,port,eye,appear,about,major,95,2023-02-17,521.01,392.1,CAT036
+430,ART000430,7843614244261,Nivea Chaise phrase,DIM1-43,sac,DIM2-84,happen,SOTUMAG,Maison & Jardin,quickly,parfois,véritable,those,in,college,discussion,46,2024-12-03,450.54,308.21,CAT020
+431,ART000431,0376388214583,Bosch Cahier road,DIM1-34,fier,DIM2-75,skin,Carrefour Tunisie,Téléphonie,again,rester,est,entire,trait,souffrance,newspaper,16,2023-04-26,943.72,676.38,CAT041
+432,ART000432,5869507321460,Apple Fromage safe,DIM1-61,peace,DIM2-25,souhaiter,BIAT,Cosmétiques,relationship,big,marriage,été,answer,heavy,song,88,2024-02-18,766.43,523.18,CAT020
+433,ART000433,7368011923606,LG Machine à laver perdu,DIM1-26,nor,DIM2-44,charger,UTIC,Maroquinerie,serious,en,empire,bill,expérience,saint,camera,59,2024-05-14,290.73,184.93,CAT046
+434,ART000434,3153911498309,Nike Télévision risk,DIM1-43,number,DIM2-81,titre,One Tech Group,Librairie,pont,mur,black,près,riche,a,same,82,2024-12-26,120.74,79.05,CAT029
+435,ART000435,7820190432237,L'Oréal Chaise dessus,DIM1-98,éclater,DIM2-21,conseil,Attijari Bank,Hygiène,magazine,toucher,draw,approcher,du,product,they,17,2023-04-30,1230.89,844.25,CAT041
+436,ART000436,2760250826116,Nike T-shirt effacer,DIM1-50,cruel,DIM2-1,boy,Délice Danone,Chaussures,drop,faux,various,coach,parfaitement,consider,family,26,2023-07-22,1462.66,1138.54,CAT001
+437,ART000437,0364687191209,Sony Shampoing visible,DIM1-3,réponse,DIM2-87,indicate,Groupe Poulina,Maison & Jardin,autrement,rappeler,comprendre,autorité,est,inviter,face,29,2023-09-15,1388.58,919.82,CAT023
+438,ART000438,2067323182972,IKEA Réfrigérateur nommer,DIM1-65,humain,DIM2-76,community,Carrefour Tunisie,Électronique,throw,all,afin de,tout,apporter,humide,suite,9,2023-03-06,1648.57,1301.86,CAT020
+439,ART000439,7178509025565,Danone Pantalon présence,DIM1-67,soldier,DIM2-77,every,BIAT,Librairie,carte,sein,field,nearly,cri,franchir,haute,56,2023-12-31,1776.51,1187.68,CAT009
+440,ART000440,8670090043656,Bosch Parfum behavior,DIM1-97,shake,DIM2-25,next,One Tech Group,Bébé & Enfant,monde,order,épaule,church,much,huit,recently,3,2023-10-12,460.69,367.16,CAT047
+441,ART000441,2960807063364,Danone Table prepare,DIM1-3,stop,DIM2-76,songer,BIAT,Électronique,composer,bas,suffer,comment,entire,rencontrer,faim,16,2024-10-27,736.35,558.47,CAT042
+442,ART000442,8773836381644,Nivea Chaussures curiosité,DIM1-33,couche,DIM2-99,present,STB,Parfumerie,she,public,involve,cold,étage,something,lumière,7,2023-06-16,1189.88,871.46,CAT004
+443,ART000443,4417064625548,Coca-Cola Eau dimanche,DIM1-3,story,DIM2-7,tromper,Yazaki Tunisia,Informatique,grow,fumer,ancien,perte,foot,structure,travel,57,2024-02-03,763.61,496.76,CAT036
+444,ART000444,3153888245272,LG Café trésor,DIM1-27,always,DIM2-89,right,Groupe Poulina,Automobiles,froid,dur,éclat,daughter,people,use,mettre,54,2024-09-18,1325.02,932.9,CAT043
+445,ART000445,1119787180931,L'Oréal Fromage sauver,DIM1-90,sourire,DIM2-18,position,UTIC,Cosmétiques,consulter,quickly,draw,monter,bruit,signer,son,66,2023-10-30,1438.94,944.72,CAT008
+446,ART000446,7868800230095,Nike Réfrigérateur intention,DIM1-26,brother,DIM2-78,seconde,Tunisie Telecom,Sport & Loisirs,etc,goal,public,everything,test,naturellement,solitude,67,2023-11-01,1946.37,1441.65,CAT023
+447,ART000447,9520149118943,LG Stylo rapport,DIM1-6,draw,DIM2-71,militaire,Attijari Bank,Électroménager,gun,sac,morceau,dent,elle,bord,part,89,2023-09-18,1866.58,1207.49,CAT022
+448,ART000448,6114042886059,Nivea Smartphone interrompre,DIM1-12,position,DIM2-15,later,Amen Bank,Jouets,street,propos,coeur,nu,attacher,avec,lisser,20,2023-11-06,1899.14,1333.84,CAT050
+449,ART000449,0627153123457,Danone Thé area,DIM1-13,Mr,DIM2-33,oncle,Orange Tunisie,Téléphonie,poids,language,sombre,puissant,fill,clef,grâce,38,2024-09-08,531.93,329.78,CAT004
+450,ART000450,3543788260336,Coca-Cola Chaise possible,DIM1-6,avance,DIM2-38,train,Aziza,Librairie,live,sérieux,prêt,other,françois,painting,aile,55,2023-07-18,1478.39,1138.73,CAT007
+451,ART000451,6999699648997,Samsung Ordinateur behind,DIM1-18,check,DIM2-85,particularly,One Tech Group,Librairie,public,course,other,fusil,précis,over,dès,46,2023-03-26,1789.58,1169.78,CAT040
+452,ART000452,3426698069087,Apple Thé clear,DIM1-48,push,DIM2-44,passé,One Tech Group,Cosmétiques,wait,surtout,contain,habiller,proposer,imaginer,rate,52,2024-11-28,803.5,525.78,CAT030
+453,ART000453,8040561299651,Danone Chaussures règle,DIM1-62,montagne,DIM2-54,off,One Tech Group,Cosmétiques,oh,better,page,guy,professor,embrasser,reprendre,17,2024-09-20,1393.86,1109.95,CAT004
+454,ART000454,1238595143461,Apple Chaise essayer,DIM1-54,to,DIM2-76,produce,Attijari Bank,Maroquinerie,appel,plaisir,abattre,traîner,plan,whatever,at,87,2023-04-01,879.13,594.25,CAT040
+455,ART000455,8311395001681,L'Oréal Sac signer,DIM1-4,be,DIM2-88,professional,Leoni AG,Jouets,huit,partie,staff,soumettre,rose,quality,product,63,2023-02-09,230.31,158.48,CAT027
+456,ART000456,3440777946205,Philips Télévision value,DIM1-84,mois,DIM2-41,remain,Groupe Poulina,Bijouterie,sec,joie,rencontre,poser,win,wind,debout,99,2024-08-20,1488.53,1061.33,CAT047
+457,ART000457,0688413337311,Coca-Cola Jus haute,DIM1-44,senior,DIM2-67,droit,BIAT,Parfumerie,whole,boy,off,pendant,dur,tu,bureau,13,2023-01-01,868.53,564.3,CAT047
+458,ART000458,1363852778954,Nivea Sac campaign,DIM1-87,empêcher,DIM2-83,bad,Senia,Vêtements,food,person,demande,anyone,mien,Mrs,cerveau,72,2023-08-02,1784.66,1090.27,CAT040
+459,ART000459,0373416781277,LG Eau region,DIM1-65,dimanche,DIM2-61,agiter,Attijari Bank,Électronique,supérieur,portier,charge,faible,Congress,simple,still,10,2023-07-01,1504.1,974.93,CAT021
+460,ART000460,3831828560530,Samsung Livre single,DIM1-65,posséder,DIM2-29,interesting,STB,Bébé & Enfant,partie,scene,moins,eat,national,aider,south,52,2023-10-20,1635.12,1131.21,CAT006
+461,ART000461,1223552165051,Nike Pain write,DIM1-12,venir,DIM2-64,interview,Modern Leasing,Librairie,bonheur,bon,importance,loss,rentrer,easy,price,16,2024-08-31,1961.44,1433.17,CAT048
+462,ART000462,2205093869482,IKEA Réfrigérateur raise,DIM1-53,général,DIM2-5,throughout,STB,Chaussures,tapis,forme,live,take,vieillard,benefit,wind,1,2023-07-02,1652.69,1309.98,CAT039
+463,ART000463,7673820974610,Philips Eau souffrance,DIM1-66,miss,DIM2-72,if,Tunisie Telecom,Téléphonie,son,mouth,serious,confiance,name,poste,table,44,2024-06-13,729.87,557.12,CAT004
+464,ART000464,6235040566955,Bosch Pantalon outside,DIM1-72,apporter,DIM2-99,demain,Arab Tunisian Bank,Parfumerie,we,jeu,executive,court,magazine,deal,le,61,2023-05-25,1434.73,1066.27,CAT024
+465,ART000465,2894633891566,Apple Réfrigérateur façon,DIM1-98,valoir,DIM2-85,culture,Orange Tunisie,Alimentation,seven,could,improve,riche,moitié,vieil,jeune,44,2023-03-21,713.5,565.72,CAT041
+466,ART000466,8186550784682,Adidas Stylo admit,DIM1-67,something,DIM2-48,spring,Yazaki Tunisia,Boissons,thank,door,dominer,production,tromper,cinq,place,22,2023-05-09,987.38,739.06,CAT046
+467,ART000467,3859340153641,Apple T-shirt image,DIM1-33,long,DIM2-79,immobile,Tunisie Telecom,Électroménager,degree,embrasser,lorsque,noir,should,espace,line,16,2023-02-05,1860.78,1196.7,CAT026
+468,ART000468,9421410527696,Danone Table vieux,DIM1-44,option,DIM2-14,sept,UTIC,Boissons,plaire,fier,carry,prochain,interest,contraire,onto,82,2023-11-20,1675.75,1046.75,CAT038
+469,ART000469,5986787442279,Nike Pantalon Mrs,DIM1-85,sit,DIM2-76,number,BIAT,Vêtements,significant,himself,store,could,grain,campagne,go,64,2023-04-16,13.65,8.32,CAT048
+470,ART000470,0024539313219,Coca-Cola T-shirt trouble,DIM1-75,authority,DIM2-62,accord,BIAT,Électronique,grow,along,souvenir,one,user,former,feel,89,2023-10-27,1159.22,884.54,CAT047
+471,ART000471,2736774620257,IKEA Réfrigérateur l'un,DIM1-85,determine,DIM2-77,qualité,Arab Tunisian Bank,Librairie,depuis,considérer,battre,doux,taire,soudain,probably,65,2023-02-15,1763.37,1403.47,CAT027
+472,ART000472,0183647238750,Nestlé Café queue,DIM1-32,petit,DIM2-36,natural,Senia,Librairie,tout,cost,juste,majority,ever,or,member,38,2023-10-22,908.43,570.16,CAT009
+473,ART000473,9052918768313,Danone Fromage argue,DIM1-96,où,DIM2-66,taire,Carrefour Tunisie,Chaussures,continue,passé,douleur,store,respect,appartenir,court,41,2023-05-01,1425.19,1035.42,CAT036
+474,ART000474,6216591438823,Sony Table déjà,DIM1-80,read,DIM2-92,scientist,Carrefour Tunisie,Santé,rire,horizon,example,can,share,since,discuss,87,2024-09-19,269.68,196.87,CAT046
+475,ART000475,4309544979121,Adidas Chaise PM,DIM1-70,able,DIM2-89,réunir,Géant,Cosmétiques,oublier,déchirer,inquiéter,tracer,song,serve,eh,98,2024-07-03,707.71,507.12,CAT031
+476,ART000476,2988322012568,Danone Jus regard,DIM1-54,depuis,DIM2-87,attirer,STB,Automobiles,sort,policy,natural,happy,vide,region,crime,55,2024-05-10,1617.57,1004.99,CAT034
+477,ART000477,0030443619958,LG Chaussures pauvre,DIM1-7,jour,DIM2-86,écouter,Délice Danone,Électroménager,an,système,sac,record,certain,decide,factor,35,2023-02-14,1501.62,1196.35,CAT011
+478,ART000478,0967139719121,Philips Jus anything,DIM1-19,crise,DIM2-8,écarter,Carrefour Tunisie,Électroménager,colline,it,soldier,avance,sérieux,clef,mari,97,2023-03-23,1084.64,827.37,CAT023
+479,ART000479,2019072587331,L'Oréal Réfrigérateur arrière,DIM1-87,owner,DIM2-95,occuper,STB,Maison & Jardin,green,ramasser,ton,pas,standard,créer,control,96,2023-03-11,1296.0,839.18,CAT025
+480,ART000480,0868250952292,Philips Café how,DIM1-89,ainsi,DIM2-86,visible,Délice Danone,Bébé & Enfant,hard,those,terreur,élément,career,than,chaise,50,2023-12-19,836.05,553.91,CAT044
+481,ART000481,2436585856424,Samsung Yaourt apercevoir,DIM1-2,year,DIM2-96,dame,Monoprix,Électroménager,cou,wonder,non,livre,planche,rentrer,fall,80,2023-05-10,1738.36,1331.58,CAT029
+482,ART000482,7166906322486,Danone Eau jeu,DIM1-91,every,DIM2-83,valoir,Aziza,Maroquinerie,endormir,alone,baisser,aimer,whatever,model,home,70,2024-11-24,1478.21,1116.39,CAT013
+483,ART000483,9157955462344,Philips Table thought,DIM1-58,contraire,DIM2-23,main,SOTUMAG,Électronique,able,attention,colon,article,annoncer,once,changer,23,2023-11-06,1471.48,993.9,CAT008
+484,ART000484,1726808081575,Philips T-shirt couvrir,DIM1-72,cheveu,DIM2-34,sea,Leoni AG,Électronique,pencher,dont,mort,blue,avancer,seem,inspirer,75,2023-02-07,1692.8,1127.6,CAT001
+485,ART000485,5847436213001,LG Café court,DIM1-6,night,DIM2-20,likely,Géant,Parfumerie,score,pick,model,du,repousser,instinct,travers,7,2024-04-16,1548.45,1119.72,CAT041
+486,ART000486,2746662159189,Philips Jus conversation,DIM1-63,after,DIM2-74,avis,STB,Santé,interesting,large,habitude,produce,bien,autorité,per,10,2024-06-01,1569.14,1106.37,CAT021
+487,ART000487,1400493881947,Adidas Chaise herbe,DIM1-9,traîner,DIM2-65,heureux,One Tech Group,Informatique,attacher,popular,saluer,radio,woman,step,purpose,70,2024-05-18,1076.39,721.05,CAT006
+488,ART000488,3797166984165,Nivea Table bit,DIM1-43,éloigner,DIM2-43,few,Aziza,Automobiles,poète,own,energy,dernier,leave,écraser,pass,28,2024-04-19,1900.87,1342.2,CAT040
+489,ART000489,0142620370870,Coca-Cola Yaourt chemin,DIM1-97,moyen,DIM2-84,d'autres,Groupe Poulina,Cosmétiques,sourd,beyond,épais,return,wear,ci,papa,86,2024-07-21,695.28,542.94,CAT016
+490,ART000490,8018644822171,L'Oréal Fromage nearly,DIM1-32,réunir,DIM2-6,movement,Géant,Bébé & Enfant,left,rapport,bas,face,ni,front,reflect,15,2024-10-05,774.82,577.08,CAT035
+491,ART000491,3691496112871,Adidas Smartphone strong,DIM1-99,seigneur,DIM2-48,opportunity,BIAT,Bijouterie,peine,particular,red,femme,saison,drop,exprimer,58,2024-09-05,976.18,761.08,CAT019
+492,ART000492,1560783274887,Bosch Table instant,DIM1-66,health,DIM2-11,pauvre,Yazaki Tunisia,Électronique,court,push,séparer,science,thing,identify,fatiguer,99,2023-01-20,1078.26,782.16,CAT001
+493,ART000493,7842170285169,Nivea Table de,DIM1-81,particularly,DIM2-100,source,Tunisie Telecom,Informatique,face,à,fauteuil,no,simple,on,exprimer,14,2024-01-08,415.13,322.03,CAT045
+494,ART000494,8799160911418,Nestlé Thé cinq,DIM1-56,liberté,DIM2-83,du,SOTUMAG,Vêtements,box,égal,serve,wall,je,étrange,exemple,4,2024-03-08,921.15,559.67,CAT022
+495,ART000495,6502544724199,Samsung Télévision objet,DIM1-23,rate,DIM2-33,docteur,STB,Hygiène,eye,rester,interest,perte,watch,profiter,visage,74,2024-04-06,1644.13,1120.52,CAT017
+496,ART000496,8806782141748,Nivea Pantalon nation,DIM1-52,enlever,DIM2-56,prevent,Géant,Alimentation,métier,your,office,practice,violence,same,forget,50,2024-03-16,1348.23,810.53,CAT035
+497,ART000497,1559450119293,L'Oréal Thé avouer,DIM1-9,herself,DIM2-97,village,Amen Bank,Boissons,visit,large,blond,bar,result,énorme,despite,90,2023-09-02,1697.26,1333.38,CAT023
+498,ART000498,6218945590676,Philips Réfrigérateur aussitôt,DIM1-88,savoir,DIM2-39,surface,Arab Tunisian Bank,Hygiène,genou,country,fumée,how,stock,lawyer,item,37,2023-09-11,1531.72,1035.88,CAT029
+499,ART000499,4204565775809,Samsung Jus stay,DIM1-61,special,DIM2-21,do,STB,Maison & Jardin,presque,nous,établir,evening,type,step,souvenir,18,2024-08-21,1494.77,985.05,CAT035
+500,ART000500,5401659953009,LG Eau college,DIM1-39,colon,DIM2-87,croire,Aziza,Alimentation,course,later,rule,foreign,center,position,mémoire,71,2023-03-22,1750.16,1093.23,CAT010
+501,ART000501,2411584886009,L'Oréal Smartphone cheveu,DIM1-77,per,DIM2-51,medical,STB,Chaussures,operation,dormir,depuis,life,fil,central,structure,11,2024-10-24,612.86,458.59,CAT048
+502,ART000502,6121203843752,Bosch Thé observer,DIM1-28,same,DIM2-53,trial,BIAT,Vêtements,pays,tell,lumière,yourself,habitant,commun,près,21,2024-11-13,372.07,285.36,CAT040
+503,ART000503,5400644547520,Apple Table bruit,DIM1-24,côte,DIM2-86,cuisine,Amen Bank,Boissons,feeling,rest,parole,wear,south,étage,quite,97,2024-01-16,1865.08,1291.11,CAT036
+504,ART000504,0388621750802,Apple Yaourt service,DIM1-38,employee,DIM2-86,exiger,SOTUMAG,Sport & Loisirs,send,après,politics,île,faveur,indiquer,grand,13,2023-01-28,398.85,278.17,CAT038
+505,ART000505,8167784816523,Bosch Cahier environmental,DIM1-17,whom,DIM2-86,every,Orange Tunisie,Cosmétiques,late,quelqu'un,race,rise,pitié,parmi,aider,37,2023-07-07,1240.93,823.43,CAT013
+506,ART000506,2878848699964,Bosch Pantalon verser,DIM1-79,grandir,DIM2-85,medical,Carrefour Tunisie,Maroquinerie,planche,fils,responsibility,examiner,early,cela,see,20,2023-05-16,1133.28,863.04,CAT024
+507,ART000507,2383972833912,LG T-shirt ciel,DIM1-1,all,DIM2-41,wife,Orange Tunisie,Maison & Jardin,reste,depuis,vrai,demain,commencement,coin,différent,92,2023-05-17,1480.93,970.51,CAT028
+508,ART000508,0186766100892,LG Sac senior,DIM1-87,campaign,DIM2-94,refuser,Géant,Jouets,garde,main,style,franchir,épais,without,rate,60,2024-05-12,893.49,590.68,CAT050
+509,ART000509,9807468235460,Apple Yaourt there,DIM1-23,armée,DIM2-83,douleur,Arab Tunisian Bank,Hygiène,passé,whole,accent,technology,yet,situation,left,36,2023-09-15,1718.13,1337.15,CAT009
+510,ART000510,0666641106541,Philips Table volonté,DIM1-94,voie,DIM2-81,force,SOTUMAG,Hygiène,parce que,black,positive,sport,analysis,lueur,observer,3,2024-03-01,1699.93,1030.56,CAT041
+511,ART000511,4826899962696,L'Oréal Pain still,DIM1-52,quartier,DIM2-99,rapporter,Amen Bank,Électroménager,open,peuple,station,long,lutter,couple,long,5,2024-03-18,1105.43,860.91,CAT035
+512,ART000512,6093201265785,Nike Yaourt marchand,DIM1-84,goutte,DIM2-100,remettre,Leoni AG,Santé,réussir,world,bonheur,herself,Mrs,buy,message,51,2023-08-14,450.5,323.42,CAT050
+513,ART000513,2746921188240,LG Stylo seulement,DIM1-60,yard,DIM2-65,on,BIAT,Hygiène,cost,cou,good,parfois,voix,set,exactly,51,2023-03-23,730.91,535.42,CAT001
+514,ART000514,4570568209222,Nivea Fromage model,DIM1-22,vous,DIM2-97,autant,BIAT,Vêtements,sous,discuss,it,argue,Congress,contenter,throw,58,2023-05-18,322.65,254.81,CAT037
+515,ART000515,8954001788226,Coca-Cola Jus series,DIM1-19,effect,DIM2-95,continuer,Attijari Bank,Santé,baby,year,according,attorney,large,cependant,revoir,6,2023-01-01,441.54,285.39,CAT032
+516,ART000516,7115261053702,Bosch Livre douter,DIM1-30,après,DIM2-6,avoid,Tunisie Telecom,Bijouterie,personal,response,accompagner,establish,présence,or,say,47,2023-06-26,779.25,604.94,CAT030
+517,ART000517,9876989365291,Nivea Ordinateur family,DIM1-42,space,DIM2-14,naître,BIAT,Sport & Loisirs,songer,pied,habitude,égal,armer,go,cruel,95,2024-08-24,530.32,378.67,CAT035
+518,ART000518,3217435748354,Nivea Chaussures nom,DIM1-49,monsieur,DIM2-47,offer,Amen Bank,Hygiène,American,line,saisir,étroit,word,réflexion,cost,67,2024-09-13,506.91,356.5,CAT015
+519,ART000519,6462805507742,Coca-Cola Sac mériter,DIM1-45,list,DIM2-63,he,Attijari Bank,Parfumerie,long,collection,respect,admettre,rassurer,week,both,1,2024-01-19,1006.16,692.22,CAT009
+520,ART000520,0913111786193,Apple Lampe couler,DIM1-66,support,DIM2-83,sea,Monoprix,Électroménager,rest,arm,demain,montagne,wide,herbe,say,20,2024-06-14,377.88,272.23,CAT024
+521,ART000521,0122759500263,Nivea Réfrigérateur but,DIM1-30,bring,DIM2-54,difficult,Géant,Cosmétiques,jour,less,almost,fear,position,pain,conduire,62,2024-04-07,1352.08,868.23,CAT031
+522,ART000522,5950310064931,Nivea Chaise spring,DIM1-53,droite,DIM2-3,absolument,Orange Tunisie,Boissons,happen,approcher,obéir,presque,attack,recherche,produce,17,2023-06-21,1149.11,720.43,CAT011
+523,ART000523,9928553595204,Samsung Shampoing important,DIM1-74,arbre,DIM2-19,morceau,Délice Danone,Électronique,over,tache,mille,yes,bord,series,me,34,2023-02-04,1845.28,1460.81,CAT034
+524,ART000524,7842339449531,L'Oréal Fromage absolu,DIM1-82,military,DIM2-3,huge,Carrefour Tunisie,Hygiène,intelligence,across,debout,them,bonheur,difference,form,28,2023-04-11,901.16,697.01,CAT031
+525,ART000525,2417842902924,Sony Chaise encore,DIM1-53,give,DIM2-77,blanc,Leoni AG,Maroquinerie,appuyer,table,those,leur,accord,Mrs,eight,99,2023-04-28,367.86,258.3,CAT043
+526,ART000526,1667329045755,Danone Chaise game,DIM1-88,ce,DIM2-44,sauver,Modern Leasing,Parfumerie,forget,midi,entraîner,noir,acte,passer,health,76,2023-03-02,142.34,96.38,CAT025
+527,ART000527,7709207115236,Samsung Réfrigérateur détruire,DIM1-26,occuper,DIM2-67,champ,BIAT,Informatique,bien,what,public,several,vendre,others,offrir,20,2024-08-23,1212.99,843.24,CAT012
+528,ART000528,8638558819595,L'Oréal Fromage road,DIM1-5,computer,DIM2-69,marcher,BIAT,Cosmétiques,volonté,jamais,plan,bien,politics,prêter,way,12,2024-09-16,967.07,754.7,CAT009
+529,ART000529,5401822720025,Coca-Cola Yaourt situation,DIM1-1,not,DIM2-100,sorte,UTIC,Bijouterie,content,banc,behavior,family,family,connaître,besoin,54,2023-10-07,743.9,550.14,CAT003
+530,ART000530,0202030423228,Sony T-shirt modern,DIM1-62,to,DIM2-99,vieux,Senia,Santé,état,serious,assister,près,neuf,various,montrer,76,2023-11-04,1610.22,1235.74,CAT049
+531,ART000531,0059377756911,Apple Pain conscience,DIM1-55,valeur,DIM2-18,tendre,Monoprix,Jouets,secret,ne,personne,human,d'autres,combien,falloir,99,2024-10-16,468.86,307.88,CAT006
+532,ART000532,1966229131675,IKEA Yaourt premier,DIM1-33,lourd,DIM2-25,onto,Groupe Poulina,Alimentation,thought,thought,magazine,mariage,visible,wonder,caractère,74,2023-10-09,1047.47,629.99,CAT034
+533,ART000533,0494440766341,Sony Eau enfin,DIM1-89,guy,DIM2-41,goutte,UTIC,Santé,computer,customer,demande,center,us,ceci,choice,14,2023-06-18,313.78,225.0,CAT042
+534,ART000534,2585421880878,Coca-Cola Livre sommet,DIM1-69,choose,DIM2-55,haine,Amen Bank,Santé,toi,everyone,drame,support,construire,your,culture,79,2024-06-01,554.74,376.94,CAT044
+535,ART000535,5833343031159,IKEA Table into,DIM1-71,maintenir,DIM2-72,hope,Attijari Bank,Électronique,start,whom,money,style,interest,seven,your,48,2023-10-08,1120.39,729.1,CAT031
+536,ART000536,6597466986169,L'Oréal Stylo fonction,DIM1-45,but,DIM2-100,jeune,Senia,Vêtements,hope,raconter,réveiller,wish,movie,je,mine,85,2023-09-08,242.58,167.21,CAT015
+537,ART000537,9664721307421,LG Café lui,DIM1-13,fauteuil,DIM2-28,matière,BIAT,Bébé & Enfant,fou,traîner,rather,étonner,naturellement,glisser,various,44,2023-06-15,1602.7,1185.05,CAT040
+538,ART000538,7963731008178,Samsung Café wide,DIM1-21,coucher,DIM2-50,ça,Groupe Poulina,Hygiène,show,best,friend,éclater,team,single,oeuvre,19,2023-07-21,945.98,649.96,CAT039
+539,ART000539,7017320865236,Philips Télévision maintain,DIM1-29,cause,DIM2-48,instead,SOTUMAG,Parfumerie,investment,donner,about,flot,tandis que,soulever,teacher,5,2024-09-23,1450.37,1048.32,CAT026
+540,ART000540,8105580002726,Philips Shampoing beaux,DIM1-92,cultural,DIM2-77,major,Délice Danone,Électronique,commander,agreement,dream,émotion,newspaper,pour,armée,82,2023-04-05,991.26,634.74,CAT001
+541,ART000541,6955286209293,Nestlé Jus step,DIM1-67,jeunesse,DIM2-37,maintenant,Tunisie Telecom,Boissons,their,envoyer,demander,supposer,dream,public,abattre,77,2023-10-10,1023.54,661.55,CAT045
+542,ART000542,3532366185079,Nivea Chaise benefit,DIM1-5,relation,DIM2-47,answer,Orange Tunisie,Alimentation,même,store,présenter,doux,American,agiter,capital,21,2023-11-04,178.25,134.75,CAT018
+543,ART000543,5838821764840,Nivea Sac mean,DIM1-51,il,DIM2-52,some,Amen Bank,Électroménager,catch,école,verser,coucher,vraiment,spectacle,seuil,67,2023-07-17,35.66,21.89,CAT046
+544,ART000544,5892225606298,Adidas Télévision development,DIM1-37,reality,DIM2-93,même,STB,Maroquinerie,succès,treatment,bête,quelqu'un,fier,return,fact,45,2024-10-04,698.21,450.53,CAT018
+545,ART000545,0753841852016,Nike Table matin,DIM1-52,mode,DIM2-74,prêter,Groupe Poulina,Sport & Loisirs,record,drop,realize,imagine,haut,street,answer,23,2023-09-05,817.23,581.64,CAT007
+546,ART000546,9121516411959,Philips Shampoing later,DIM1-44,adult,DIM2-15,rien,BIAT,Sport & Loisirs,person,sans,little,help,barbe,suggest,contraire,69,2023-07-16,1627.23,1057.75,CAT037
+547,ART000547,6201971212414,IKEA Pantalon réussir,DIM1-73,observer,DIM2-62,maintain,Orange Tunisie,Librairie,into,ressembler,dinner,défendre,military,during,semblable,100,2023-04-13,920.4,717.27,CAT030
+548,ART000548,6075988978652,Nike Smartphone suivant,DIM1-15,sourire,DIM2-34,degree,SOTUMAG,Bébé & Enfant,sens,source,get,cup,printemps,court,complet,82,2023-02-05,1578.37,1160.71,CAT015
+549,ART000549,1915057644970,Nestlé Lampe media,DIM1-41,voyager,DIM2-53,abattre,Aziza,Bijouterie,nom,individual,for,model,finish,personal,wind,69,2024-11-18,24.4,15.85,CAT017
+550,ART000550,6365604500634,IKEA Télévision forward,DIM1-87,peser,DIM2-96,arriver,Géant,Hygiène,expert,practice,pendre,bar,subir,certain,dog,71,2023-06-09,1863.14,1234.84,CAT031
+551,ART000551,5970255128277,L'Oréal Table represent,DIM1-35,nu,DIM2-24,easy,Tunisie Telecom,Jouets,haute,whom,population,happy,job,end,give,95,2024-11-10,403.33,261.52,CAT048
+552,ART000552,3441491699934,Sony Livre voisin,DIM1-30,fact,DIM2-26,feel,Orange Tunisie,Parfumerie,révolution,understand,everything,qualité,cours,auprès,month,46,2023-04-10,316.21,197.31,CAT007
+553,ART000553,3988941321095,Nivea Télévision carry,DIM1-85,vert,DIM2-64,claire,Arab Tunisian Bank,Alimentation,sort,plan,fish,data,professor,hospital,marriage,98,2024-10-29,1714.89,1319.78,CAT003
+554,ART000554,0300449646129,L'Oréal Sac reste,DIM1-41,apparaître,DIM2-64,leur,Amen Bank,Sport & Loisirs,continuer,drôle,goal,treatment,newspaper,customer,pass,63,2024-05-02,369.83,289.65,CAT049
+555,ART000555,0861993145846,IKEA Livre face,DIM1-29,industry,DIM2-97,do,Amen Bank,Vêtements,bon,recevoir,anything,gauche,disposer,coach,arbre,7,2023-06-01,1053.84,733.12,CAT028
+556,ART000556,7424631043794,Samsung Yaourt mother,DIM1-65,station,DIM2-45,après,Senia,Électronique,see,retomber,I,croix,tantôt,left,attack,59,2023-07-24,1953.13,1374.3,CAT045
+557,ART000557,0435023850224,Danone Cahier knowledge,DIM1-2,ground,DIM2-2,parent,Tunisie Telecom,Bébé & Enfant,show,doute,considérer,son,admettre,ailleurs,inconnu,75,2024-03-21,205.99,148.84,CAT024
+558,ART000558,3303033467718,LG Livre travail,DIM1-71,step,DIM2-34,his,Orange Tunisie,Sport & Loisirs,ordre,change,poor,social,enjoy,dernier,quality,61,2023-06-13,1917.26,1290.67,CAT022
+559,ART000559,1239847230342,IKEA Parfum aucun,DIM1-27,rare,DIM2-54,low,Aziza,Santé,rompre,centre,series,découvrir,fuir,maintenant,ou,52,2024-12-12,562.86,402.04,CAT012
+560,ART000560,8717754619922,Nivea Pain apply,DIM1-30,here,DIM2-13,ramener,Monoprix,Maison & Jardin,class,professional,jamais,détacher,heureux,route,image,72,2024-08-11,867.28,554.38,CAT025
+561,ART000561,4823733791214,LG Thé caresser,DIM1-61,aujourd'hui,DIM2-2,quelque,One Tech Group,Informatique,must,épaule,rise,surface,transformer,partout,poésie,64,2024-06-22,273.27,192.22,CAT041
+562,ART000562,3925199945291,Bosch Thé simple,DIM1-63,poste,DIM2-39,depuis,Monoprix,Chaussures,couler,young,smile,enjoy,rentrer,court,ami,73,2024-10-27,100.18,73.94,CAT007
+563,ART000563,2216265496337,Sony Ordinateur vêtir,DIM1-33,droit,DIM2-61,financial,Yazaki Tunisia,Téléphonie,level,grand,movie,actually,majority,dehors,mais,96,2024-08-17,672.64,452.06,CAT024
+564,ART000564,1953774926634,Nestlé Yaourt secours,DIM1-33,join,DIM2-45,fenêtre,Groupe Poulina,Informatique,parti,matter,study,de,our,ainsi,be,16,2023-09-29,705.43,559.14,CAT044
+565,ART000565,2920592294114,L'Oréal Table window,DIM1-74,discover,DIM2-84,crise,STB,Électronique,four,early,election,relate,tandis que,consider,red,100,2023-02-03,572.79,420.79,CAT021
+566,ART000566,6154980851337,Nestlé Parfum énergie,DIM1-95,attendre,DIM2-58,painting,SOTUMAG,Bébé & Enfant,voilà,beau,désigner,cerveau,briser,so,much,79,2024-07-06,576.61,456.28,CAT041
+567,ART000567,8268687640199,Nivea Chaise quelque,DIM1-44,everybody,DIM2-54,même,Arab Tunisian Bank,Maroquinerie,focus,trésor,attaquer,cost,letter,election,near,52,2024-08-25,1698.56,1046.01,CAT005
+568,ART000568,6464196234214,Sony Cahier oncle,DIM1-41,dessiner,DIM2-41,docteur,Carrefour Tunisie,Sport & Loisirs,ainsi,road,au,common,night,ciel,significant,78,2024-12-29,1291.07,1003.86,CAT018
+569,ART000569,1797269999495,Danone Sac tendre,DIM1-76,problème,DIM2-67,chose,Modern Leasing,Informatique,aventure,odeur,it,véritable,voisin,bataille,journée,22,2024-08-03,371.85,232.41,CAT002
+570,ART000570,8538631050528,Nivea Lampe election,DIM1-33,rejeter,DIM2-96,lettre,SOTUMAG,Électroménager,neuf,tomber,bande,information,common,something,worker,22,2024-10-28,797.11,488.44,CAT007
+571,ART000571,2838963376188,Adidas Parfum prove,DIM1-7,sourire,DIM2-4,cost,Senia,Bijouterie,look,étonner,old,standard,abandonner,discuter,tout,98,2023-06-06,1992.05,1299.79,CAT007
+572,ART000572,9218835279183,Apple Machine à laver gas,DIM1-84,montagne,DIM2-50,mind,Carrefour Tunisie,Maison & Jardin,beyond,non,that,accorder,terrain,end,sombre,32,2023-12-29,1476.5,1070.9,CAT029
+573,ART000573,6178159698387,Adidas Machine à laver hard,DIM1-22,could,DIM2-4,cri,Délice Danone,Santé,however,safe,none,south,signe,paper,conversation,42,2023-12-15,1729.16,1374.68,CAT030
+574,ART000574,4989925539467,Philips Yaourt papa,DIM1-71,various,DIM2-57,rocher,Leoni AG,Chaussures,papier,product,character,land,at,painting,memory,23,2024-03-12,1183.71,859.62,CAT030
+575,ART000575,8974748599466,L'Oréal Eau bag,DIM1-56,seul,DIM2-68,budget,STB,Automobiles,maintain,franchir,natural,design,significant,marché,standard,45,2023-07-26,965.9,734.99,CAT015
+576,ART000576,5092860521028,Philips Pantalon chair,DIM1-47,among,DIM2-53,instead,Monoprix,Vêtements,on,ajouter,feuille,her,encore,rendre,toute,39,2023-09-14,26.06,19.89,CAT034
+577,ART000577,4883997418562,Bosch Machine à laver ah,DIM1-37,parce que,DIM2-61,whole,STB,Alimentation,aujourd'hui,effort,un,service,soon,blue,quite,89,2023-01-14,1844.57,1282.74,CAT049
+578,ART000578,6418493784675,Nestlé Smartphone préparer,DIM1-56,white,DIM2-38,terminer,Arab Tunisian Bank,Maison & Jardin,quelque,color,unit,apprendre,sourire,nuit,view,1,2023-02-06,1098.68,749.68,CAT013
+579,ART000579,4444299067454,IKEA Yaourt operation,DIM1-51,tell,DIM2-32,community,One Tech Group,Bébé & Enfant,yard,malgré,comprendre,idée,popular,turn,certain,49,2024-12-25,445.08,304.63,CAT006
+580,ART000580,2221905334702,Adidas Lampe moment,DIM1-98,media,DIM2-79,floor,Monoprix,Automobiles,reveal,hotel,selon,general,chaîne,quoi,haut,84,2024-01-15,1487.14,1015.09,CAT018
+581,ART000581,2455312900360,LG Télévision toile,DIM1-18,cependant,DIM2-38,peuple,Yazaki Tunisia,Téléphonie,supposer,souvenir,miss,nouveau,north,soin,only,80,2024-07-07,908.27,658.09,CAT045
+582,ART000582,8522942525165,Bosch Table prendre,DIM1-3,middle,DIM2-20,possible,Délice Danone,Chaussures,parent,avant,whom,que,loi,place,exprimer,3,2023-12-19,375.95,246.78,CAT007
+583,ART000583,4735352478417,Danone Machine à laver by,DIM1-57,partner,DIM2-94,scientist,Groupe Poulina,Maison & Jardin,decision,figure,arrière,during,Mrs,endroit,complet,12,2023-11-24,305.61,196.64,CAT032
+584,ART000584,1338926087881,Philips T-shirt renoncer,DIM1-64,le,DIM2-48,plante,Modern Leasing,Boissons,debate,fortune,create,return,haut,comment,role,43,2023-11-14,165.05,130.44,CAT049
+585,ART000585,3537801891560,Philips Ordinateur cup,DIM1-100,family,DIM2-51,model,SOTUMAG,Chaussures,planche,situation,worker,sauter,per,habiter,école,61,2023-04-17,367.3,280.42,CAT017
+586,ART000586,6645099990012,Apple Smartphone queue,DIM1-99,media,DIM2-92,rire,Orange Tunisie,Bébé & Enfant,quelqu'un,valeur,common,voilà,rare,record,west,99,2023-05-13,1950.07,1457.72,CAT016
+587,ART000587,6488499795722,Sony Ordinateur than,DIM1-59,get,DIM2-95,somebody,Yazaki Tunisia,Bijouterie,promettre,sauter,dessiner,bois,skill,side,contre,86,2024-02-15,1964.32,1331.46,CAT031
+588,ART000588,9717059844516,Bosch Stylo study,DIM1-21,nouveau,DIM2-81,soon,Délice Danone,Chaussures,puis,necessary,campagne,émotion,école,soldier,time,67,2024-08-25,248.67,180.96,CAT031
+589,ART000589,9397814590096,Bosch Table chef,DIM1-7,management,DIM2-86,lutte,Tunisie Telecom,Cosmétiques,choose,window,pay,en,behind,size,pendre,31,2024-08-20,1267.65,764.41,CAT021
+590,ART000590,3260119391032,L'Oréal Livre revenir,DIM1-16,food,DIM2-51,tant,Orange Tunisie,Alimentation,happy,étaler,and,vers,the,prendre,attaquer,6,2023-09-12,1164.25,809.22,CAT045
+591,ART000591,2437361587365,LG Fromage challenge,DIM1-48,bar,DIM2-99,vers,SOTUMAG,Maison & Jardin,Mr,out,éclater,effort,voilà,soudain,off,21,2024-11-09,1002.34,725.42,CAT044
+592,ART000592,1547315663975,Samsung Eau lèvre,DIM1-8,strategy,DIM2-46,chanter,Leoni AG,Chaussures,fill,mer,tomber,prétendre,petit,court,ahead,14,2024-02-28,256.03,169.84,CAT015
+593,ART000593,6605342816445,Nestlé Yaourt voile,DIM1-83,ball,DIM2-97,chaud,Aziza,Téléphonie,game,intention,it,and,capital,discours,content,94,2023-06-16,389.97,263.45,CAT045
+594,ART000594,4276362814449,LG Thé business,DIM1-33,satisfaire,DIM2-6,study,Attijari Bank,Téléphonie,amour,paper,nez,interest,run,retour,depuis,72,2024-12-29,592.96,413.9,CAT045
+595,ART000595,4551358727171,LG Pain view,DIM1-70,ami,DIM2-45,sure,Géant,Téléphonie,chemin,those,stand,droite,your,sang,presser,36,2023-06-09,1735.99,1359.1,CAT039
+596,ART000596,7583336477041,LG Yaourt entretenir,DIM1-9,sept,DIM2-68,sommet,Leoni AG,Téléphonie,juger,printemps,agency,reculer,mien,juger,store,38,2023-01-31,1639.74,1104.24,CAT035
+597,ART000597,1231905772047,Nestlé Smartphone attorney,DIM1-82,avenir,DIM2-65,road,Senia,Électronique,black,davantage,hot,relation,banc,send,bit,3,2023-04-23,1241.37,937.49,CAT024
+598,ART000598,8709872649639,Bosch Lampe désir,DIM1-93,bar,DIM2-9,thousand,STB,Bébé & Enfant,student,différent,address,there,depuis,black,quinze,25,2023-01-28,1050.52,791.2,CAT032
+599,ART000599,4686163070287,L'Oréal Machine à laver list,DIM1-37,avec,DIM2-42,armée,UTIC,Librairie,savoir,state,menacer,set,bleu,debate,of,15,2023-01-08,197.03,120.85,CAT043
+600,ART000600,7795001732595,LG Machine à laver année,DIM1-5,direction,DIM2-26,behind,Yazaki Tunisia,Jouets,arme,Congress,certainement,du,others,prévenir,usually,25,2024-05-23,202.01,147.13,CAT037
+601,ART000601,7221045461714,Nivea Chaussures réflexion,DIM1-63,pièce,DIM2-68,parvenir,Arab Tunisian Bank,Maroquinerie,follow,montrer,courage,gloire,tough,devoir,charge,33,2024-05-18,102.93,74.23,CAT015
+602,ART000602,0252394120943,Samsung Télévision site,DIM1-27,subject,DIM2-84,use,Attijari Bank,Hygiène,mal,éclairer,nom,four,enfin,peser,bar,60,2024-04-13,1603.03,1077.53,CAT004
+603,ART000603,8024559851601,IKEA Thé chemin,DIM1-48,révolution,DIM2-91,honte,Délice Danone,Parfumerie,dent,now,sometimes,significant,especially,only,strong,35,2023-04-09,1060.4,651.17,CAT047
+604,ART000604,7600884474084,Apple Stylo oreille,DIM1-28,respect,DIM2-67,rêve,Yazaki Tunisia,Cosmétiques,porte,president,cas,first,autorité,own,mer,93,2024-10-09,465.88,297.18,CAT025
+605,ART000605,5348486470821,Nivea Shampoing enfant,DIM1-32,from,DIM2-73,lay,One Tech Group,Chaussures,couvrir,demain,dehors,portier,ah,weight,ability,96,2024-08-14,1118.49,694.7,CAT048
+606,ART000606,0000886346735,L'Oréal Eau signer,DIM1-46,absolument,DIM2-87,commencement,Modern Leasing,Informatique,by,success,ancien,masse,épais,veille,defense,14,2024-07-30,337.78,239.82,CAT012
+607,ART000607,9060854818672,Bosch Shampoing important,DIM1-85,assez,DIM2-21,ancien,STB,Parfumerie,return,étranger,by,etc,beautiful,puis,hiver,57,2024-05-29,1867.37,1325.86,CAT021
+608,ART000608,4582942034016,Coca-Cola Cahier Democrat,DIM1-48,sound,DIM2-53,flamme,UTIC,Librairie,item,paraître,how,federal,travel,lay,choose,78,2023-03-16,485.24,311.91,CAT035
+609,ART000609,8240281822386,Danone Yaourt pick,DIM1-33,ability,DIM2-47,menacer,Modern Leasing,Téléphonie,arbre,month,pousser,risk,west,père,lien,51,2023-11-16,5.39,4.29,CAT003
+610,ART000610,2357004129182,Samsung Fromage relever,DIM1-67,both,DIM2-18,venir,Carrefour Tunisie,Alimentation,writer,souffrir,sourire,half,frais,building,bas,39,2024-04-12,1968.87,1518.28,CAT014
+611,ART000611,3046600128383,Nestlé Smartphone passion,DIM1-89,appel,DIM2-36,descendre,STB,Bijouterie,compter,authority,behind,appel,your,activity,simply,72,2023-12-05,1143.48,721.47,CAT037
+612,ART000612,3446042276343,Nike Ordinateur that,DIM1-46,chercher,DIM2-20,installer,Leoni AG,Sport & Loisirs,accuser,money,habiller,through,face,juste,because,47,2023-11-15,1779.8,1150.82,CAT016
+613,ART000613,2512726708668,Apple Stylo worry,DIM1-74,work,DIM2-52,claim,Amen Bank,Électroménager,finir,sombre,usually,together,Mrs,street,material,94,2024-10-06,159.02,120.63,CAT021
+614,ART000614,2903500618486,Nike Chaise fish,DIM1-89,composer,DIM2-90,haut,Amen Bank,Cosmétiques,task,gros,gros,unit,officer,choix,cause,77,2024-09-06,1286.3,959.78,CAT003
+615,ART000615,4952549206442,IKEA Pain compagnie,DIM1-11,travailler,DIM2-100,staff,Délice Danone,Librairie,réfléchir,quelque,pencher,absolu,east,down,research,45,2024-01-24,1760.19,1202.75,CAT028
+616,ART000616,1884968066402,Coca-Cola Réfrigérateur throw,DIM1-99,chant,DIM2-30,devant,Arab Tunisian Bank,Alimentation,debout,foreign,théâtre,beautiful,étoile,colon,approach,82,2024-04-19,1555.95,950.41,CAT025
+617,ART000617,0372186003206,Samsung Shampoing chef,DIM1-41,oil,DIM2-70,cacher,Amen Bank,Vêtements,finir,agir,général,tax,essayer,vers,small,42,2024-04-03,1007.29,635.24,CAT015
+618,ART000618,8601625908416,Danone Jus through,DIM1-51,term,DIM2-58,trip,Arab Tunisian Bank,Maroquinerie,will,souhaiter,bruit,ordre,dog,next,voisin,65,2023-01-18,184.72,121.54,CAT028
+619,ART000619,2887807279031,LG Chaussures brother,DIM1-17,born,DIM2-44,ahead,SOTUMAG,Jouets,six,they,confiance,troubler,enter,military,raconter,74,2024-01-12,1491.9,1014.25,CAT036
+620,ART000620,3076810248083,IKEA Télévision still,DIM1-65,make,DIM2-56,aide,Leoni AG,Vêtements,tendre,relationship,daughter,égal,cultural,commencement,pay,62,2024-09-05,1120.8,761.09,CAT032
+621,ART000621,9685746706754,Sony Pain or,DIM1-72,étendre,DIM2-79,same,BIAT,Maison & Jardin,cela,around,monter,than,membre,accompagner,without,32,2023-06-19,147.93,101.48,CAT050
+622,ART000622,5084243198392,L'Oréal Jus français,DIM1-12,most,DIM2-15,en,UTIC,Informatique,adresser,while,nous,aider,toward,aucun,chant,47,2024-12-09,699.87,468.15,CAT021
+623,ART000623,6758646339537,Samsung Eau oil,DIM1-99,certainement,DIM2-40,imaginer,One Tech Group,Santé,colon,which,kitchen,specific,porte,total,horizon,79,2023-07-11,1644.06,1191.35,CAT029
+624,ART000624,5128177512395,Samsung Pantalon southern,DIM1-30,move,DIM2-26,je,Aziza,Vêtements,event,mal,traverser,college,marier,cruel,stop,97,2023-12-04,1458.33,907.77,CAT006
+625,ART000625,4677205171079,Sony Ordinateur bas,DIM1-80,can,DIM2-19,if,Carrefour Tunisie,Alimentation,somebody,night,pleurer,embrasser,point,food,quel,44,2024-08-25,1389.12,918.24,CAT008
+626,ART000626,7414857260297,Samsung Parfum inspirer,DIM1-43,spend,DIM2-27,reveal,STB,Électroménager,choose,cultural,answer,keep,enough,affaire,read,27,2024-06-14,1095.12,713.72,CAT049
+627,ART000627,2713538676255,L'Oréal Parfum empêcher,DIM1-94,seven,DIM2-19,policy,Groupe Poulina,Bébé & Enfant,monter,falloir,perhaps,désespoir,vie,state,star,75,2023-07-21,1812.55,1103.29,CAT034
+628,ART000628,5089273961596,Samsung Chaise laugh,DIM1-37,standard,DIM2-26,haute,Arab Tunisian Bank,Sport & Loisirs,user,its,article,month,money,guy,cold,7,2024-10-22,932.6,571.98,CAT001
+629,ART000629,9038422736277,Philips Jus détail,DIM1-85,voisin,DIM2-85,descendre,Aziza,Cosmétiques,pluie,chemise,pendre,rather,last,poser,nord,3,2023-02-14,588.53,398.61,CAT042
+630,ART000630,2985144869837,Adidas Chaussures maison,DIM1-91,chasser,DIM2-13,particular,Géant,Jouets,écarter,dire,détail,outside,cesser,create,exist,77,2024-10-05,1065.46,681.65,CAT012
+631,ART000631,0680177031634,Adidas Pantalon very,DIM1-92,jeu,DIM2-3,après,Délice Danone,Maison & Jardin,past,éclat,naître,cover,whom,however,cinq,68,2023-05-05,613.33,416.25,CAT032
+632,ART000632,7638083906549,Samsung Chaise danger,DIM1-45,power,DIM2-88,boy,Aziza,Santé,séparer,compter,school,possible,rassurer,de,meilleur,81,2023-09-28,608.14,398.44,CAT033
+633,ART000633,4960266765272,Nivea Ordinateur remercier,DIM1-33,heart,DIM2-50,saisir,Groupe Poulina,Chaussures,evidence,agency,several,présenter,fish,ni,himself,36,2024-10-19,455.04,354.67,CAT022
+634,ART000634,2080192902212,LG Jus standard,DIM1-12,us,DIM2-94,soldat,Senia,Bijouterie,fois,occur,route,dernier,juge,étoile,depuis,87,2023-05-11,1226.83,904.55,CAT041
+635,ART000635,5102555019355,Sony T-shirt get,DIM1-74,engager,DIM2-20,partner,UTIC,Automobiles,run,son,éteindre,décider,to,métier,satisfaire,78,2023-04-13,661.92,414.6,CAT035
+636,ART000636,8059831244123,LG Eau palais,DIM1-75,society,DIM2-70,form,Tunisie Telecom,Vêtements,avenir,couleur,pourtant,decade,pleurer,for,fall,40,2023-02-20,1378.62,1077.96,CAT034
+637,ART000637,6294193759195,Nestlé T-shirt détruire,DIM1-19,likely,DIM2-84,vivre,Amen Bank,Électronique,changement,hotel,miser,note,material,city,enter,41,2023-03-21,140.29,110.79,CAT035
+638,ART000638,0961730099286,LG Réfrigérateur forward,DIM1-41,feu,DIM2-19,distance,Groupe Poulina,Librairie,voir,battre,rock,inquiétude,action,between,determine,53,2023-03-19,1922.59,1323.9,CAT020
+639,ART000639,4308779724797,Danone Eau mais,DIM1-36,trade,DIM2-20,cruel,Tunisie Telecom,Cosmétiques,premier,voler,production,school,sang,acheter,sport,17,2024-01-18,373.57,297.81,CAT049
+640,ART000640,6769333299867,Philips Fromage beyond,DIM1-78,turn,DIM2-73,dehors,Arab Tunisian Bank,Maison & Jardin,manage,lead,art,provide,simple,rayon,hors,77,2024-07-05,468.2,283.36,CAT044
+641,ART000641,2620846729255,Danone Télévision window,DIM1-100,suivant,DIM2-62,since,Leoni AG,Bijouterie,be,concern,depuis,justice,chemise,le,concern,78,2023-12-14,940.18,634.43,CAT042
+642,ART000642,8639420122348,Nike Chaussures franc,DIM1-61,savoir,DIM2-18,agir,One Tech Group,Électroménager,indeed,vide,among,mouvement,a,why,their,29,2024-03-27,69.3,55.01,CAT049
+643,ART000643,6321740039100,IKEA Livre révolution,DIM1-29,étendre,DIM2-96,source,Tunisie Telecom,Électroménager,rappeler,consulter,général,better,satisfaire,mari,vieillard,9,2023-11-23,358.27,277.1,CAT029
+644,ART000644,8277056461600,Danone Parfum least,DIM1-42,menacer,DIM2-59,discover,Orange Tunisie,Informatique,action,réveiller,drive,consumer,fidèle,believe,that,52,2024-05-26,1553.55,1160.6,CAT039
+645,ART000645,3133610944161,Danone Chaussures certain,DIM1-41,chance,DIM2-51,happy,Arab Tunisian Bank,Maroquinerie,we,but,pauvre,pendant,reason,necessary,me,77,2024-11-25,1074.64,833.01,CAT042
+646,ART000646,6349429046171,Adidas Ordinateur toward,DIM1-14,black,DIM2-58,again,Modern Leasing,Boissons,pour,depuis,save,assister,frais,papier,example,32,2023-03-02,1039.81,828.49,CAT026
+647,ART000647,2345653869474,Adidas Ordinateur dégager,DIM1-50,two,DIM2-67,spring,Délice Danone,Électroménager,skill,manger,nez,fond,consumer,profiter,similar,38,2023-02-19,881.91,665.61,CAT020
+648,ART000648,0953855742161,Nike Stylo easy,DIM1-22,state,DIM2-55,après,Carrefour Tunisie,Parfumerie,plaindre,faire,apply,middle,since,fumer,pas,7,2023-08-03,1381.46,956.96,CAT010
+649,ART000649,7066187564677,Nike Eau un,DIM1-12,someone,DIM2-93,moment,BIAT,Cosmétiques,lui,us,propos,technology,bande,particulier,window,24,2024-03-24,1558.57,1105.46,CAT045
+650,ART000650,0845078604350,IKEA Chaussures soldier,DIM1-42,along,DIM2-58,we,Groupe Poulina,Électronique,ensemble,palais,who,person,écrire,mieux,quite,59,2024-06-01,1182.68,921.5,CAT046
+651,ART000651,0671822266792,Apple Pantalon stand,DIM1-33,simplement,DIM2-42,principe,One Tech Group,Cosmétiques,movie,get,prendre,require,meilleur,society,réveiller,12,2023-06-08,232.76,169.17,CAT029
+652,ART000652,2898760550495,Adidas Télévision corde,DIM1-91,vieil,DIM2-50,artist,BIAT,Parfumerie,raise,southern,reculer,result,all,include,dimanche,21,2024-08-15,760.46,462.95,CAT025
+653,ART000653,6290739928919,Bosch Chaise porte,DIM1-73,reprendre,DIM2-85,ni,Leoni AG,Électronique,use,envelopper,believe,sing,quitter,test,popular,19,2023-05-14,361.84,220.82,CAT046
+654,ART000654,9420398313543,Philips Stylo cinq,DIM1-94,her,DIM2-99,listen,Modern Leasing,Automobiles,marché,beau,ten,customer,lui,policy,fier,81,2024-03-12,365.49,289.5,CAT009
+655,ART000655,3021781678063,L'Oréal Smartphone put,DIM1-98,record,DIM2-33,tu,Groupe Poulina,Téléphonie,jeune,charger,rather,us,terrain,importer,doux,64,2024-08-24,1711.55,1303.33,CAT035
+656,ART000656,1709264070307,Nike Fromage promener,DIM1-31,partout,DIM2-28,moindre,Amen Bank,Jouets,quatre,selon,oil,tendre,there,thousand,soldier,59,2024-05-28,823.25,592.94,CAT006
+657,ART000657,7288959274113,Sony Smartphone notice,DIM1-71,nord,DIM2-36,seigneur,Arab Tunisian Bank,Chaussures,town,dépasser,into,cause,rentrer,quelque,aimer,27,2024-04-30,102.59,62.68,CAT010
+658,ART000658,7026344435967,Samsung Sac surtout,DIM1-19,good,DIM2-5,we,Amen Bank,Parfumerie,calme,affirmer,take,général,titre,dinner,pick,39,2024-03-30,665.57,405.87,CAT006
+659,ART000659,2375302849762,LG T-shirt étranger,DIM1-21,range,DIM2-87,a,Carrefour Tunisie,Parfumerie,fumer,maître,cell,and,hear,vingt,especially,85,2024-06-27,1384.57,989.22,CAT039
+660,ART000660,5403648821597,LG Yaourt moment,DIM1-59,promener,DIM2-96,factor,Amen Bank,Santé,item,doucement,entraîner,American,interesting,PM,federal,5,2023-04-11,190.79,126.79,CAT020
+661,ART000661,9497220429864,Coca-Cola Chaussures dehors,DIM1-9,organization,DIM2-98,affirmer,UTIC,Chaussures,keep,baby,word,cost,joindre,poor,saisir,9,2023-06-17,589.2,367.9,CAT009
+662,ART000662,8768877792566,Bosch Livre glisser,DIM1-68,éternel,DIM2-53,network,BIAT,Électroménager,aussitôt,want,cesser,decision,secrétaire,curieux,moins,90,2023-01-23,422.06,262.46,CAT004
+663,ART000663,1440762914303,Nivea Thé side,DIM1-68,émotion,DIM2-12,by,Attijari Bank,Parfumerie,du,fund,succès,cause,santé,quickly,there,91,2023-08-19,577.94,444.76,CAT039
+664,ART000664,2405920823537,Adidas Livre retourner,DIM1-74,last,DIM2-80,politics,Aziza,Vêtements,sommeil,operation,car,tellement,interest,accepter,pièce,79,2023-07-11,1127.46,840.9,CAT034
+665,ART000665,7966186957244,Nike Parfum habitant,DIM1-24,gros,DIM2-79,even,Orange Tunisie,Automobiles,voyage,hiver,bon,pluie,to,bill,autre,25,2024-01-16,8.15,5.65,CAT002
+666,ART000666,3217503619203,Danone Réfrigérateur vieillard,DIM1-27,these,DIM2-79,sang,UTIC,Informatique,profiter,daughter,pauvre,discuter,sign,fumer,face,6,2023-08-11,670.92,510.71,CAT036
+667,ART000667,4760786235107,Samsung Table job,DIM1-82,ball,DIM2-26,petit,Carrefour Tunisie,Sport & Loisirs,véritable,behind,run,titre,rapidement,bar,he,9,2023-05-30,619.01,439.5,CAT033
+668,ART000668,0918580558111,Apple Smartphone want,DIM1-88,ever,DIM2-43,serious,Géant,Bébé & Enfant,relationship,energy,million,tantôt,tend,able,fort,93,2024-04-01,1140.0,873.71,CAT002
+669,ART000669,0454184039828,Bosch Table calme,DIM1-44,unique,DIM2-87,saison,Attijari Bank,Jouets,indeed,aspect,problème,whole,return,production,tomber,5,2024-02-19,1293.08,816.03,CAT031
+670,ART000670,2652951646936,Coca-Cola Pantalon éprouver,DIM1-69,set,DIM2-43,cause,Modern Leasing,Informatique,avec,séparer,first,to,près,odeur,and,96,2023-02-03,116.76,77.05,CAT034
+671,ART000671,0199184311320,Nivea Thé human,DIM1-41,chaîne,DIM2-72,note,STB,Alimentation,on,option,jeune,mine,digne,chute,alone,27,2023-12-20,1156.91,879.14,CAT022
+672,ART000672,2053970774547,Apple Sac media,DIM1-20,question,DIM2-36,sûr,Groupe Poulina,Librairie,cabinet,social,françois,skill,soin,shoulder,rien,49,2023-11-24,1254.89,896.24,CAT011
+673,ART000673,6626235960533,LG Chaussures convenir,DIM1-77,back,DIM2-15,admit,Carrefour Tunisie,Librairie,maintenir,tax,according,membre,anything,without,mériter,91,2023-02-02,68.1,42.04,CAT027
+674,ART000674,6360502816405,Bosch Lampe affirmer,DIM1-58,sac,DIM2-39,sauter,Tunisie Telecom,Bijouterie,défendre,erreur,coup,central,seul,group,vérité,39,2024-08-19,354.15,268.09,CAT024
+675,ART000675,5979531926002,Apple Table animal,DIM1-57,pencher,DIM2-65,whose,Groupe Poulina,Jouets,world,recently,even,professor,attendre,feeling,rule,65,2024-12-20,312.39,245.14,CAT022
+676,ART000676,3811808189654,Coca-Cola Thé next,DIM1-68,forme,DIM2-40,sound,Géant,Vêtements,information,close,second,church,possible,area,scene,99,2023-10-23,1744.24,1282.62,CAT034
+677,ART000677,3616248607047,Sony Machine à laver treat,DIM1-93,nombreux,DIM2-5,admit,Modern Leasing,Bébé & Enfant,dos,successful,lorsque,agreement,mais,unique,bien,92,2023-06-28,1730.3,1039.6,CAT008
+678,ART000678,6715605879053,Nivea Ordinateur dessus,DIM1-77,five,DIM2-12,éclater,Géant,Téléphonie,sang,food,our,arrive,everything,different,un,6,2024-06-23,210.69,154.18,CAT050
+679,ART000679,9057191898665,Samsung Stylo throw,DIM1-74,partner,DIM2-98,obliger,Carrefour Tunisie,Électroménager,important,remonter,donc,sell,everything,individual,mais,42,2023-02-08,405.11,265.48,CAT019
+680,ART000680,3771843019227,Nestlé Cahier sentier,DIM1-57,lay,DIM2-86,effort,Yazaki Tunisia,Sport & Loisirs,discuter,vers,difference,écouter,figure,among,reposer,20,2023-09-08,319.2,192.49,CAT008
+681,ART000681,2676992427736,Adidas Fromage enfant,DIM1-66,reach,DIM2-14,aucun,Tunisie Telecom,Chaussures,espèce,amour,étroit,beauté,practice,ensemble,profond,45,2023-08-16,1100.98,691.76,CAT018
+682,ART000682,3471998290754,Nestlé Café training,DIM1-37,importer,DIM2-74,road,Orange Tunisie,Électronique,card,art,game,outside,droit,compagnon,accent,10,2024-09-04,626.2,443.42,CAT022
+683,ART000683,3322622777731,LG Ordinateur bras,DIM1-4,various,DIM2-61,million,Délice Danone,Cosmétiques,without,show,ahead,about,répandre,area,manger,50,2023-09-18,112.33,76.2,CAT028
+684,ART000684,2984241074021,L'Oréal Café expect,DIM1-76,tromper,DIM2-81,material,Modern Leasing,Parfumerie,move,nul,kitchen,machine,observer,agiter,été,46,2023-05-29,628.32,466.58,CAT013
+685,ART000685,6461497459797,Nestlé Jus chat,DIM1-69,saint,DIM2-11,smile,Modern Leasing,Maroquinerie,thousand,exposer,already,teach,address,picture,couleur,17,2024-08-25,190.37,132.05,CAT045
+686,ART000686,4322394612123,Philips Pantalon ton,DIM1-88,impossible,DIM2-83,or,Modern Leasing,Jouets,drive,admit,visage,devant,leave,contre,santé,30,2024-12-30,1895.16,1463.48,CAT010
+687,ART000687,4225678718880,Philips Fromage condition,DIM1-47,parmi,DIM2-51,article,One Tech Group,Librairie,really,author,nearly,masse,doux,parent,institution,42,2023-12-30,909.3,557.47,CAT002
+688,ART000688,6058679496383,Bosch Réfrigérateur accent,DIM1-62,class,DIM2-60,mettre,One Tech Group,Automobiles,autorité,rêver,neuf,marquer,cause,champ,future,99,2024-11-30,700.49,438.14,CAT037
+689,ART000689,7864578655573,IKEA Réfrigérateur black,DIM1-92,exemple,DIM2-14,lawyer,Géant,Chaussures,accept,autrefois,need,green,system,froid,lèvre,84,2023-11-19,146.49,103.5,CAT020
+690,ART000690,5451224441899,L'Oréal Chaussures worker,DIM1-53,accept,DIM2-31,droit,Arab Tunisian Bank,Maison & Jardin,que,while,adult,hiver,trip,beau,again,71,2023-11-14,322.25,218.09,CAT031
+691,ART000691,0944238602059,Sony Cahier rassurer,DIM1-89,apporter,DIM2-76,skin,UTIC,Informatique,effort,relate,rouge,pull,servir,pick,trip,73,2023-04-15,1575.72,1164.18,CAT035
+692,ART000692,5284135694807,Nivea Chaise friend,DIM1-86,pendant,DIM2-10,lendemain,Amen Bank,Jouets,society,firm,révéler,moment,révéler,research,intérieur,15,2023-04-20,1186.37,789.03,CAT030
+693,ART000693,0294420315893,Coca-Cola Réfrigérateur inspirer,DIM1-57,popular,DIM2-23,personnage,Carrefour Tunisie,Bébé & Enfant,hasard,assez,chaîne,red,market,no,magazine,9,2024-04-18,1198.53,914.25,CAT044
+694,ART000694,1418648230885,Bosch Chaussures serrer,DIM1-64,stop,DIM2-83,same,Délice Danone,Hygiène,born,cold,tantôt,demain,allow,seven,sense,28,2023-05-09,1634.98,1276.35,CAT038
+695,ART000695,6748317306623,Nestlé Eau tirer,DIM1-1,machine,DIM2-97,que,Leoni AG,Vêtements,personnage,gagner,marcher,term,order,join,noire,58,2023-07-02,1064.86,770.02,CAT025
+696,ART000696,7237179890221,Sony Pantalon petit,DIM1-27,arracher,DIM2-88,four,Géant,Automobiles,turn,around,take,likely,score,avoid,kitchen,73,2023-09-01,1589.72,1050.66,CAT044
+697,ART000697,3981889073781,Danone T-shirt le,DIM1-45,hors,DIM2-12,play,Amen Bank,Alimentation,renverser,hope,computer,the,présenter,oil,item,79,2024-02-12,1972.91,1518.21,CAT026
+698,ART000698,2076123961212,Samsung Stylo sous,DIM1-48,sing,DIM2-71,réflexion,Délice Danone,Alimentation,curieux,throw,prière,annoncer,account,important,colon,91,2023-12-20,1122.26,697.98,CAT023
+699,ART000699,3729826893340,Coca-Cola Stylo recently,DIM1-4,political,DIM2-31,will,UTIC,Maroquinerie,établir,another,military,magazine,training,distance,health,51,2023-01-11,1252.3,847.25,CAT046
+700,ART000700,7312315550570,IKEA Chaussures liberté,DIM1-70,tâche,DIM2-28,puissant,One Tech Group,Jouets,prepare,profond,see,everyone,haine,Mr,chaud,18,2023-08-30,380.51,292.48,CAT025
+701,ART000701,4701235036876,Coca-Cola Sac il,DIM1-54,tell,DIM2-20,arrivée,Carrefour Tunisie,Vêtements,unit,prepare,note,couler,supérieur,summer,heavy,18,2024-02-02,28.15,16.98,CAT042
+702,ART000702,4679403664018,Nike Thé discover,DIM1-85,silence,DIM2-56,media,Leoni AG,Hygiène,précéder,combat,pass,history,seat,semaine,toujours,18,2023-07-01,1286.27,993.04,CAT027
+703,ART000703,8683029158543,L'Oréal Café ennemi,DIM1-55,dès,DIM2-80,believe,One Tech Group,Téléphonie,top,authority,produce,note,rouge,subject,agent,66,2024-12-08,851.13,576.17,CAT029
+704,ART000704,4467462159589,LG Lampe rate,DIM1-55,souffler,DIM2-78,executive,Groupe Poulina,Maroquinerie,nourrir,ouvrir,intérieur,début,bruit,mon,tandis que,64,2024-11-23,1694.37,1257.94,CAT016
+705,ART000705,3447609483778,IKEA Livre agree,DIM1-70,santé,DIM2-74,raison,Aziza,Boissons,fight,dresser,crise,tonight,worker,révolution,second,5,2023-04-01,1138.46,767.0,CAT046
+706,ART000706,6677196666101,Nike Pain haut,DIM1-89,whole,DIM2-11,fleur,Leoni AG,Bijouterie,appuyer,condamner,un,ferme,bon,ordre,once,97,2024-11-23,1558.85,1096.48,CAT030
+707,ART000707,7590177915243,L'Oréal Shampoing teach,DIM1-12,camera,DIM2-32,finally,Attijari Bank,Hygiène,soi,écrire,justice,passer,today,whatever,leader,88,2023-04-19,1269.21,840.85,CAT038
+708,ART000708,0186372631995,Bosch Ordinateur simple,DIM1-69,wall,DIM2-100,heart,Groupe Poulina,Jouets,supporter,point,how,task,genou,année,refuser,59,2023-01-02,1027.76,734.64,CAT031
+709,ART000709,5513444867221,IKEA Cahier réveiller,DIM1-46,glace,DIM2-38,someone,Carrefour Tunisie,Électronique,envie,événement,fact,side,maintenir,final,craindre,5,2023-03-14,1391.63,1043.56,CAT039
+710,ART000710,4978879531207,Nestlé Thé address,DIM1-73,feeling,DIM2-34,oui,Délice Danone,Jouets,rather,large,problème,autre,morning,bande,vif,75,2023-07-08,342.31,250.32,CAT004
+711,ART000711,4391511436782,Nestlé Stylo conference,DIM1-95,aide,DIM2-80,success,Groupe Poulina,Automobiles,regarder,bill,situation,program,land,career,sort,63,2024-10-13,169.61,104.37,CAT033
+712,ART000712,6802693315423,Philips Livre âge,DIM1-17,along,DIM2-79,dieu,Monoprix,Sport & Loisirs,avant,prendre,two,radio,where,troisième,whole,33,2023-05-11,33.34,24.03,CAT008
+713,ART000713,1142066701510,Danone Pain front,DIM1-20,allumer,DIM2-85,moi,Modern Leasing,Santé,walk,durer,condition,continuer,always,honte,saint,23,2023-05-24,526.2,340.58,CAT045
+714,ART000714,0562019011342,Nestlé Chaise determine,DIM1-68,rideau,DIM2-5,dix,Géant,Hygiène,surtout,loin,profondément,but,d'autres,secours,government,19,2024-06-11,1193.11,915.74,CAT010
+715,ART000715,5234286449764,Nestlé T-shirt depuis,DIM1-50,past,DIM2-31,laugh,Modern Leasing,Électronique,fenêtre,avant,end,social,provide,process,fixe,27,2023-05-18,1157.63,707.16,CAT023
+716,ART000716,3561526655916,Nestlé Livre method,DIM1-15,coach,DIM2-7,store,One Tech Group,Téléphonie,supporter,sol,keep,book,material,discuss,mon,52,2023-05-04,955.08,715.57,CAT031
+717,ART000717,7466535389622,Sony Yaourt small,DIM1-49,cuisine,DIM2-88,degree,Senia,Jouets,minute,général,inventer,beat,sur,treat,debate,34,2023-09-09,294.57,177.44,CAT028
+718,ART000718,3468586390613,IKEA Pantalon side,DIM1-87,garder,DIM2-41,performance,BIAT,Boissons,social,naturellement,lentement,trésor,chanter,watch,vieil,13,2023-03-10,1835.84,1231.42,CAT041
+719,ART000719,3073726072016,L'Oréal T-shirt not,DIM1-84,teacher,DIM2-35,once,Géant,Sport & Loisirs,rencontrer,me,painting,colline,comment,information,satisfaire,35,2024-08-31,1605.62,1173.5,CAT017
+720,ART000720,6254292645638,Nike Chaussures secours,DIM1-99,pauvre,DIM2-87,rue,Orange Tunisie,Maroquinerie,activity,midi,mouth,traîner,deux,scientist,serious,99,2024-03-16,393.88,289.72,CAT022
+721,ART000721,1967068335392,Bosch Chaise après,DIM1-71,même,DIM2-2,demeurer,Groupe Poulina,Hygiène,stock,cinquante,stand,résultat,side,calme,enlever,2,2023-07-31,825.44,512.42,CAT034
+722,ART000722,3767348140986,Bosch Pantalon behavior,DIM1-29,boire,DIM2-93,minute,Carrefour Tunisie,Sport & Loisirs,arriver,étroit,chasser,action,particular,animal,haïr,25,2024-11-25,72.91,45.09,CAT040
+723,ART000723,2886616801990,Nivea Fromage étendue,DIM1-28,charge,DIM2-77,douze,Yazaki Tunisia,Cosmétiques,more,five,view,bande,honneur,bout,ask,12,2024-03-15,1713.6,1157.01,CAT009
+724,ART000724,7913860157117,L'Oréal Eau business,DIM1-24,contenir,DIM2-15,rose,One Tech Group,Sport & Loisirs,with,content,western,relationship,début,françois,combien,38,2024-10-14,936.58,681.6,CAT005
+725,ART000725,4527193678572,Nestlé Livre financial,DIM1-55,cup,DIM2-89,espérer,Géant,Sport & Loisirs,arrivée,fish,titre,can,condition,surprendre,combat,21,2023-08-09,1562.56,1180.39,CAT018
+726,ART000726,1315350696261,IKEA Chaussures monter,DIM1-43,teach,DIM2-8,green,Monoprix,Sport & Loisirs,ici,tête,sister,walk,absence,souvenir,fear,23,2024-07-13,883.95,703.52,CAT032
+727,ART000727,7989948856692,L'Oréal Table move,DIM1-51,avouer,DIM2-23,l'une,Attijari Bank,Cosmétiques,sans,lead,happen,detail,himself,various,devoir,19,2024-05-10,1083.56,697.46,CAT028
+728,ART000728,7266256504607,Apple Eau agency,DIM1-57,campagne,DIM2-92,town,Monoprix,Cosmétiques,bring,accomplir,Mr,traditional,façon,visible,star,5,2024-11-12,150.47,112.18,CAT037
+729,ART000729,0668904172829,Samsung Pantalon peu,DIM1-64,concern,DIM2-20,premier,Groupe Poulina,Boissons,commencer,truth,côte,couleur,détruire,rencontrer,former,86,2024-02-21,784.02,580.18,CAT010
+730,ART000730,7528359994007,L'Oréal Chaussures best,DIM1-1,remplacer,DIM2-66,local,Attijari Bank,Jouets,ensemble,voice,voilà,étendue,region,haute,homme,56,2024-12-21,810.81,613.12,CAT047
+731,ART000731,2892064157800,Adidas Télévision need,DIM1-29,appartenir,DIM2-1,rare,Senia,Jouets,bonheur,geste,somme,where,eight,bank,try,16,2024-09-03,1136.65,757.79,CAT023
+732,ART000732,4478674280213,IKEA Stylo an,DIM1-8,doctor,DIM2-81,modern,SOTUMAG,Santé,trésor,pendre,traîner,chaise,ton,enough,moins,69,2023-09-05,1707.42,1051.93,CAT022
+733,ART000733,8557599408424,Nestlé Pantalon noir,DIM1-99,our,DIM2-38,vers,Tunisie Telecom,Électronique,her,proposer,administration,audience,membre,kitchen,effect,71,2023-12-18,83.47,61.11,CAT025
+734,ART000734,5701652761367,Danone Stylo genre,DIM1-50,côte,DIM2-14,discussion,Aziza,Jouets,principe,day,several,power,sûr,find,fish,11,2024-08-24,1771.0,1323.05,CAT029
+735,ART000735,2508423242345,Samsung Machine à laver appuyer,DIM1-25,base,DIM2-4,security,Amen Bank,Maison & Jardin,groupe,indiquer,employee,plan,importance,forward,father,63,2023-10-26,780.59,568.8,CAT035
+736,ART000736,7960242570330,Adidas Parfum tirer,DIM1-58,soleil,DIM2-3,Republican,Délice Danone,Librairie,her,endroit,humain,pur,draw,fois,côte,8,2023-11-01,678.75,413.06,CAT047
+737,ART000737,9917217429221,Sony Réfrigérateur goût,DIM1-84,morceau,DIM2-86,number,BIAT,Téléphonie,combien,return,sang,montagne,PM,pierre,mieux,87,2023-04-09,1741.05,1096.5,CAT035
+738,ART000738,0313928048505,Sony Pain crier,DIM1-10,nez,DIM2-5,traverser,Leoni AG,Jouets,chemise,système,effacer,present,pont,become,absence,84,2024-05-16,43.03,26.21,CAT040
+739,ART000739,2956162256473,Nivea Café problème,DIM1-17,health,DIM2-2,able,One Tech Group,Boissons,particularly,ennemi,fou,short,continuer,campagne,rather,40,2023-12-28,1642.37,1135.27,CAT007
+740,ART000740,4564743701946,Coca-Cola Chaise deal,DIM1-76,cacher,DIM2-9,moment,Yazaki Tunisia,Cosmétiques,kitchen,grow,joie,toit,raise,audience,annoncer,64,2024-03-06,1191.98,767.77,CAT040
+741,ART000741,5780619022314,IKEA Table menacer,DIM1-44,produce,DIM2-95,agent,Senia,Librairie,professional,project,democratic,else,crier,valeur,candidate,16,2024-03-30,1951.83,1384.19,CAT037
+742,ART000742,1268485637114,Coca-Cola Cahier throughout,DIM1-28,serrer,DIM2-98,data,Délice Danone,Maroquinerie,asseoir,été,then,spring,retour,étaler,écarter,23,2023-07-21,674.33,441.54,CAT008
+743,ART000743,5986693278412,LG T-shirt reason,DIM1-90,vague,DIM2-48,itself,STB,Électronique,over,jaune,puisque,assister,chambre,region,mêler,57,2023-05-08,491.07,298.64,CAT038
+744,ART000744,6426735127241,Nestlé Réfrigérateur yes,DIM1-81,discussion,DIM2-79,politique,Senia,Électronique,remember,former,positive,item,newspaper,much,per,3,2023-05-05,1759.86,1058.15,CAT006
+745,ART000745,4945104625062,Apple Chaise résultat,DIM1-91,general,DIM2-84,none,Amen Bank,Automobiles,town,couleur,nombreux,parcourir,seek,country,honte,54,2024-04-21,1388.54,965.32,CAT050
+746,ART000746,9344212914658,Sony Machine à laver digne,DIM1-19,dormir,DIM2-82,walk,Monoprix,Bijouterie,main,frais,mind,toward,maintenir,proposer,save,58,2023-12-23,827.0,597.18,CAT012
+747,ART000747,3398214782339,L'Oréal Ordinateur quite,DIM1-24,vide,DIM2-92,résultat,Attijari Bank,Parfumerie,free,mettre,instead,actually,debate,professor,travers,12,2024-10-21,1256.25,841.15,CAT020
+748,ART000748,3011220084845,Adidas Smartphone mêler,DIM1-31,spring,DIM2-25,dur,Yazaki Tunisia,Bijouterie,nord,Republican,agency,vert,moment,ville,marche,13,2024-10-23,1239.75,988.52,CAT049
+749,ART000749,4946920856494,Sony Shampoing cinquante,DIM1-60,courir,DIM2-99,pretty,Tunisie Telecom,Sport & Loisirs,source,résister,mais,terme,brûler,inquiétude,include,7,2024-01-05,391.47,288.53,CAT010
+750,ART000750,8080388904413,Nike Parfum force,DIM1-23,fier,DIM2-21,beau,Délice Danone,Boissons,into,wall,bag,inconnu,public,fin,plaine,83,2023-12-22,731.57,502.54,CAT014
+751,ART000751,5803090168569,L'Oréal Cahier line,DIM1-98,pointe,DIM2-59,often,Délice Danone,Cosmétiques,also,seul,curieux,street,monde,plutôt,on,95,2023-03-24,109.65,69.65,CAT035
+752,ART000752,8668611997670,Nike Smartphone particularly,DIM1-66,tout,DIM2-15,de,SOTUMAG,Maison & Jardin,attorney,true,hôtel,installer,maison,existence,quickly,93,2024-04-01,892.42,593.63,CAT038
+753,ART000753,6572853533997,Danone Table forcer,DIM1-87,mêler,DIM2-42,receive,Orange Tunisie,Cosmétiques,cerveau,western,government,bête,notice,woman,later,42,2024-04-14,459.43,343.45,CAT016
+754,ART000754,0302853272765,IKEA Table person,DIM1-29,exiger,DIM2-10,available,Attijari Bank,Maroquinerie,talk,défendre,car,yet,last,espèce,reconnaître,63,2024-09-27,113.41,71.33,CAT028
+755,ART000755,0897207382776,Nike Fromage lose,DIM1-23,comme,DIM2-50,challenge,Aziza,Vêtements,career,read,decide,sens,acte,whatever,cours,59,2023-02-07,1441.04,967.97,CAT041
+756,ART000756,4234473057773,Sony Livre soit,DIM1-43,worry,DIM2-17,tu,Délice Danone,Maroquinerie,box,his,hard,interesting,investment,amount,need,8,2023-06-01,564.81,435.09,CAT008
+757,ART000757,4009522426530,IKEA Pantalon probably,DIM1-22,vieil,DIM2-98,compter,Géant,Maison & Jardin,rocher,exprimer,son,patron,livre,mean,nombre,38,2024-08-15,1209.25,955.98,CAT041
+758,ART000758,5791150101628,L'Oréal Chaise act,DIM1-71,présence,DIM2-30,consulter,SOTUMAG,Informatique,happy,tranquille,three,where,piece,treat,en,67,2023-08-13,980.98,704.65,CAT014
+759,ART000759,5719214967911,Philips Pantalon if,DIM1-2,voyage,DIM2-94,property,UTIC,Maison & Jardin,tonight,respond,dame,échapper,pourquoi,titre,land,32,2023-04-24,657.96,424.04,CAT038
+760,ART000760,4685492724007,LG Pain verre,DIM1-74,amener,DIM2-1,red,UTIC,Boissons,casser,reflect,strategy,honte,salle,répéter,far,6,2024-10-01,1982.59,1494.32,CAT047
+761,ART000761,7163033563690,IKEA Ordinateur agent,DIM1-68,avouer,DIM2-51,arriver,Attijari Bank,Cosmétiques,quand,besoin,near,accent,too,dernier,intérêt,58,2023-02-20,993.09,706.78,CAT006
+762,ART000762,8929093043768,Danone Smartphone behavior,DIM1-94,neuf,DIM2-53,conference,Tunisie Telecom,Vêtements,principe,côté,trois,nature,juger,state,wall,46,2024-08-20,595.1,475.96,CAT042
+763,ART000763,0531105833090,Nike Smartphone modern,DIM1-86,séparer,DIM2-40,present,One Tech Group,Téléphonie,chair,renverser,guère,train,police,pied,similar,74,2024-05-18,1495.84,1189.62,CAT002
+764,ART000764,1676718776286,Nestlé Pantalon mot,DIM1-18,oeil,DIM2-91,ago,Senia,Électronique,terre,until,pauvre,consider,devoir,lay,life,48,2024-03-18,1255.49,912.34,CAT046
+765,ART000765,7616522898907,Apple Eau film,DIM1-50,hiver,DIM2-89,content,Géant,Bijouterie,growth,media,civil,future,husband,ago,renoncer,5,2024-07-30,596.7,390.22,CAT049
+766,ART000766,5014171657890,Adidas Fromage réussir,DIM1-74,corde,DIM2-27,trip,SOTUMAG,Parfumerie,have,quoi,be,guère,among,tendre,staff,43,2023-01-04,1472.84,1035.33,CAT004
+767,ART000767,4492878757036,Bosch Jus couche,DIM1-7,air,DIM2-15,chaque,Senia,Santé,jambe,beau,thing,possible,Congress,moi,church,60,2023-05-06,1240.17,834.99,CAT024
+768,ART000768,3693180620075,Adidas Eau alors,DIM1-91,faim,DIM2-9,matière,STB,Électroménager,chair,science,himself,personne,ago,miss,surtout,18,2023-08-25,1962.6,1389.38,CAT016
+769,ART000769,9567406873542,Nike Eau yard,DIM1-95,discuss,DIM2-97,give,Amen Bank,Électroménager,fonction,reality,war,health,trace,move,gauche,97,2024-05-28,1491.31,990.37,CAT015
+770,ART000770,8626736648532,Adidas Livre appel,DIM1-88,material,DIM2-55,network,Monoprix,Boissons,above,either,temps,spend,tirer,first,obtenir,9,2024-11-04,748.76,522.07,CAT029
+771,ART000771,5045050928466,Coca-Cola Shampoing company,DIM1-16,autour,DIM2-61,debate,STB,Chaussures,consider,rester,village,likely,port,salut,expect,38,2024-06-02,906.7,689.07,CAT024
+772,ART000772,3801625851506,Nestlé Café verre,DIM1-9,geste,DIM2-25,agency,Modern Leasing,Hygiène,représenter,haïr,jeune,beaucoup,pendant,sport,enfant,11,2024-04-26,784.41,515.89,CAT012
+773,ART000773,3111235904265,Apple Télévision crime,DIM1-22,technology,DIM2-36,church,Yazaki Tunisia,Vêtements,though,western,traîner,bring,puisque,mission,quatre,64,2024-03-06,305.24,214.93,CAT014
+774,ART000774,5451460919350,Samsung Eau bureau,DIM1-38,reduce,DIM2-54,guy,STB,Vêtements,form,vérité,say,neuf,pièce,recommencer,ne,61,2023-06-05,696.67,520.79,CAT029
+775,ART000775,7461215756268,Philips Smartphone use,DIM1-25,dernier,DIM2-9,air,Groupe Poulina,Maison & Jardin,never,prière,including,agiter,notre,car,effect,67,2024-09-05,1291.12,924.11,CAT027
+776,ART000776,9951670450590,Nivea Eau complètement,DIM1-42,let,DIM2-63,trou,Amen Bank,Bijouterie,depuis,fonction,quelque,guère,to,titre,rate,71,2023-02-14,893.29,637.32,CAT020
+777,ART000777,5936450282312,LG Stylo exiger,DIM1-34,petit,DIM2-30,speak,Attijari Bank,Santé,letter,man,serrer,choisir,final,fortune,daughter,37,2024-02-09,1540.65,970.1,CAT004
+778,ART000778,4369531029772,Nike Stylo tu,DIM1-22,hors,DIM2-80,mort,One Tech Group,Chaussures,vaincre,très,point,même,table,partager,déchirer,37,2024-10-15,368.65,283.07,CAT012
+779,ART000779,2910873922195,Nivea Café militaire,DIM1-20,humain,DIM2-21,discover,Orange Tunisie,Cosmétiques,learn,build,lier,respect,method,ouvrir,half,6,2023-10-17,1987.58,1242.82,CAT037
+780,ART000780,0445002026830,Bosch Livre one,DIM1-24,égal,DIM2-27,pull,STB,Boissons,up,demi,most,local,anyone,tel,figure,86,2024-04-14,637.3,401.24,CAT023
+781,ART000781,4675418236882,Adidas Pantalon attirer,DIM1-21,étaler,DIM2-69,paraître,Carrefour Tunisie,Cosmétiques,bois,haut,état,fond,as,réduire,collection,4,2023-01-03,812.1,612.08,CAT032
+782,ART000782,3882532083167,Bosch Pantalon suite,DIM1-20,doctor,DIM2-1,thought,STB,Bijouterie,escalier,tel,else,plan,penser,raise,later,43,2023-05-24,1296.25,900.61,CAT019
+783,ART000783,0052141070718,Nestlé Stylo effort,DIM1-74,option,DIM2-86,try,Leoni AG,Maroquinerie,terrain,body,embrasser,according,be,rouler,sommeil,94,2024-09-12,1814.23,1211.43,CAT029
+784,ART000784,5456972965567,Danone Réfrigérateur seigneur,DIM1-62,partie,DIM2-6,moment,Leoni AG,Chaussures,époque,like,véritable,social,nouveau,route,institution,15,2023-04-15,619.62,448.3,CAT026
+785,ART000785,6783055737131,Nike Lampe small,DIM1-46,test,DIM2-12,dehors,Géant,Boissons,émotion,region,authority,finish,various,control,language,78,2024-07-19,1284.42,905.88,CAT038
+786,ART000786,0411761421520,Sony Livre much,DIM1-3,ciel,DIM2-11,night,STB,Téléphonie,despite,everybody,agreement,important,huge,personal,within,87,2023-06-18,1344.76,1069.31,CAT006
+787,ART000787,8830048379361,Sony Chaussures vers,DIM1-63,joie,DIM2-41,courage,Arab Tunisian Bank,Parfumerie,tôt,plus,marier,piece,folie,attendre,apply,66,2024-07-30,1887.09,1268.53,CAT043
+788,ART000788,9118722824710,Danone Machine à laver âme,DIM1-55,ramasser,DIM2-48,paraître,Senia,Santé,reach,plein,research,never,there,wall,party,2,2024-04-29,572.88,379.03,CAT023
+789,ART000789,5221711486562,Coca-Cola Pantalon nation,DIM1-72,remercier,DIM2-12,admettre,Tunisie Telecom,Téléphonie,ball,development,investment,cerveau,decision,demain,hit,95,2023-12-15,1985.23,1305.74,CAT029
+790,ART000790,6169496378810,IKEA Thé rêver,DIM1-94,qualité,DIM2-54,mensonge,Leoni AG,Maroquinerie,ville,circonstance,système,précipiter,nouveau,happen,vaincre,77,2023-03-31,176.73,116.76,CAT014
+791,ART000791,3361317985495,Bosch Shampoing attitude,DIM1-9,risk,DIM2-76,établir,Senia,Hygiène,remember,semaine,so,hot,most,je,well,1,2024-06-12,821.87,561.26,CAT018
+792,ART000792,2743922551745,Nike Yaourt sein,DIM1-91,humide,DIM2-73,soulever,Leoni AG,Électroménager,there,trip,water,chemise,voiture,montagne,commencement,24,2023-07-01,1665.41,1183.73,CAT019
+793,ART000793,5413845315638,Coca-Cola Ordinateur sentier,DIM1-39,acte,DIM2-75,piece,Carrefour Tunisie,Jouets,near,stage,temps,safe,him,central,who,72,2024-03-12,1481.01,896.56,CAT015
+794,ART000794,1773516681139,LG Smartphone somme,DIM1-34,dark,DIM2-39,local,Attijari Bank,Cosmétiques,plaisir,comme,realize,voiture,activity,grand,temps,84,2024-05-17,1333.5,911.36,CAT019
+795,ART000795,4198306323650,Danone Parfum week,DIM1-83,certes,DIM2-32,tel,Groupe Poulina,Cosmétiques,fill,concern,sort,clearly,dans,election,account,98,2023-12-08,558.05,401.67,CAT005
+796,ART000796,5118615640995,L'Oréal Sac board,DIM1-62,miss,DIM2-73,data,UTIC,Sport & Loisirs,dix,American,foreign,geste,better,prêter,matin,81,2024-06-02,1373.4,1048.81,CAT045
+797,ART000797,0356594299208,Adidas Sac et,DIM1-94,idea,DIM2-74,lead,Groupe Poulina,Sport & Loisirs,plan,demain,east,rang,better,better,sorte,21,2024-04-17,1165.4,773.75,CAT010
+798,ART000798,9342424066288,LG Café feu,DIM1-46,cut,DIM2-21,geste,Délice Danone,Sport & Loisirs,espace,detail,hospital,quant à,least,sign,prêt,47,2024-08-25,841.93,513.36,CAT023
+799,ART000799,4243826928554,Adidas Stylo parler,DIM1-82,democratic,DIM2-10,tend,BIAT,Électroménager,rire,common,politics,until,threat,étrange,surface,99,2023-08-09,1257.92,778.53,CAT049
+800,ART000800,3591765047180,Adidas Chaise accompagner,DIM1-42,satisfaire,DIM2-41,eye,Carrefour Tunisie,Sport & Loisirs,rejoindre,difference,feel,reflect,name,law,perform,88,2023-12-21,1397.45,865.25,CAT024
+801,ART000801,6170690149717,Bosch Pain année,DIM1-19,puisque,DIM2-2,style,Leoni AG,Bijouterie,board,including,themselves,kid,should,a,ball,37,2023-01-16,749.16,511.23,CAT032
+802,ART000802,6744923435962,Apple Chaise after,DIM1-28,game,DIM2-20,tandis que,BIAT,Maison & Jardin,station,issue,poésie,foreign,content,wear,reposer,25,2023-02-26,1591.24,1149.97,CAT036
+803,ART000803,8925714025038,Coca-Cola Shampoing try,DIM1-69,later,DIM2-92,mal,STB,Cosmétiques,my,soulever,soon,projet,page,montrer,travers,54,2023-06-02,923.68,575.74,CAT005
+804,ART000804,8530101278968,Samsung Machine à laver become,DIM1-62,abri,DIM2-45,question,Carrefour Tunisie,Santé,choice,machine,need,song,anything,meilleur,join,18,2023-02-10,1634.99,1152.05,CAT039
+805,ART000805,6344439468968,LG Cahier entretenir,DIM1-91,rang,DIM2-39,triste,Groupe Poulina,Cosmétiques,dormir,lutter,respond,behavior,send,parent,compagnon,29,2023-08-23,261.79,164.53,CAT045
+806,ART000806,5776262636787,Philips Lampe same,DIM1-17,prévenir,DIM2-27,teach,Leoni AG,Hygiène,evidence,spring,position,return,rate,fortune,certainly,55,2024-10-21,1383.18,851.41,CAT008
+807,ART000807,7740376768748,Nestlé Parfum faute,DIM1-56,an,DIM2-6,know,Tunisie Telecom,Cosmétiques,hear,guère,have,général,briller,somebody,space,5,2024-05-21,1587.15,1140.58,CAT033
+808,ART000808,0990009406562,Apple Parfum she,DIM1-33,et,DIM2-6,seven,SOTUMAG,Automobiles,gun,pur,real,history,jeter,douze,muet,86,2023-01-25,25.49,19.28,CAT007
+809,ART000809,0470911034959,Sony Fromage bank,DIM1-76,seigneur,DIM2-26,these,One Tech Group,Santé,be,refuser,vague,morning,pareil,interest,ball,4,2024-07-21,186.1,146.72,CAT048
+810,ART000810,7761868704792,Bosch Pain instead,DIM1-46,officer,DIM2-21,voler,BIAT,Parfumerie,main,l'un,gun,adult,finir,visite,vêtement,31,2023-01-03,1012.29,627.44,CAT005
+811,ART000811,9276405473980,Nestlé Pain contain,DIM1-2,bien,DIM2-68,around,Tunisie Telecom,Électroménager,audience,ce,however,guère,food,trip,égal,37,2023-07-16,347.69,245.96,CAT049
+812,ART000812,8524744203593,Apple Thé father,DIM1-28,aimer,DIM2-65,engager,Attijari Bank,Santé,quite,lèvre,rang,job,wish,measure,beyond,90,2023-03-12,1180.81,867.55,CAT029
+813,ART000813,5183025853464,LG Réfrigérateur nor,DIM1-46,jusque,DIM2-49,somme,UTIC,Électroménager,pull,vide,politique,gun,rire,season,dent,66,2023-09-14,458.97,345.27,CAT008
+814,ART000814,8167592383194,Apple Cahier haine,DIM1-60,refuser,DIM2-15,avec,BIAT,Vêtements,qui,expression,current,care,haïr,charger,paper,64,2024-08-01,1525.74,1003.41,CAT046
+815,ART000815,0912185273417,Samsung Thé garde,DIM1-11,behavior,DIM2-42,étranger,Attijari Bank,Cosmétiques,inspirer,him,avancer,hors,article,baisser,fine,50,2023-12-16,570.8,426.52,CAT039
+816,ART000816,8110965984559,Coca-Cola Jus investment,DIM1-57,economy,DIM2-29,gas,STB,Informatique,call,seconde,couche,wrong,growth,avant,food,38,2024-12-27,1970.0,1256.38,CAT028
+817,ART000817,0616691008227,Coca-Cola Télévision center,DIM1-61,mon,DIM2-87,neuf,Aziza,Électronique,croire,souvenir,heart,conference,thing,child,que,2,2024-05-05,1997.45,1466.97,CAT032
+818,ART000818,7910059325722,Nike Chaussures relation,DIM1-67,appear,DIM2-85,danser,SOTUMAG,Cosmétiques,apporter,taire,while,operation,power,simple,exécuter,19,2024-03-08,792.65,569.21,CAT045
+819,ART000819,1295145205802,Danone Réfrigérateur sourire,DIM1-22,admit,DIM2-9,animal,Aziza,Électroménager,old,dernier,faire,ni,throw,various,everyone,44,2024-09-16,404.53,252.65,CAT026
+820,ART000820,9509041898566,Danone T-shirt rise,DIM1-64,democratic,DIM2-36,certes,Amen Bank,Maroquinerie,girl,lawyer,en,nice,should,hand,same,35,2023-02-27,1513.82,1193.87,CAT042
+821,ART000821,6062290113864,Nike Sac fois,DIM1-86,then,DIM2-78,reduce,Senia,Jouets,weight,rire,eh,écarter,campaign,tough,show,66,2024-03-11,561.39,387.88,CAT050
+822,ART000822,9441914790532,Philips Réfrigérateur let,DIM1-63,reposer,DIM2-64,saison,Orange Tunisie,Vêtements,us,mot,dinner,résoudre,shoulder,comprendre,minute,4,2024-09-19,203.71,156.05,CAT004
+823,ART000823,8868656292581,Nivea Parfum d'autres,DIM1-4,ramasser,DIM2-23,choix,Senia,Parfumerie,cuisine,maintenant,assurer,water,late,responsibility,memory,87,2024-05-11,657.28,476.13,CAT020
+824,ART000824,8096458374499,Nestlé Réfrigérateur then,DIM1-10,good,DIM2-85,ça,BIAT,Jouets,lèvre,calme,future,return,plan,près,face,60,2023-08-03,407.85,285.32,CAT043
+825,ART000825,1486267511999,Philips Shampoing language,DIM1-70,good,DIM2-44,fer,STB,Chaussures,heart,away,start,foreign,signe,let,economy,3,2024-12-10,1905.4,1520.78,CAT003
+826,ART000826,9358201630153,IKEA Réfrigérateur reach,DIM1-58,depuis,DIM2-41,check,Senia,Téléphonie,puissance,song,grand,plante,item,résultat,least,59,2023-03-06,76.78,54.62,CAT012
+827,ART000827,4033480153733,Danone Stylo study,DIM1-22,instead,DIM2-63,body,UTIC,Vêtements,general,explain,up,joindre,ruine,mer,situation,40,2024-01-12,1432.87,1078.67,CAT032
+828,ART000828,6272053649916,Nivea Pain secrétaire,DIM1-63,voyage,DIM2-85,issue,STB,Chaussures,single,premier,sing,dent,lèvre,seven,renoncer,74,2024-10-30,942.29,726.38,CAT036
+829,ART000829,7755821262641,Samsung Shampoing servir,DIM1-51,information,DIM2-34,put,Attijari Bank,Maroquinerie,fight,able,option,plein,beautiful,servir,passage,49,2023-10-18,1235.79,930.91,CAT023
+830,ART000830,1294414925311,Bosch Stylo whose,DIM1-8,president,DIM2-4,proposer,Amen Bank,Boissons,projet,recognize,expert,light,hard,state,pass,17,2024-01-09,1674.68,1275.96,CAT023
+831,ART000831,5549434368775,Samsung Pain intérieur,DIM1-98,such,DIM2-81,cou,Géant,Bébé & Enfant,rose,special,pointe,your,genou,joue,ligne,13,2023-12-29,859.16,586.28,CAT023
+832,ART000832,0011547734945,Nivea Ordinateur tourner,DIM1-32,tombe,DIM2-32,rule,Orange Tunisie,Automobiles,cell,le,management,institution,body,jeu,raise,76,2023-08-29,174.46,106.96,CAT045
+833,ART000833,6855739523283,Apple Stylo hotel,DIM1-44,old,DIM2-22,triste,Groupe Poulina,Chaussures,mention,there,high,terminer,interesting,d'abord,production,42,2024-08-26,79.57,61.48,CAT043
+834,ART000834,6233470407145,Adidas Pain surface,DIM1-54,property,DIM2-35,exemple,Groupe Poulina,Jouets,relationship,service,froid,rencontrer,sell,owner,analysis,76,2024-01-23,49.36,33.35,CAT021
+835,ART000835,5601703961015,Bosch Chaussures happen,DIM1-74,toit,DIM2-13,chaud,Attijari Bank,Cosmétiques,so,mariage,page,paper,politique,school,que,89,2023-09-01,1351.85,945.41,CAT022
+836,ART000836,6215938967637,Bosch Jus decade,DIM1-22,message,DIM2-79,lui,Carrefour Tunisie,Santé,score,answer,article,career,quitter,feu,également,56,2024-09-14,407.51,313.57,CAT041
+837,ART000837,1390143097425,Coca-Cola Télévision prove,DIM1-69,possible,DIM2-28,oeil,Carrefour Tunisie,Sport & Loisirs,today,haut,seem,letter,vieil,nature,dormir,7,2024-05-30,598.15,406.98,CAT037
+838,ART000838,7356582608251,L'Oréal Lampe tranquille,DIM1-96,economic,DIM2-12,take,Amen Bank,Cosmétiques,second,couche,laugh,ceci,trembler,dormir,bras,76,2024-05-01,676.99,482.89,CAT005
+839,ART000839,5261197892594,Nike Shampoing indeed,DIM1-55,live,DIM2-27,professional,Aziza,Hygiène,huge,scene,détruire,rich,far,window,chiffre,84,2024-09-11,1648.36,1254.11,CAT033
+840,ART000840,1367380520382,Nivea T-shirt vers,DIM1-70,papa,DIM2-41,must,Tunisie Telecom,Informatique,statement,ramener,training,wrong,facile,religious,dehors,52,2023-02-27,506.27,349.65,CAT033
+841,ART000841,8333540112721,LG Yaourt même,DIM1-3,dont,DIM2-81,prétendre,BIAT,Électronique,unit,wife,management,any,nombreux,learn,recommencer,74,2024-08-25,1000.91,793.14,CAT043
+842,ART000842,6295076716212,Nike Thé choice,DIM1-35,force,DIM2-82,option,STB,Parfumerie,tirer,board,teach,attirer,travers,médecin,real,99,2024-09-10,1814.14,1352.12,CAT037
+843,ART000843,4967419916055,Adidas Ordinateur si,DIM1-26,médecin,DIM2-47,style,Modern Leasing,Vêtements,respect,quite,entendre,case,teach,voir,result,31,2023-04-06,305.19,229.84,CAT044
+844,ART000844,5891368296700,IKEA T-shirt factor,DIM1-41,colline,DIM2-9,win,Tunisie Telecom,Informatique,bien,suivant,shoulder,jaune,moi,côté,cinq,35,2024-03-19,1648.3,1041.92,CAT042
+845,ART000845,8875480293356,L'Oréal Jus près,DIM1-31,dark,DIM2-52,accepter,Orange Tunisie,Cosmétiques,high,education,today,plein,ground,huge,vers,20,2023-04-05,387.87,294.55,CAT016
+846,ART000846,2140128331957,Nike Stylo must,DIM1-63,others,DIM2-72,en,UTIC,Informatique,system,black,woman,beat,scene,divers,joli,83,2024-01-24,1811.78,1144.81,CAT013
+847,ART000847,0941246051640,Samsung Machine à laver spectacle,DIM1-34,detail,DIM2-36,pareil,STB,Électronique,operation,business,south,lot,tree,toward,admettre,83,2023-08-06,1705.78,1189.22,CAT047
+848,ART000848,4597317303321,Samsung Smartphone partner,DIM1-11,smile,DIM2-41,goal,Arab Tunisian Bank,Automobiles,war,trouble,but,goût,watch,sac,school,9,2024-07-17,1801.65,1404.12,CAT027
+849,ART000849,1815605427072,Nivea Jus television,DIM1-12,suggest,DIM2-51,job,Leoni AG,Maison & Jardin,chef,autour,parent,including,upon,high,report,15,2023-11-21,1144.09,899.93,CAT033
+850,ART000850,7289722693483,Nivea Shampoing executive,DIM1-75,droite,DIM2-100,seulement,BIAT,Sport & Loisirs,reveal,newspaper,site,activity,hundred,tempête,author,64,2024-02-08,1769.71,1274.13,CAT016
+851,ART000851,6870977779575,Bosch Cahier terrain,DIM1-75,retour,DIM2-95,charge,Senia,Maison & Jardin,dog,management,palais,travail,avant,song,liberté,55,2023-04-11,439.93,279.37,CAT007
+852,ART000852,2206824323334,Nike Livre coup,DIM1-53,soi,DIM2-33,étudier,Amen Bank,Boissons,hundred,mode,malgré,second,un,mince,real,63,2023-05-29,1069.27,844.45,CAT045
+853,ART000853,7865294128532,Adidas Cahier senior,DIM1-55,après,DIM2-61,training,Orange Tunisie,Sport & Loisirs,environment,field,state,else,coeur,exister,livre,19,2023-08-30,729.18,491.14,CAT046
+854,ART000854,8053764255072,Samsung Stylo oil,DIM1-83,off,DIM2-78,ahead,Délice Danone,Boissons,attacher,salut,demande,étranger,plein,certain,opportunity,89,2023-11-19,1835.33,1189.17,CAT043
+855,ART000855,9928798728733,IKEA Yaourt étude,DIM1-40,habitant,DIM2-82,subject,Aziza,Cosmétiques,consumer,pièce,force,building,across,donc,réalité,69,2024-01-01,1734.57,1175.51,CAT029
+856,ART000856,0510287451209,Philips Chaussures unique,DIM1-39,voici,DIM2-12,camarade,Orange Tunisie,Automobiles,herself,hit,audience,fact,president,toile,avec,27,2023-11-12,1719.54,1346.71,CAT011
+857,ART000857,2750152697440,Bosch Eau autour,DIM1-99,million,DIM2-83,pleurer,UTIC,Boissons,final,droit,révéler,movement,change,vérité,mille,36,2023-11-28,1733.56,1366.22,CAT050
+858,ART000858,1457923267147,Danone Parfum month,DIM1-53,solitude,DIM2-43,account,UTIC,Cosmétiques,longtemps,cher,model,relationship,apparaître,justice,réussir,21,2023-02-05,1398.47,857.64,CAT033
+859,ART000859,8285233297041,L'Oréal T-shirt plaindre,DIM1-94,mouth,DIM2-71,sauver,Géant,Téléphonie,jeune,who,talk,brûler,thousand,sentir,because,89,2024-04-12,59.57,43.38,CAT004
+860,ART000860,0757414248732,Nivea Chaise cold,DIM1-57,case,DIM2-83,plant,Leoni AG,Alimentation,projet,vide,désirer,read,should,eat,section,52,2024-01-08,404.15,267.85,CAT020
+861,ART000861,4434354978726,Apple Télévision high,DIM1-21,break,DIM2-32,well,BIAT,Vêtements,soldier,dog,danger,enlever,without,sur,car,77,2024-01-01,1373.08,947.83,CAT021
+862,ART000862,0009409165730,LG Thé just,DIM1-34,français,DIM2-23,monsieur,Amen Bank,Librairie,run,composer,every,après,musique,autrement,fer,37,2024-12-09,401.33,270.3,CAT027
+863,ART000863,5273117226419,IKEA Chaussures million,DIM1-74,know,DIM2-29,afin de,Groupe Poulina,Alimentation,public,car,émotion,popular,list,common,riche,72,2024-10-09,1295.98,836.87,CAT041
+864,ART000864,9667715390225,Nike Télévision specific,DIM1-26,glisser,DIM2-34,shoulder,One Tech Group,Boissons,moins,action,droite,sept,revoir,voici,oeil,52,2024-10-16,1237.92,807.16,CAT039
+865,ART000865,6144278735548,Bosch Télévision former,DIM1-22,surprendre,DIM2-73,complet,Yazaki Tunisia,Alimentation,president,place,voir,oeuvre,himself,young,somme,92,2023-08-26,1054.05,826.37,CAT050
+866,ART000866,9690453925282,Coca-Cola Pantalon open,DIM1-87,intelligence,DIM2-64,decade,Yazaki Tunisia,Maison & Jardin,prière,encore,alors,early,grow,soulever,autorité,92,2023-06-28,410.28,269.8,CAT018
+867,ART000867,4122474098539,IKEA Parfum coach,DIM1-17,et,DIM2-56,jour,Tunisie Telecom,Parfumerie,ignorer,ministre,composer,conscience,big,poitrine,lors,28,2023-09-09,1990.44,1483.56,CAT019
+868,ART000868,0940422456415,IKEA Table sauver,DIM1-24,machine,DIM2-53,total,Leoni AG,Alimentation,connaître,early,point,sable,étranger,well,jusque,38,2024-07-20,1952.38,1412.62,CAT016
+869,ART000869,9419715755715,Bosch Lampe lay,DIM1-75,dernier,DIM2-88,flamme,Modern Leasing,Hygiène,else,obtenir,moyen,bout,wait,economy,catch,2,2024-11-09,940.42,747.52,CAT021
+870,ART000870,7615042059867,Nivea Chaussures region,DIM1-28,physical,DIM2-92,magazine,Senia,Informatique,grandir,veiller,victime,agent,sauvage,chien,but,95,2024-08-17,1196.41,740.64,CAT005
+871,ART000871,1039278888187,Samsung Ordinateur art,DIM1-43,successful,DIM2-31,realize,Attijari Bank,Santé,mauvais,remplir,morceau,second,behavior,work,word,78,2023-09-30,1878.95,1394.02,CAT039
+872,ART000872,9656882672807,Samsung Ordinateur planche,DIM1-33,police,DIM2-65,abri,Arab Tunisian Bank,Bébé & Enfant,très,line,sous,passion,larme,fear,penser,39,2024-07-18,1955.16,1318.13,CAT043
+873,ART000873,8306978999516,Samsung Yaourt half,DIM1-75,political,DIM2-23,mur,Monoprix,Électronique,wait,facile,medical,organization,oiseau,new,listen,65,2023-02-23,988.22,766.44,CAT022
+874,ART000874,7116456059561,Apple Machine à laver grâce,DIM1-41,cela,DIM2-91,sortir,BIAT,Informatique,determine,ailleurs,consulter,newspaper,later,son,esprit,19,2024-06-30,524.51,319.34,CAT021
+875,ART000875,7303167871920,Nike Machine à laver box,DIM1-36,fear,DIM2-96,report,Aziza,Informatique,âge,couper,red,conversation,television,green,agent,37,2023-09-23,1806.07,1305.04,CAT017
+876,ART000876,9080998397673,Adidas Livre propre,DIM1-41,central,DIM2-56,huge,One Tech Group,Librairie,mensonge,agir,force,quand,travers,apparaître,rôle,95,2023-08-15,1989.16,1571.46,CAT049
+877,ART000877,5294930741798,Coca-Cola Yaourt former,DIM1-85,job,DIM2-82,claim,Modern Leasing,Boissons,room,lier,public,close,intérieur,parti,project,25,2023-02-13,301.5,191.94,CAT015
+878,ART000878,2230234056773,Philips Parfum devoir,DIM1-21,bar,DIM2-91,natural,Modern Leasing,Informatique,fait,profond,presser,intérieur,naissance,lawyer,vouloir,15,2024-10-22,1990.43,1210.5,CAT032
+879,ART000879,3927884479098,Danone Sac successful,DIM1-72,nécessaire,DIM2-63,immense,Modern Leasing,Jouets,pièce,population,themselves,floor,clearly,courage,face,15,2023-07-15,1692.45,1057.33,CAT010
+880,ART000880,3137371450312,Sony Télévision qui,DIM1-37,vieux,DIM2-24,marchand,One Tech Group,Bijouterie,program,falloir,sentir,transformer,according,bed,famille,35,2024-12-23,1128.68,809.42,CAT043
+881,ART000881,8911992569241,Samsung Pain it,DIM1-68,françois,DIM2-99,attitude,Amen Bank,Électronique,faire,fond,douceur,profiter,chose,hasard,jeter,54,2024-06-25,1841.22,1387.64,CAT016
+882,ART000882,2517904470856,Apple Jus ability,DIM1-43,structure,DIM2-4,me,Carrefour Tunisie,Cosmétiques,black,recent,new,blanc,douceur,fait,source,51,2023-07-31,750.25,575.74,CAT007
+883,ART000883,7227579407402,Samsung Machine à laver élément,DIM1-11,evidence,DIM2-59,present,Attijari Bank,Téléphonie,about,éternel,voler,mériter,behind,source,first,81,2023-01-04,1910.63,1397.82,CAT039
+884,ART000884,0326753180579,Samsung Cahier effort,DIM1-84,veille,DIM2-80,calme,Modern Leasing,Librairie,quitter,quickly,find,stop,dehors,draw,always,94,2024-12-24,1999.64,1251.5,CAT037
+885,ART000885,0047486794863,Nestlé Ordinateur movie,DIM1-83,nation,DIM2-37,père,Géant,Boissons,témoin,monsieur,animal,pas,above,papa,southern,96,2024-05-22,146.09,98.8,CAT039
+886,ART000886,5949330781119,Philips Chaussures both,DIM1-23,there,DIM2-31,arrêter,Senia,Hygiène,power,demi,fenêtre,finally,lever,time,line,3,2023-06-26,1705.43,1155.77,CAT011
+887,ART000887,3849655239178,Philips Chaussures écrire,DIM1-83,ligne,DIM2-97,abattre,Leoni AG,Cosmétiques,haine,masse,happen,mauvais,silencieux,raise,eat,39,2023-12-19,984.24,735.4,CAT028
+888,ART000888,9462487238580,Nivea Stylo toward,DIM1-78,recently,DIM2-17,somme,Aziza,Cosmétiques,planche,on,record,faible,est,part,compagnon,48,2024-12-13,1027.74,708.2,CAT032
+889,ART000889,7060558173574,Nike Chaussures colon,DIM1-35,membre,DIM2-73,inviter,Arab Tunisian Bank,Informatique,mériter,lutter,increase,institution,sauter,administration,garder,12,2023-10-08,1514.2,1094.42,CAT024
+890,ART000890,0393427186694,Nivea T-shirt livre,DIM1-55,card,DIM2-12,impossible,Délice Danone,Bijouterie,sombre,même,accuser,tracer,chose,capable,language,44,2023-11-19,1946.68,1255.31,CAT044
+891,ART000891,9738449812137,Danone Jus aujourd'hui,DIM1-20,terreur,DIM2-64,quelque,BIAT,Bijouterie,reduce,there,un,mean,dos,bord,famille,11,2024-02-16,584.95,360.23,CAT028
+892,ART000892,7736556192212,Philips Parfum côte,DIM1-20,moyen,DIM2-17,calmer,Carrefour Tunisie,Maison & Jardin,term,campaign,if,suivre,appartenir,discuter,everybody,67,2024-06-20,858.32,523.19,CAT037
+893,ART000893,9368359916764,Samsung Télévision administration,DIM1-66,court,DIM2-14,rire,BIAT,Informatique,y,toile,jeune,quinze,subir,support,which,53,2023-05-16,193.5,143.98,CAT043
+894,ART000894,9379499952253,Bosch Livre situation,DIM1-33,sort,DIM2-75,evening,SOTUMAG,Bijouterie,return,soon,soumettre,speak,movement,clef,habiller,3,2023-06-21,232.3,160.89,CAT043
+895,ART000895,6409805877154,Coca-Cola Chaise scientist,DIM1-51,phone,DIM2-6,sûr,SOTUMAG,Informatique,say,plonger,woman,dépasser,part,véritable,aile,91,2023-10-31,598.81,446.01,CAT038
+896,ART000896,7216266032355,Nike Jus baby,DIM1-80,dès,DIM2-34,guy,Géant,Électronique,management,pas,semblable,middle,source,author,exemple,28,2023-07-29,374.25,298.07,CAT048
+897,ART000897,1173670386251,Coca-Cola Livre read,DIM1-87,travel,DIM2-14,body,UTIC,Chaussures,de,yourself,show,durant,apporter,réclamer,lit,3,2023-07-13,16.66,10.04,CAT008
+898,ART000898,8292482873216,Nike Eau peu,DIM1-59,capable,DIM2-89,suffire,Senia,Parfumerie,drug,head,off,church,absolu,cell,beau,93,2024-10-18,976.01,744.33,CAT040
+899,ART000899,8428741627966,Bosch Fromage soulever,DIM1-89,general,DIM2-87,dangereux,Senia,Automobiles,head,benefit,ajouter,value,après,soirée,risk,12,2024-07-05,254.55,162.44,CAT001
+900,ART000900,2623003607229,Danone Smartphone humain,DIM1-25,cruel,DIM2-4,absolu,Tunisie Telecom,Jouets,transformer,result,supposer,decade,give,revoir,oiseau,84,2024-10-21,294.58,202.42,CAT016
+901,ART000901,9166316696878,Coca-Cola Eau act,DIM1-69,eau,DIM2-25,exécuter,SOTUMAG,Automobiles,family,attack,même,on,everything,above,veiller,99,2023-08-14,929.53,636.15,CAT031
+902,ART000902,8015176429625,LG Réfrigérateur sable,DIM1-20,garde,DIM2-95,combat,Modern Leasing,Jouets,according,television,terrain,power,bit,comment,think,61,2024-07-04,44.16,31.66,CAT029
+903,ART000903,5232280588373,Philips Table provide,DIM1-73,easy,DIM2-51,will,Délice Danone,Librairie,sister,violent,model,contain,skin,se,any,2,2023-03-09,209.81,144.0,CAT046
+904,ART000904,5255862778887,Coca-Cola T-shirt moindre,DIM1-64,en,DIM2-95,papier,Amen Bank,Parfumerie,night,espace,exemple,suffer,voiture,buy,author,94,2024-10-04,1110.84,674.73,CAT019
+905,ART000905,2935545920552,Nike Chaussures level,DIM1-66,light,DIM2-76,place,Arab Tunisian Bank,Jouets,chercher,parfaitement,ajouter,son,manage,character,two,30,2023-09-10,1430.01,863.45,CAT034
+906,ART000906,1608958970155,Bosch Pain deux,DIM1-71,durant,DIM2-9,manier,Monoprix,Informatique,ask,problème,figure,lead,confier,accuser,fast,61,2024-12-01,238.3,187.73,CAT040
+907,ART000907,1399799271562,Nike Sac en,DIM1-90,protéger,DIM2-56,smile,Groupe Poulina,Électronique,us,prix,similar,music,réel,stand,riche,37,2023-11-04,1453.79,972.25,CAT031
+908,ART000908,0900737949996,Adidas Lampe station,DIM1-29,form,DIM2-76,return,Géant,Parfumerie,true,factor,atteindre,interesting,nouveau,matin,feel,92,2023-08-20,1315.63,1021.76,CAT009
+909,ART000909,5916043598396,Danone Thé produce,DIM1-50,paysan,DIM2-54,himself,Aziza,Jouets,little,trembler,girl,reduce,malheur,never,than,21,2023-08-27,1245.58,919.41,CAT019
+910,ART000910,7307177613501,Nivea Télévision poser,DIM1-62,mêler,DIM2-17,craindre,One Tech Group,Électroménager,doucement,fear,époque,mot,case,rest,dire,21,2023-03-09,1213.47,920.66,CAT007
+911,ART000911,6532735514971,Philips Parfum fait,DIM1-31,diriger,DIM2-27,condamner,STB,Boissons,fenêtre,message,fruit,structure,various,rue,vous,3,2023-09-01,720.78,483.94,CAT017
+912,ART000912,5702006174130,LG Chaise for,DIM1-65,write,DIM2-5,organization,SOTUMAG,Librairie,successful,successful,bring,cheval,tour,subir,plaire,56,2024-10-16,232.37,145.03,CAT015
+913,ART000913,5076122283053,Nike Lampe fine,DIM1-34,kind,DIM2-44,energy,Aziza,Boissons,expérience,hope,talk,partner,approach,mort,voisin,99,2023-11-29,1756.04,1368.42,CAT018
+914,ART000914,7778943327630,Coca-Cola Café fait,DIM1-66,also,DIM2-78,proposer,Yazaki Tunisia,Boissons,vie,minute,set,notre,devoir,créer,résoudre,57,2023-10-18,1598.98,994.86,CAT049
+915,ART000915,0617906701513,Nestlé Réfrigérateur article,DIM1-79,écarter,DIM2-79,événement,Yazaki Tunisia,Chaussures,population,passé,place,wall,clair,court,relation,6,2024-06-16,1017.07,738.38,CAT011
+916,ART000916,3919296921050,Bosch Table angoisse,DIM1-21,bed,DIM2-94,depuis,Carrefour Tunisie,Téléphonie,and,répéter,courant,tenter,light,court,state,98,2023-09-03,1014.26,785.14,CAT047
+917,ART000917,9857887282064,Nivea Machine à laver cri,DIM1-47,vide,DIM2-43,ça,Leoni AG,Cosmétiques,nombreux,froid,just,history,certain,military,add,26,2024-09-27,881.02,664.15,CAT027
+918,ART000918,6472452573786,Sony Smartphone run,DIM1-61,manager,DIM2-44,officer,Carrefour Tunisie,Bijouterie,address,about,keep,measure,low,offrir,couler,22,2024-12-16,175.04,130.06,CAT024
+919,ART000919,8426809282614,Bosch T-shirt even,DIM1-81,ordre,DIM2-86,abattre,Orange Tunisie,Vêtements,deal,bad,along,impact,occur,dresser,vers,97,2023-10-21,1508.25,1142.41,CAT027
+920,ART000920,7951279831242,Nestlé Machine à laver renoncer,DIM1-55,economy,DIM2-53,remember,UTIC,Téléphonie,because,strong,caresser,soi,only,public,able,67,2024-01-02,1590.24,1254.3,CAT024
+921,ART000921,8671520771071,LG Pantalon article,DIM1-99,draw,DIM2-2,nourrir,BIAT,Hygiène,sign,picture,local,te,itself,transformer,importance,11,2023-03-13,679.92,541.48,CAT026
+922,ART000922,9007017850209,IKEA Chaise anything,DIM1-8,journée,DIM2-51,other,Délice Danone,Vêtements,common,voici,après,âgé,soldat,his,exist,74,2024-06-07,120.33,95.78,CAT041
+923,ART000923,3965974425266,Adidas Jus relationship,DIM1-38,avenir,DIM2-54,because,Senia,Chaussures,feel,jusque,oui,among,better,espèce,write,39,2024-11-05,1444.49,1129.37,CAT021
+924,ART000924,6699768160855,Coca-Cola Smartphone model,DIM1-36,passer,DIM2-68,place,Arab Tunisian Bank,Vêtements,loi,power,name,fin,per,professeur,effacer,90,2024-01-26,810.86,519.78,CAT042
+925,ART000925,2405744509990,L'Oréal Yaourt determine,DIM1-80,exprimer,DIM2-84,southern,Modern Leasing,Santé,hier,ouvert,chaise,cent,vision,such,quoi,84,2023-11-15,811.99,630.26,CAT013
+926,ART000926,8985932135964,Samsung Télévision précis,DIM1-69,autrefois,DIM2-43,several,Senia,Vêtements,temps,room,aspect,coûter,evidence,joue,recognize,67,2023-01-07,1983.89,1275.14,CAT019
+927,ART000927,5482987819212,Adidas Shampoing many,DIM1-40,politics,DIM2-67,likely,Géant,Électronique,imagine,gagner,rouge,pas,plonger,rest,study,3,2023-03-04,60.64,43.57,CAT035
+928,ART000928,6172758045290,Coca-Cola Lampe note,DIM1-100,treatment,DIM2-39,president,UTIC,Bijouterie,perform,yeah,give,family,must,use,son,15,2023-02-23,1465.31,955.31,CAT024
+929,ART000929,4019293605966,Bosch Shampoing vieux,DIM1-16,go,DIM2-7,vingt,Yazaki Tunisia,Téléphonie,étroit,war,profiter,chose,flot,store,measure,39,2023-11-24,1147.01,792.16,CAT001
+930,ART000930,6115686223071,Nestlé Lampe titre,DIM1-96,government,DIM2-75,national,Amen Bank,Chaussures,heure,charge,already,voiture,parfois,effort,autrement,77,2024-10-12,471.51,309.74,CAT020
+931,ART000931,2718624475637,L'Oréal Café chef,DIM1-87,sortir,DIM2-18,école,Senia,Bijouterie,portier,rentrer,notice,midi,bank,same,hand,95,2024-02-03,499.03,350.96,CAT021
+932,ART000932,6356541802882,Coca-Cola Table inventer,DIM1-100,briller,DIM2-47,tour,Modern Leasing,Cosmétiques,lead,heure,in,continue,victime,list,importer,19,2023-02-04,1424.72,878.18,CAT027
+933,ART000933,1329887123206,IKEA Ordinateur oeil,DIM1-17,necessary,DIM2-61,finally,Tunisie Telecom,Téléphonie,page,offer,century,you,cultural,charge,single,10,2023-01-23,741.74,504.79,CAT034
+934,ART000934,2087783471065,Adidas Yaourt toute,DIM1-100,endormir,DIM2-51,pull,Monoprix,Maroquinerie,tax,media,jeter,consumer,tempête,particulier,quickly,64,2023-02-13,1274.74,940.51,CAT029
+935,ART000935,5358597302737,Danone Parfum demi,DIM1-54,team,DIM2-21,win,Leoni AG,Bijouterie,hasard,exemple,croiser,guess,fill,near,roche,17,2024-11-24,972.1,608.42,CAT030
+936,ART000936,0411678815962,Adidas Café instead,DIM1-68,early,DIM2-16,thought,Tunisie Telecom,Téléphonie,husband,gauche,myself,skin,money,écarter,vrai,61,2024-04-29,70.05,55.26,CAT011
+937,ART000937,2489558770067,Apple Sac espérer,DIM1-78,yard,DIM2-53,pass,Yazaki Tunisia,Cosmétiques,collection,face,police,agent,design,carte,aujourd'hui,48,2024-10-29,1145.67,807.19,CAT003
+938,ART000938,9801387162838,Bosch Réfrigérateur leur,DIM1-40,often,DIM2-48,hors,Carrefour Tunisie,Automobiles,art,coin,tell,eaux,far,imaginer,low,63,2023-04-11,60.82,38.22,CAT010
+939,ART000939,7287156596950,IKEA Pain same,DIM1-7,head,DIM2-40,grow,Carrefour Tunisie,Électroménager,population,hold,jeu,watch,véritable,center,pain,24,2023-08-22,1639.15,984.17,CAT032
+940,ART000940,4183952525206,Bosch Yaourt wall,DIM1-9,bout,DIM2-6,rate,UTIC,Jouets,big,siècle,certain,there,million,see,front,74,2023-02-16,622.86,485.87,CAT029
+941,ART000941,0276947308824,Nike Chaussures art,DIM1-93,livrer,DIM2-78,déposer,Leoni AG,Vêtements,demande,unit,act,rose,oncle,frapper,rideau,65,2023-03-12,1274.74,879.55,CAT049
+942,ART000942,1805257959908,LG Pantalon forcer,DIM1-94,political,DIM2-42,behavior,SOTUMAG,Parfumerie,terrible,cuisine,five,across,remettre,circonstance,goutte,86,2023-07-23,1249.06,807.6,CAT025
+943,ART000943,7133996276869,Bosch Chaussures difficile,DIM1-70,edge,DIM2-6,ten,Modern Leasing,Sport & Loisirs,clef,cri,dégager,vieux,préparer,enfant,cercle,83,2024-04-04,181.62,134.66,CAT011
+944,ART000944,8029890888194,Nivea Pain research,DIM1-99,five,DIM2-91,coach,Carrefour Tunisie,Chaussures,coin,trop,prison,bleu,divers,including,certes,83,2023-04-28,251.94,155.45,CAT036
+945,ART000945,6670417103898,Adidas Fromage soirée,DIM1-74,président,DIM2-97,fill,Délice Danone,Maroquinerie,hôtel,ci,durer,an,figure,person,law,67,2024-01-18,382.84,268.19,CAT031
+946,ART000946,4876507752577,Apple Smartphone enlever,DIM1-85,maladie,DIM2-69,colère,One Tech Group,Alimentation,agree,toujours,quality,certain,hésiter,throw,direction,36,2024-10-29,1574.58,1206.03,CAT016
+947,ART000947,0667005994699,Nike Pain industry,DIM1-11,contraire,DIM2-69,empêcher,Arab Tunisian Bank,Librairie,artist,posséder,usage,necessary,annoncer,trial,fils,52,2024-03-10,1179.84,911.3,CAT032
+948,ART000948,3323430658748,Bosch Smartphone upon,DIM1-56,son,DIM2-24,étaler,UTIC,Alimentation,government,risquer,cultural,puissant,white,veiller,oil,68,2024-07-30,638.18,394.53,CAT017
+949,ART000949,5513919603484,Adidas Réfrigérateur épais,DIM1-22,mission,DIM2-37,refuser,Leoni AG,Électronique,deal,unit,courant,question,après,run,muet,33,2023-12-07,1537.77,1017.02,CAT010
+950,ART000950,8466486741639,Nivea T-shirt speak,DIM1-22,confier,DIM2-8,minute,Arab Tunisian Bank,Librairie,chemin,go,voice,révolution,medical,always,facile,24,2024-02-03,59.21,39.06,CAT004
+951,ART000951,0811441572816,Bosch Réfrigérateur seek,DIM1-19,vivre,DIM2-53,wait,Géant,Sport & Loisirs,bon,nothing,by,gris,whose,douleur,bag,49,2024-02-06,1883.45,1149.61,CAT008
+952,ART000952,6055546542686,Nestlé Lampe manquer,DIM1-77,wish,DIM2-76,précipiter,Orange Tunisie,Jouets,behind,surface,douleur,understand,project,fast,throw,66,2024-06-07,1506.02,1189.56,CAT025
+953,ART000953,6003011962279,Samsung Livre en,DIM1-41,such,DIM2-60,what,STB,Informatique,right,verser,tendre,six,mémoire,race,really,9,2024-03-27,970.92,705.58,CAT027
+954,ART000954,7093409916501,Philips Smartphone blanc,DIM1-71,mur,DIM2-76,total,Yazaki Tunisia,Maison & Jardin,essayer,team,or,current,tax,along,vert,98,2023-05-15,1111.64,734.71,CAT009
+955,ART000955,9595142954492,Nike T-shirt later,DIM1-11,finally,DIM2-82,caresser,BIAT,Électroménager,thousand,through,case,gun,préférer,âgé,naturel,19,2024-05-18,749.74,567.11,CAT011
+956,ART000956,3447945923518,IKEA Yaourt seek,DIM1-72,relation,DIM2-58,décider,Délice Danone,Alimentation,family,serious,venir,autrement,papier,pénétrer,complètement,60,2024-05-09,1922.42,1264.66,CAT040
+957,ART000957,7613049484149,Samsung Chaise sortir,DIM1-8,haut,DIM2-62,staff,Monoprix,Parfumerie,réalité,supposer,plusieurs,trois,sell,trade,reason,33,2024-03-21,1679.78,1343.57,CAT025
+958,ART000958,3026564771153,Sony Eau beaucoup,DIM1-75,always,DIM2-66,baby,Carrefour Tunisie,Boissons,poitrine,clef,call,glace,even,I,chasse,21,2023-02-16,1479.67,908.5,CAT037
+959,ART000959,5424738852376,IKEA Télévision final,DIM1-90,low,DIM2-16,avenir,Leoni AG,Chaussures,opportunity,soutenir,jardin,depuis,word,dangereux,témoin,36,2024-03-03,1757.17,1268.83,CAT014
+960,ART000960,2679909666020,Nivea Cahier herself,DIM1-44,règle,DIM2-82,réunir,Monoprix,Téléphonie,machine,mouvement,interesting,chez,agiter,vague,act,35,2023-12-14,495.63,331.24,CAT021
+961,ART000961,3780886693202,L'Oréal Pantalon such,DIM1-43,retrouver,DIM2-3,fil,Leoni AG,Alimentation,phone,trente,million,now,treatment,world,six,78,2023-09-27,955.68,701.99,CAT001
+962,ART000962,7445657267650,Adidas T-shirt behind,DIM1-90,prendre,DIM2-91,paraître,Attijari Bank,Bébé & Enfant,moment,participant,about,doigt,goal,crainte,difficile,69,2023-05-20,166.89,121.87,CAT042
+963,ART000963,9303264525731,Samsung Yaourt adresser,DIM1-86,paysage,DIM2-57,stand,Yazaki Tunisia,Santé,marche,intéresser,oeuvre,choice,fier,instead,hold,49,2023-04-08,1655.8,1121.56,CAT023
+964,ART000964,8379900536691,Samsung Café dominer,DIM1-16,position,DIM2-60,during,Aziza,Électroménager,expression,créer,same,collection,pensée,employer,represent,57,2023-05-25,23.68,14.3,CAT048
+965,ART000965,9310337008947,Nivea Livre terreur,DIM1-91,étroit,DIM2-46,du,Tunisie Telecom,Hygiène,activity,decade,envelopper,vague,sous,quinze,hit,79,2024-05-07,1252.35,806.8,CAT046
+966,ART000966,2578047371981,Bosch Parfum soldier,DIM1-5,plaine,DIM2-36,owner,Attijari Bank,Parfumerie,now,tenter,find,three,food,should,chacun,27,2024-01-16,19.24,13.07,CAT041
+967,ART000967,7926405327395,L'Oréal Livre nearly,DIM1-65,practice,DIM2-64,fait,One Tech Group,Chaussures,quand,succès,en,positive,white,trouver,cacher,25,2023-01-18,1321.38,970.47,CAT037
+968,ART000968,2198596551025,L'Oréal Fromage activity,DIM1-23,least,DIM2-9,under,Amen Bank,Vêtements,pull,mois,dog,miss,market,général,employee,96,2024-03-10,134.77,106.03,CAT017
+969,ART000969,9103852427627,Adidas Lampe chasse,DIM1-94,he,DIM2-36,effort,Tunisie Telecom,Alimentation,find,révéler,drive,possible,whom,account,rendre,89,2023-09-06,1357.08,882.89,CAT040
+970,ART000970,6565317087303,Nike Yaourt créer,DIM1-1,aile,DIM2-55,père,Délice Danone,Librairie,marchand,do,là,realize,democratic,demi,fort,56,2023-07-28,1689.46,1106.27,CAT027
+971,ART000971,9166019109040,Adidas Jus individual,DIM1-60,ouvrir,DIM2-64,cuisine,Aziza,Bijouterie,for,window,staff,tout,my,positive,professor,98,2023-03-12,91.71,59.14,CAT047
+972,ART000972,6090937164580,IKEA Livre ah,DIM1-69,hard,DIM2-58,teacher,Géant,Alimentation,fier,learn,especially,structure,vérité,rapporter,special,51,2024-08-01,393.24,305.16,CAT006
+973,ART000973,2890566518372,Danone Smartphone sister,DIM1-29,level,DIM2-89,sauver,UTIC,Hygiène,papier,else,hear,serrer,movie,present,près,32,2023-11-03,397.77,263.39,CAT022
+974,ART000974,5023089964693,Nivea Eau faute,DIM1-13,général,DIM2-4,libre,Attijari Bank,Informatique,newspaper,physical,cost,dimanche,veiller,improve,épais,4,2023-02-19,1187.1,934.26,CAT041
+975,ART000975,8803546946601,Sony Livre people,DIM1-14,effet,DIM2-61,interesting,Orange Tunisie,Librairie,let,machine,simple,tirer,nouveau,digne,clef,7,2023-02-04,1644.16,1247.63,CAT034
+976,ART000976,9655868190045,Nestlé Télévision haut,DIM1-77,élever,DIM2-80,main,Modern Leasing,Cosmétiques,recommencer,send,ability,enfance,four,année,sable,81,2024-09-02,895.68,552.73,CAT008
+977,ART000977,3801012457182,Samsung Ordinateur maison,DIM1-49,matière,DIM2-41,secours,SOTUMAG,Vêtements,political,discuter,process,although,great,riche,traverser,8,2024-10-09,1838.64,1123.33,CAT029
+978,ART000978,8718671708041,Nivea Fromage seconde,DIM1-56,voix,DIM2-9,répandre,Yazaki Tunisia,Boissons,adult,why,sein,because,sans,échapper,bout,72,2023-08-06,109.15,74.26,CAT025
+979,ART000979,2209400371774,Nestlé Fromage nearly,DIM1-53,image,DIM2-30,parfaitement,Arab Tunisian Bank,Parfumerie,now,membre,born,verser,nature,après,banc,2,2024-04-04,909.56,690.39,CAT030
+980,ART000980,1657121186015,L'Oréal Fromage commencement,DIM1-13,trait,DIM2-44,un,Groupe Poulina,Téléphonie,dont,devant,heavy,partner,banc,store,en,67,2024-09-06,659.75,410.1,CAT013
+981,ART000981,5968891096197,L'Oréal Smartphone trade,DIM1-92,français,DIM2-9,allow,Amen Bank,Électroménager,common,beauté,aussitôt,nommer,prononcer,monde,stand,74,2024-06-19,256.33,166.94,CAT033
+982,ART000982,4460819714080,Nike T-shirt fil,DIM1-93,organization,DIM2-80,everyone,Modern Leasing,Électronique,others,all,activity,them,nation,vêtir,everybody,32,2023-11-06,279.66,171.18,CAT003
+983,ART000983,9839859074297,L'Oréal Stylo bar,DIM1-56,character,DIM2-66,frère,Aziza,Automobiles,look,whatever,country,thus,trois,look,soldier,75,2024-04-14,1771.02,1114.19,CAT050
+984,ART000984,9530164728614,Philips Parfum finally,DIM1-78,voice,DIM2-44,pass,Carrefour Tunisie,Santé,consulter,carry,important,comme,impact,rare,learn,2,2024-08-19,1037.77,763.45,CAT043
+985,ART000985,4982468967018,Sony Ordinateur hope,DIM1-65,coach,DIM2-72,skill,Délice Danone,Informatique,term,another,battre,term,cause,cause,humide,45,2023-08-01,394.84,287.49,CAT013
+986,ART000986,3525600858945,Nestlé Table unit,DIM1-9,parti,DIM2-44,cheveu,Tunisie Telecom,Jouets,time,jamais,achever,whatever,inconnu,ce,combat,89,2023-10-16,1385.22,997.29,CAT030
+987,ART000987,0599342322104,Coca-Cola Cahier course,DIM1-75,whom,DIM2-73,visit,Géant,Parfumerie,chien,when,fond,rapidement,music,faute,unique,39,2024-11-11,840.3,521.8,CAT011
+988,ART000988,9824021168232,Nike Ordinateur emmener,DIM1-29,prevent,DIM2-1,prendre,Orange Tunisie,Maison & Jardin,terme,attaquer,city,commercial,guy,natural,talk,60,2024-06-11,1249.72,869.99,CAT016
+989,ART000989,5877452634887,Nestlé Cahier dont,DIM1-95,than,DIM2-49,hauteur,Tunisie Telecom,Bébé & Enfant,find,condamner,degree,but,penser,remettre,inquiéter,24,2023-07-13,1653.04,1111.77,CAT001
+990,ART000990,5538828720473,Bosch Télévision material,DIM1-4,hundred,DIM2-72,section,Yazaki Tunisia,Vêtements,queue,rare,firm,seat,bar,avec,form,38,2023-02-26,883.61,633.67,CAT041
+991,ART000991,6859315262108,Samsung Sac thought,DIM1-4,seek,DIM2-26,expliquer,Tunisie Telecom,Automobiles,discussion,succès,aider,beat,win,heart,sans,23,2024-12-24,441.8,328.6,CAT017
+992,ART000992,5744331997114,Coca-Cola Cahier dream,DIM1-71,étage,DIM2-32,stock,One Tech Group,Électroménager,community,thousand,air,animal,durer,draw,fish,3,2023-10-10,356.27,278.65,CAT017
+993,ART000993,8618881786023,Coca-Cola Smartphone loup,DIM1-87,précieux,DIM2-18,director,Senia,Cosmétiques,leave,produire,porter,past,écraser,colère,delà,44,2023-06-27,1872.55,1294.38,CAT020
+994,ART000994,4807047314833,Nestlé Sac one,DIM1-48,force,DIM2-85,market,One Tech Group,Bijouterie,especially,paupière,en,image,trade,interest,accent,80,2023-10-21,1763.92,1081.42,CAT046
+995,ART000995,2821282193864,LG Machine à laver plein,DIM1-25,sound,DIM2-25,cell,STB,Bébé & Enfant,every,secret,doucement,gens,quickly,over,toujours,89,2024-11-30,751.64,515.56,CAT039
+996,ART000996,6604853123448,Sony Eau jambe,DIM1-6,particular,DIM2-98,ciel,Arab Tunisian Bank,Maroquinerie,trade,have,cuisine,course,appartenir,so,père,25,2024-01-04,1709.6,1295.74,CAT019
+997,ART000997,4836481165954,Sony Cahier sing,DIM1-7,page,DIM2-81,compare,Monoprix,Vêtements,sommet,précipiter,chat,mouvement,verre,great,cost,66,2023-11-07,1936.93,1243.21,CAT032
+998,ART000998,6877759358614,Nestlé Télévision guerre,DIM1-61,poids,DIM2-85,physical,Arab Tunisian Bank,Hygiène,route,discussion,refuser,country,stop,top,divers,22,2024-04-17,1019.68,791.77,CAT049
+999,ART000999,7615001113913,Bosch Shampoing foot,DIM1-64,groupe,DIM2-67,cover,Modern Leasing,Électronique,naissance,money,bout,pay,causer,puissant,bill,42,2024-08-26,1426.41,1053.98,CAT034
+1000,ART001000,7904991573808,Nike Café look,DIM1-61,main,DIM2-35,médecin,Amen Bank,Bébé & Enfant,course,rouler,by,deux,passion,oeil,door,82,2023-02-14,1842.76,1345.12,CAT038

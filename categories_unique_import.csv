@@ -1,0 +1,16 @@
+IdCategorie,Nom,Description
+IMPORT001,Alimentation Bio,Produits alimentaires biologiques et naturels
+IMPORT002,Hygiène Corporelle,Produits d'hygiène pour le corps
+IMPORT003,Cosmétiques Premium,Produits de beauté haut de gamme
+IMPORT004,Mode Femme,Vêtements et accessoires pour femmes
+IMPORT005,Mode Homme,Vêtements et accessoires pour hommes
+IMPORT006,Électronique Grand Public,Appareils électroniques pour particuliers
+IMPORT007,Électroménager Cuisine,Appareils électroménagers pour la cuisine
+IMPORT008,Décoration Intérieure,Articles de décoration pour la maison
+IMPORT009,Jardinage,Outils et produits pour le jardin
+IMPORT010,Sports Collectifs,Équipements pour sports d'équipe
+IMPORT011,Fitness,Équipements de fitness et musculation
+IMPORT012,Automobile,Pièces et accessoires automobiles
+IMPORT013,Moto,Pièces et accessoires pour motos
+IMPORT014,Littérature,Livres et romans
+IMPORT015,Fournitures Bureau,Matériel de bureau et papeterie

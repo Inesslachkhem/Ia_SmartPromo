@@ -1,0 +1,227 @@
+[
+  {
+    "Id":1,
+    "Code":"ETB001",
+    "Libelle":"Supermarch\u00e9 Lindsey, Bradley and Gonzales",
+    "Adresse":"671, avenue Laure Pierre\n20886 BigotVille",
+    "Ville":"Gafsa",
+    "Type":"Supermarch\u00e9",
+    "Secteur":"Centre Commercial"
+  },
+  {
+    "Id":2,
+    "Code":"ETB002",
+    "Libelle":"Supermarch\u00e9 Bazin SARL",
+    "Adresse":"7326 Lisa Radial\nRomerochester, NY 72829",
+    "Ville":"Nabeul",
+    "Type":"Supermarch\u00e9",
+    "Secteur":"Zone Industrielle"
+  },
+  {
+    "Id":3,
+    "Code":"ETB003",
+    "Libelle":"Boutique Johnson PLC",
+    "Adresse":"58679 Calderon Square Apt. 644\nWilliamsfurt, ID 20211",
+    "Ville":"Nabeul",
+    "Type":"Entrep\u00f4t",
+    "Secteur":"Banlieue"
+  },
+  {
+    "Id":4,
+    "Code":"ETB004",
+    "Libelle":"Hypermarch\u00e9 Franco-Barrett",
+    "Adresse":"587 Cruz Green Suite 715\nMeaganbury, KY 58612",
+    "Ville":"Monastir",
+    "Type":"Entrep\u00f4t",
+    "Secteur":"Centre Ville"
+  },
+  {
+    "Id":5,
+    "Code":"ETB005",
+    "Libelle":"Supermarch\u00e9 Holland-Love",
+    "Adresse":"rue Capucine Costa\n21714 Sainte Margaret",
+    "Ville":"Sousse",
+    "Type":"Hypermarch\u00e9",
+    "Secteur":"Centre Commercial"
+  },
+  {
+    "Id":6,
+    "Code":"ETB006",
+    "Libelle":"Entrep\u00f4t Johns-May",
+    "Adresse":"75480 Warren Landing\nNew Jason, VA 70451",
+    "Ville":"M\u00e9denine",
+    "Type":"Supermarch\u00e9",
+    "Secteur":"Quartier R\u00e9sidentiel"
+  },
+  {
+    "Id":7,
+    "Code":"ETB007",
+    "Libelle":"Magasin Carpenter-Lopez",
+    "Adresse":"964, chemin Valette\n04586 Albert",
+    "Ville":"B\u00e9ja",
+    "Type":"Entrep\u00f4t",
+    "Secteur":"Quartier R\u00e9sidentiel"
+  },
+  {
+    "Id":8,
+    "Code":"ETB008",
+    "Libelle":"Hypermarch\u00e9 Paris SA",
+    "Adresse":"24051 Leah Divide Suite 583\nWelchchester, IL 26989",
+    "Ville":"Tataouine",
+    "Type":"Boutique",
+    "Secteur":"Centre Commercial"
+  },
+  {
+    "Id":9,
+    "Code":"ETB009",
+    "Libelle":"Boutique Mcdonald-Holland",
+    "Adresse":"0332 Gonzalez Tunnel Suite 415\nPort Brian, WV 75941",
+    "Ville":"Tataouine",
+    "Type":"Hypermarch\u00e9",
+    "Secteur":"Centre Commercial"
+  },
+  {
+    "Id":10,
+    "Code":"ETB010",
+    "Libelle":"Hypermarch\u00e9 Brown Inc",
+    "Adresse":"16, boulevard Fr\u00e9d\u00e9ric Normand\n76435 Sainte Th\u00e9ophile-la-For\u00eat",
+    "Ville":"Monastir",
+    "Type":"Boutique",
+    "Secteur":"Centre Ville"
+  },
+  {
+    "Id":11,
+    "Code":"ETB011",
+    "Libelle":"Supermarch\u00e9 Knight-Harrison",
+    "Adresse":"rue R\u00e9my Deschamps\n27429 B\u00e8gueboeuf",
+    "Ville":"B\u00e9ja",
+    "Type":"Supermarch\u00e9",
+    "Secteur":"Zone Industrielle"
+  },
+  {
+    "Id":12,
+    "Code":"ETB012",
+    "Libelle":"Magasin Potts, Rice and Clark",
+    "Adresse":"260 Kathleen Burgs Suite 875\nAvilaton, NJ 11667",
+    "Ville":"M\u00e9denine",
+    "Type":"Magasin",
+    "Secteur":"Zone Industrielle"
+  },
+  {
+    "Id":13,
+    "Code":"ETB013",
+    "Libelle":"Entrep\u00f4t Brunel Vidal S.A.",
+    "Adresse":"PSC 3912, Box 3774\nAPO AA 78911",
+    "Ville":"Mahdia",
+    "Type":"Entrep\u00f4t",
+    "Secteur":"Centre Ville"
+  },
+  {
+    "Id":14,
+    "Code":"ETB014",
+    "Libelle":"Hypermarch\u00e9 Garcia, Doyle and Clark",
+    "Adresse":"670, boulevard de Merle\n02601 Fran\u00e7ois-sur-Thierry",
+    "Ville":"Gafsa",
+    "Type":"Magasin",
+    "Secteur":"Centre Ville"
+  },
+  {
+    "Id":15,
+    "Code":"ETB015",
+    "Libelle":"Magasin Clerc",
+    "Adresse":"4070 Rose Trace\nScottview, NY 26227",
+    "Ville":"M\u00e9denine",
+    "Type":"Magasin",
+    "Secteur":"Quartier R\u00e9sidentiel"
+  },
+  {
+    "Id":16,
+    "Code":"ETB016",
+    "Libelle":"Supermarch\u00e9 Adam Blondel SARL",
+    "Adresse":"404 Oliver Neck Apt. 809\nEast Davidmouth, OH 66829",
+    "Ville":"Kasserine",
+    "Type":"Supermarch\u00e9",
+    "Secteur":"Zone Industrielle"
+  },
+  {
+    "Id":17,
+    "Code":"ETB017",
+    "Libelle":"Hypermarch\u00e9 Boucher",
+    "Adresse":"68, boulevard de Gaudin\n34367 Dupont",
+    "Ville":"Ben Arous",
+    "Type":"Hypermarch\u00e9",
+    "Secteur":"Banlieue"
+  },
+  {
+    "Id":18,
+    "Code":"ETB018",
+    "Libelle":"Entrep\u00f4t Matthews, Johnson and Forbes",
+    "Adresse":"16, chemin de Meyer\n54734 Valette-sur-Vincent",
+    "Ville":"Bizerte",
+    "Type":"Entrep\u00f4t",
+    "Secteur":"Zone Industrielle"
+  },
+  {
+    "Id":19,
+    "Code":"ETB019",
+    "Libelle":"Magasin Leroux",
+    "Adresse":"799, rue Matthieu Lefebvre\n76942 Moulin",
+    "Ville":"Ben Arous",
+    "Type":"Hypermarch\u00e9",
+    "Secteur":"Zone Industrielle"
+  },
+  {
+    "Id":20,
+    "Code":"ETB020",
+    "Libelle":"Boutique Gomez-Costa",
+    "Adresse":"691, rue Suzanne Arnaud\n87574 Goncalves",
+    "Ville":"Nabeul",
+    "Type":"Entrep\u00f4t",
+    "Secteur":"Centre Ville"
+  },
+  {
+    "Id":21,
+    "Code":"ETB021",
+    "Libelle":"Boutique Rodrigues et Fils",
+    "Adresse":"04231 Holly Trace Suite 820\nAllisonville, WY 91349",
+    "Ville":"K\u00e9bili",
+    "Type":"Entrep\u00f4t",
+    "Secteur":"Banlieue"
+  },
+  {
+    "Id":22,
+    "Code":"ETB022",
+    "Libelle":"Boutique Lef\u00e8vre Perrot SARL",
+    "Adresse":"577 Dyer Radial\nWest Mariah, MA 84136",
+    "Ville":"Gafsa",
+    "Type":"Supermarch\u00e9",
+    "Secteur":"Banlieue"
+  },
+  {
+    "Id":23,
+    "Code":"ETB023",
+    "Libelle":"Boutique Fox Inc",
+    "Adresse":"2382 Frederick Walk\nNew Michael, CT 66619",
+    "Ville":"Gafsa",
+    "Type":"Entrep\u00f4t",
+    "Secteur":"Quartier R\u00e9sidentiel"
+  },
+  {
+    "Id":24,
+    "Code":"ETB024",
+    "Libelle":"Entrep\u00f4t Pitts LLC",
+    "Adresse":"5903 Sharon Crossing\nLunamouth, PR 40259",
+    "Ville":"B\u00e9ja",
+    "Type":"Boutique",
+    "Secteur":"Zone Industrielle"
+  },
+  {
+    "Id":25,
+    "Code":"ETB025",
+    "Libelle":"Magasin Shaw, Hughes and Leonard",
+    "Adresse":"849 Nicole Vista Suite 089\nLake Jonathan, MT 93803",
+    "Ville":"Kasserine",
+    "Type":"Supermarch\u00e9",
+    "Secteur":"Centre Commercial"
+  }
+]

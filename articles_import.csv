@@ -1,0 +1,101 @@
+Id,CodeArticle,CodeBarre,Libelle,CodeDim1,LibelleDim1,CodeDim2,LibelleDim2,Fournisseur,FamilleNiv1,FamilleNiv2,FamilleNiv3,FamilleNiv4,FamilleNiv5,FamilleNiv6,FamilleNiv7,FamilleNiv8,Quantite_Achat,DateLibre,Prix_Vente_TND,Prix_Achat_TND,IdCategorie
+1,ART000001,123456000001,Article 1,DIM1-1,Dimension 1-1,DIM2-1,Dimension 2-1,SOTUMAG,Électroménager,Sous-famille 4,Catégorie 1,Type 1,,,,,96,2025-06-16,431.49,302.04,CAT001
+2,ART000002,123456000002,Article 2,DIM1-2,Dimension 1-2,DIM2-2,Dimension 2-2,Groupe Poulina,Sport & Loisirs,Sous-famille 3,Catégorie 1,Type 1,,,,,42,2025-06-16,93.75,65.62,CAT011
+3,ART000003,123456000003,Article 3,DIM1-3,Dimension 1-3,DIM2-3,Dimension 2-3,Orange Tunisie,Électroménager,Sous-famille 3,Catégorie 2,Type 2,,,,,3,2025-06-16,9.36,6.55,CAT004
+4,ART000004,123456000004,Article 4,DIM1-4,Dimension 1-4,DIM2-4,Dimension 2-4,Orange Tunisie,Vêtements,Sous-famille 2,Catégorie 3,Type 2,,,,,4,2025-06-16,188.02,131.61,CAT009
+5,ART000005,123456000005,Article 5,DIM1-5,Dimension 1-5,DIM2-5,Dimension 2-5,Groupe Poulina,Vêtements,Sous-famille 1,Catégorie 2,Type 1,,,,,70,2025-06-16,130.26,91.18,CAT005
+6,ART000006,123456000006,Article 6,DIM1-6,Dimension 1-6,DIM2-6,Dimension 2-6,Groupe Poulina,Cosmétiques,Sous-famille 2,Catégorie 2,Type 1,,,,,88,2025-06-16,488.16,341.71,CAT011
+7,ART000007,123456000007,Article 7,DIM1-7,Dimension 1-7,DIM2-7,Dimension 2-7,One Tech Group,Alimentation,Sous-famille 4,Catégorie 1,Type 1,,,,,49,2025-06-16,349.2,244.44,CAT002
+8,ART000008,123456000008,Article 8,DIM1-8,Dimension 1-8,DIM2-8,Dimension 2-8,Orange Tunisie,Hygiène,Sous-famille 4,Catégorie 3,Type 2,,,,,1,2025-06-16,358.73,251.11,CAT008
+9,ART000009,123456000009,Article 9,DIM1-9,Dimension 1-9,DIM2-9,Dimension 2-9,SOTUMAG,Hygiène,Sous-famille 1,Catégorie 2,Type 1,,,,,43,2025-06-16,258.12,180.68,CAT003
+10,ART000010,123456000010,Article 10,DIM1-10,Dimension 1-10,DIM2-10,Dimension 2-10,One Tech Group,Sport & Loisirs,Sous-famille 3,Catégorie 2,Type 2,,,,,38,2025-06-16,300.44,210.31,CAT002
+11,ART000011,123456000011,Article 11,DIM1-11,Dimension 1-11,DIM2-11,Dimension 2-11,Tunisie Telecom,Vêtements,Sous-famille 4,Catégorie 3,Type 2,,,,,73,2025-06-16,423.87,296.71,CAT001
+12,ART000012,123456000012,Article 12,DIM1-12,Dimension 1-12,DIM2-12,Dimension 2-12,Délice Danone,Électronique,Sous-famille 3,Catégorie 2,Type 2,,,,,66,2025-06-16,71.25,49.88,CAT013
+13,ART000013,123456000013,Article 13,DIM1-13,Dimension 1-13,DIM2-13,Dimension 2-13,Leoni AG,Sport & Loisirs,Sous-famille 5,Catégorie 2,Type 2,,,,,29,2025-06-16,321.62,225.13,CAT004
+14,ART000014,123456000014,Article 14,DIM1-14,Dimension 1-14,DIM2-14,Dimension 2-14,Orange Tunisie,Électroménager,Sous-famille 4,Catégorie 2,Type 1,,,,,98,2025-06-16,355.85,249.09,CAT012
+15,ART000015,123456000015,Article 15,DIM1-15,Dimension 1-15,DIM2-15,Dimension 2-15,Leoni AG,Boissons,Sous-famille 5,Catégorie 2,Type 2,,,,,37,2025-06-16,72.35,50.64,CAT006
+16,ART000016,123456000016,Article 16,DIM1-16,Dimension 1-16,DIM2-16,Dimension 2-16,Orange Tunisie,Électroménager,Sous-famille 5,Catégorie 2,Type 1,,,,,15,2025-06-16,446.04,312.23,CAT020
+17,ART000017,123456000017,Article 17,DIM1-17,Dimension 1-17,DIM2-17,Dimension 2-17,SOTUMAG,Électronique,Sous-famille 3,Catégorie 2,Type 1,,,,,17,2025-06-16,455.87,319.11,CAT002
+18,ART000018,123456000018,Article 18,DIM1-18,Dimension 1-18,DIM2-18,Dimension 2-18,Groupe Poulina,Sport & Loisirs,Sous-famille 5,Catégorie 1,Type 1,,,,,64,2025-06-16,191.47,134.03,CAT016
+19,ART000019,123456000019,Article 19,DIM1-19,Dimension 1-19,DIM2-19,Dimension 2-19,Leoni AG,Électronique,Sous-famille 5,Catégorie 1,Type 2,,,,,43,2025-06-16,19.21,13.45,CAT011
+20,ART000020,123456000020,Article 20,DIM1-20,Dimension 1-20,DIM2-20,Dimension 2-20,Leoni AG,Cosmétiques,Sous-famille 1,Catégorie 1,Type 1,,,,,8,2025-06-16,283.05,198.13,CAT009
+21,ART000021,123456000021,Article 21,DIM1-21,Dimension 1-21,DIM2-21,Dimension 2-21,Yazaki Tunisia,Électroménager,Sous-famille 4,Catégorie 1,Type 1,,,,,64,2025-06-16,280.75,196.52,CAT009
+22,ART000022,123456000022,Article 22,DIM1-22,Dimension 1-22,DIM2-22,Dimension 2-22,One Tech Group,Alimentation,Sous-famille 5,Catégorie 1,Type 1,,,,,8,2025-06-16,265.55,185.88,CAT005
+23,ART000023,123456000023,Article 23,DIM1-23,Dimension 1-23,DIM2-23,Dimension 2-23,Orange Tunisie,Vêtements,Sous-famille 1,Catégorie 1,Type 1,,,,,24,2025-06-16,300.16,210.11,CAT016
+24,ART000024,123456000024,Article 24,DIM1-24,Dimension 1-24,DIM2-24,Dimension 2-24,Délice Danone,Sport & Loisirs,Sous-famille 3,Catégorie 1,Type 2,,,,,12,2025-06-16,436.37,305.46,CAT002
+25,ART000025,123456000025,Article 25,DIM1-25,Dimension 1-25,DIM2-25,Dimension 2-25,One Tech Group,Électronique,Sous-famille 1,Catégorie 1,Type 1,,,,,61,2025-06-16,204.22,142.95,CAT007
+26,ART000026,123456000026,Article 26,DIM1-26,Dimension 1-26,DIM2-26,Dimension 2-26,One Tech Group,Vêtements,Sous-famille 4,Catégorie 2,Type 2,,,,,34,2025-06-16,204.62,143.23,CAT020
+27,ART000027,123456000027,Article 27,DIM1-27,Dimension 1-27,DIM2-27,Dimension 2-27,Tunisie Telecom,Alimentation,Sous-famille 5,Catégorie 1,Type 2,,,,,26,2025-06-16,62.6,43.82,CAT009
+28,ART000028,123456000028,Article 28,DIM1-28,Dimension 1-28,DIM2-28,Dimension 2-28,Délice Danone,Boissons,Sous-famille 2,Catégorie 2,Type 2,,,,,48,2025-06-16,38.07,26.65,CAT001
+29,ART000029,123456000029,Article 29,DIM1-29,Dimension 1-29,DIM2-29,Dimension 2-29,Délice Danone,Électronique,Sous-famille 3,Catégorie 1,Type 2,,,,,27,2025-06-16,147.22,103.05,CAT007
+30,ART000030,123456000030,Article 30,DIM1-30,Dimension 1-30,DIM2-30,Dimension 2-30,Orange Tunisie,Vêtements,Sous-famille 4,Catégorie 2,Type 2,,,,,44,2025-06-16,248.28,173.8,CAT018
+31,ART000031,123456000031,Article 31,DIM1-31,Dimension 1-31,DIM2-31,Dimension 2-31,SOTUMAG,Vêtements,Sous-famille 4,Catégorie 3,Type 2,,,,,12,2025-06-16,212.11,148.48,CAT008
+32,ART000032,123456000032,Article 32,DIM1-32,Dimension 1-32,DIM2-32,Dimension 2-32,Leoni AG,Électroménager,Sous-famille 5,Catégorie 1,Type 1,,,,,21,2025-06-16,184.63,129.24,CAT019
+33,ART000033,123456000033,Article 33,DIM1-33,Dimension 1-33,DIM2-33,Dimension 2-33,Leoni AG,Sport & Loisirs,Sous-famille 3,Catégorie 3,Type 2,,,,,80,2025-06-16,52.01,36.41,CAT018
+34,ART000034,123456000034,Article 34,DIM1-34,Dimension 1-34,DIM2-34,Dimension 2-34,Délice Danone,Cosmétiques,Sous-famille 4,Catégorie 3,Type 1,,,,,98,2025-06-16,438.66,307.06,CAT013
+35,ART000035,123456000035,Article 35,DIM1-35,Dimension 1-35,DIM2-35,Dimension 2-35,Yazaki Tunisia,Cosmétiques,Sous-famille 2,Catégorie 1,Type 2,,,,,9,2025-06-16,334.44,234.11,CAT008
+36,ART000036,123456000036,Article 36,DIM1-36,Dimension 1-36,DIM2-36,Dimension 2-36,One Tech Group,Alimentation,Sous-famille 1,Catégorie 3,Type 1,,,,,3,2025-06-16,221.96,155.37,CAT002
+37,ART000037,123456000037,Article 37,DIM1-37,Dimension 1-37,DIM2-37,Dimension 2-37,Tunisie Telecom,Électronique,Sous-famille 1,Catégorie 3,Type 2,,,,,56,2025-06-16,231.11,161.78,CAT006
+38,ART000038,123456000038,Article 38,DIM1-38,Dimension 1-38,DIM2-38,Dimension 2-38,Délice Danone,Électronique,Sous-famille 3,Catégorie 3,Type 1,,,,,90,2025-06-16,199.13,139.39,CAT011
+39,ART000039,123456000039,Article 39,DIM1-39,Dimension 1-39,DIM2-39,Dimension 2-39,Leoni AG,Vêtements,Sous-famille 5,Catégorie 2,Type 1,,,,,29,2025-06-16,415.03,290.52,CAT014
+40,ART000040,123456000040,Article 40,DIM1-40,Dimension 1-40,DIM2-40,Dimension 2-40,SOTUMAG,Cosmétiques,Sous-famille 2,Catégorie 2,Type 2,,,,,1,2025-06-16,193.0,135.1,CAT007
+41,ART000041,123456000041,Article 41,DIM1-41,Dimension 1-41,DIM2-41,Dimension 2-41,Orange Tunisie,Hygiène,Sous-famille 4,Catégorie 3,Type 2,,,,,43,2025-06-16,333.88,233.72,CAT013
+42,ART000042,123456000042,Article 42,DIM1-42,Dimension 1-42,DIM2-42,Dimension 2-42,Yazaki Tunisia,Sport & Loisirs,Sous-famille 2,Catégorie 3,Type 1,,,,,84,2025-06-16,350.78,245.55,CAT014
+43,ART000043,123456000043,Article 43,DIM1-43,Dimension 1-43,DIM2-43,Dimension 2-43,SOTUMAG,Maison & Jardin,Sous-famille 1,Catégorie 2,Type 2,,,,,40,2025-06-16,180.04,126.03,CAT012
+44,ART000044,123456000044,Article 44,DIM1-44,Dimension 1-44,DIM2-44,Dimension 2-44,SOTUMAG,Hygiène,Sous-famille 4,Catégorie 2,Type 1,,,,,65,2025-06-16,251.59,176.11,CAT013
+45,ART000045,123456000045,Article 45,DIM1-45,Dimension 1-45,DIM2-45,Dimension 2-45,Orange Tunisie,Électronique,Sous-famille 2,Catégorie 1,Type 1,,,,,89,2025-06-16,340.5,238.35,CAT001
+46,ART000046,123456000046,Article 46,DIM1-46,Dimension 1-46,DIM2-46,Dimension 2-46,Orange Tunisie,Électronique,Sous-famille 5,Catégorie 2,Type 2,,,,,51,2025-06-16,184.96,129.47,CAT019
+47,ART000047,123456000047,Article 47,DIM1-47,Dimension 1-47,DIM2-47,Dimension 2-47,Délice Danone,Hygiène,Sous-famille 3,Catégorie 1,Type 2,,,,,40,2025-06-16,215.05,150.53,CAT011
+48,ART000048,123456000048,Article 48,DIM1-48,Dimension 1-48,DIM2-48,Dimension 2-48,SOTUMAG,Hygiène,Sous-famille 1,Catégorie 2,Type 2,,,,,7,2025-06-16,312.39,218.67,CAT010
+49,ART000049,123456000049,Article 49,DIM1-49,Dimension 1-49,DIM2-49,Dimension 2-49,One Tech Group,Maison & Jardin,Sous-famille 4,Catégorie 1,Type 2,,,,,96,2025-06-16,158.48,110.94,CAT001
+50,ART000050,123456000050,Article 50,DIM1-50,Dimension 1-50,DIM2-50,Dimension 2-50,One Tech Group,Maison & Jardin,Sous-famille 4,Catégorie 3,Type 2,,,,,92,2025-06-16,390.92,273.64,CAT011
+51,ART000051,123456000051,Article 51,DIM1-51,Dimension 1-51,DIM2-51,Dimension 2-51,Délice Danone,Électronique,Sous-famille 2,Catégorie 3,Type 2,,,,,39,2025-06-16,397.71,278.4,CAT007
+52,ART000052,123456000052,Article 52,DIM1-52,Dimension 1-52,DIM2-52,Dimension 2-52,Groupe Poulina,Cosmétiques,Sous-famille 4,Catégorie 2,Type 2,,,,,100,2025-06-16,336.24,235.37,CAT017
+53,ART000053,123456000053,Article 53,DIM1-53,Dimension 1-53,DIM2-53,Dimension 2-53,Groupe Poulina,Sport & Loisirs,Sous-famille 5,Catégorie 3,Type 2,,,,,80,2025-06-16,92.21,64.55,CAT004
+54,ART000054,123456000054,Article 54,DIM1-54,Dimension 1-54,DIM2-54,Dimension 2-54,Leoni AG,Vêtements,Sous-famille 4,Catégorie 2,Type 1,,,,,31,2025-06-16,484.69,339.28,CAT014
+55,ART000055,123456000055,Article 55,DIM1-55,Dimension 1-55,DIM2-55,Dimension 2-55,Orange Tunisie,Hygiène,Sous-famille 2,Catégorie 3,Type 1,,,,,66,2025-06-16,53.25,37.27,CAT001
+56,ART000056,123456000056,Article 56,DIM1-56,Dimension 1-56,DIM2-56,Dimension 2-56,Orange Tunisie,Alimentation,Sous-famille 4,Catégorie 2,Type 2,,,,,32,2025-06-16,202.23,141.56,CAT002
+57,ART000057,123456000057,Article 57,DIM1-57,Dimension 1-57,DIM2-57,Dimension 2-57,Yazaki Tunisia,Vêtements,Sous-famille 2,Catégorie 2,Type 1,,,,,68,2025-06-16,373.03,261.12,CAT003
+58,ART000058,123456000058,Article 58,DIM1-58,Dimension 1-58,DIM2-58,Dimension 2-58,One Tech Group,Maison & Jardin,Sous-famille 1,Catégorie 3,Type 1,,,,,22,2025-06-16,269.52,188.66,CAT002
+59,ART000059,123456000059,Article 59,DIM1-59,Dimension 1-59,DIM2-59,Dimension 2-59,Orange Tunisie,Sport & Loisirs,Sous-famille 3,Catégorie 3,Type 2,,,,,24,2025-06-16,411.57,288.1,CAT020
+60,ART000060,123456000060,Article 60,DIM1-60,Dimension 1-60,DIM2-60,Dimension 2-60,Groupe Poulina,Cosmétiques,Sous-famille 5,Catégorie 1,Type 1,,,,,28,2025-06-16,72.71,50.9,CAT020
+61,ART000061,123456000061,Article 61,DIM1-61,Dimension 1-61,DIM2-61,Dimension 2-61,Leoni AG,Boissons,Sous-famille 4,Catégorie 1,Type 2,,,,,84,2025-06-16,411.78,288.25,CAT007
+62,ART000062,123456000062,Article 62,DIM1-62,Dimension 1-62,DIM2-62,Dimension 2-62,Yazaki Tunisia,Cosmétiques,Sous-famille 5,Catégorie 3,Type 2,,,,,85,2025-06-16,41.06,28.74,CAT011
+63,ART000063,123456000063,Article 63,DIM1-63,Dimension 1-63,DIM2-63,Dimension 2-63,SOTUMAG,Vêtements,Sous-famille 4,Catégorie 1,Type 1,,,,,48,2025-06-16,47.8,33.46,CAT009
+64,ART000064,123456000064,Article 64,DIM1-64,Dimension 1-64,DIM2-64,Dimension 2-64,SOTUMAG,Électroménager,Sous-famille 2,Catégorie 1,Type 1,,,,,2,2025-06-16,68.19,47.73,CAT014
+65,ART000065,123456000065,Article 65,DIM1-65,Dimension 1-65,DIM2-65,Dimension 2-65,Tunisie Telecom,Cosmétiques,Sous-famille 1,Catégorie 2,Type 1,,,,,25,2025-06-16,394.43,276.1,CAT002
+66,ART000066,123456000066,Article 66,DIM1-66,Dimension 1-66,DIM2-66,Dimension 2-66,Yazaki Tunisia,Électroménager,Sous-famille 1,Catégorie 1,Type 1,,,,,45,2025-06-16,451.33,315.93,CAT007
+67,ART000067,123456000067,Article 67,DIM1-67,Dimension 1-67,DIM2-67,Dimension 2-67,Orange Tunisie,Hygiène,Sous-famille 4,Catégorie 1,Type 2,,,,,10,2025-06-16,231.97,162.38,CAT011
+68,ART000068,123456000068,Article 68,DIM1-68,Dimension 1-68,DIM2-68,Dimension 2-68,Tunisie Telecom,Alimentation,Sous-famille 1,Catégorie 2,Type 1,,,,,81,2025-06-16,235.98,165.19,CAT002
+69,ART000069,123456000069,Article 69,DIM1-69,Dimension 1-69,DIM2-69,Dimension 2-69,Yazaki Tunisia,Maison & Jardin,Sous-famille 1,Catégorie 2,Type 2,,,,,89,2025-06-16,49.2,34.44,CAT009
+70,ART000070,123456000070,Article 70,DIM1-70,Dimension 1-70,DIM2-70,Dimension 2-70,Yazaki Tunisia,Hygiène,Sous-famille 1,Catégorie 3,Type 2,,,,,74,2025-06-16,190.05,133.03,CAT020
+71,ART000071,123456000071,Article 71,DIM1-71,Dimension 1-71,DIM2-71,Dimension 2-71,Orange Tunisie,Électronique,Sous-famille 1,Catégorie 2,Type 2,,,,,72,2025-06-16,83.69,58.58,CAT006
+72,ART000072,123456000072,Article 72,DIM1-72,Dimension 1-72,DIM2-72,Dimension 2-72,One Tech Group,Cosmétiques,Sous-famille 3,Catégorie 1,Type 1,,,,,44,2025-06-16,460.9,322.63,CAT019
+73,ART000073,123456000073,Article 73,DIM1-73,Dimension 1-73,DIM2-73,Dimension 2-73,Orange Tunisie,Sport & Loisirs,Sous-famille 2,Catégorie 3,Type 1,,,,,46,2025-06-16,201.16,140.81,CAT014
+74,ART000074,123456000074,Article 74,DIM1-74,Dimension 1-74,DIM2-74,Dimension 2-74,Yazaki Tunisia,Électronique,Sous-famille 2,Catégorie 3,Type 1,,,,,44,2025-06-16,119.22,83.45,CAT006
+75,ART000075,123456000075,Article 75,DIM1-75,Dimension 1-75,DIM2-75,Dimension 2-75,Orange Tunisie,Sport & Loisirs,Sous-famille 2,Catégorie 3,Type 2,,,,,87,2025-06-16,341.18,238.83,CAT002
+76,ART000076,123456000076,Article 76,DIM1-76,Dimension 1-76,DIM2-76,Dimension 2-76,SOTUMAG,Électronique,Sous-famille 3,Catégorie 3,Type 1,,,,,33,2025-06-16,112.1,78.47,CAT001
+77,ART000077,123456000077,Article 77,DIM1-77,Dimension 1-77,DIM2-77,Dimension 2-77,Tunisie Telecom,Sport & Loisirs,Sous-famille 5,Catégorie 1,Type 1,,,,,4,2025-06-16,136.22,95.35,CAT006
+78,ART000078,123456000078,Article 78,DIM1-78,Dimension 1-78,DIM2-78,Dimension 2-78,Délice Danone,Vêtements,Sous-famille 5,Catégorie 2,Type 2,,,,,38,2025-06-16,119.69,83.78,CAT010
+79,ART000079,123456000079,Article 79,DIM1-79,Dimension 1-79,DIM2-79,Dimension 2-79,One Tech Group,Sport & Loisirs,Sous-famille 4,Catégorie 2,Type 2,,,,,19,2025-06-16,375.14,262.6,CAT006
+80,ART000080,123456000080,Article 80,DIM1-80,Dimension 1-80,DIM2-80,Dimension 2-80,SOTUMAG,Hygiène,Sous-famille 5,Catégorie 1,Type 1,,,,,92,2025-06-16,344.5,241.15,CAT012
+81,ART000081,123456000081,Article 81,DIM1-81,Dimension 1-81,DIM2-81,Dimension 2-81,Orange Tunisie,Alimentation,Sous-famille 1,Catégorie 1,Type 2,,,,,48,2025-06-16,407.24,285.07,CAT012
+82,ART000082,123456000082,Article 82,DIM1-82,Dimension 1-82,DIM2-82,Dimension 2-82,Yazaki Tunisia,Électronique,Sous-famille 1,Catégorie 1,Type 2,,,,,34,2025-06-16,467.81,327.47,CAT011
+83,ART000083,123456000083,Article 83,DIM1-83,Dimension 1-83,DIM2-83,Dimension 2-83,One Tech Group,Alimentation,Sous-famille 4,Catégorie 3,Type 2,,,,,37,2025-06-16,75.36,52.75,CAT013
+84,ART000084,123456000084,Article 84,DIM1-84,Dimension 1-84,DIM2-84,Dimension 2-84,Orange Tunisie,Alimentation,Sous-famille 5,Catégorie 2,Type 1,,,,,66,2025-06-16,67.56,47.29,CAT007
+85,ART000085,123456000085,Article 85,DIM1-85,Dimension 1-85,DIM2-85,Dimension 2-85,One Tech Group,Sport & Loisirs,Sous-famille 4,Catégorie 2,Type 2,,,,,81,2025-06-16,345.7,241.99,CAT011
+86,ART000086,123456000086,Article 86,DIM1-86,Dimension 1-86,DIM2-86,Dimension 2-86,Tunisie Telecom,Boissons,Sous-famille 1,Catégorie 3,Type 1,,,,,40,2025-06-16,76.72,53.7,CAT012
+87,ART000087,123456000087,Article 87,DIM1-87,Dimension 1-87,DIM2-87,Dimension 2-87,One Tech Group,Électronique,Sous-famille 4,Catégorie 2,Type 2,,,,,27,2025-06-16,18.27,12.79,CAT017
+88,ART000088,123456000088,Article 88,DIM1-88,Dimension 1-88,DIM2-88,Dimension 2-88,Leoni AG,Boissons,Sous-famille 2,Catégorie 1,Type 1,,,,,7,2025-06-16,127.61,89.33,CAT018
+89,ART000089,123456000089,Article 89,DIM1-89,Dimension 1-89,DIM2-89,Dimension 2-89,One Tech Group,Électronique,Sous-famille 1,Catégorie 1,Type 2,,,,,59,2025-06-16,459.34,321.54,CAT018
+90,ART000090,123456000090,Article 90,DIM1-90,Dimension 1-90,DIM2-90,Dimension 2-90,Groupe Poulina,Électronique,Sous-famille 3,Catégorie 2,Type 1,,,,,79,2025-06-16,253.32,177.32,CAT016
+91,ART000091,123456000091,Article 91,DIM1-91,Dimension 1-91,DIM2-91,Dimension 2-91,Délice Danone,Boissons,Sous-famille 4,Catégorie 3,Type 1,,,,,89,2025-06-16,127.24,89.07,CAT004
+92,ART000092,123456000092,Article 92,DIM1-92,Dimension 1-92,DIM2-92,Dimension 2-92,Tunisie Telecom,Cosmétiques,Sous-famille 3,Catégorie 3,Type 2,,,,,84,2025-06-16,323.41,226.39,CAT005
+93,ART000093,123456000093,Article 93,DIM1-93,Dimension 1-93,DIM2-93,Dimension 2-93,Délice Danone,Cosmétiques,Sous-famille 2,Catégorie 1,Type 2,,,,,78,2025-06-16,53.54,37.48,CAT020
+94,ART000094,123456000094,Article 94,DIM1-94,Dimension 1-94,DIM2-94,Dimension 2-94,Leoni AG,Cosmétiques,Sous-famille 2,Catégorie 2,Type 2,,,,,43,2025-06-16,388.06,271.64,CAT007
+95,ART000095,123456000095,Article 95,DIM1-95,Dimension 1-95,DIM2-95,Dimension 2-95,Leoni AG,Sport & Loisirs,Sous-famille 4,Catégorie 2,Type 2,,,,,29,2025-06-16,404.9,283.43,CAT014
+96,ART000096,123456000096,Article 96,DIM1-96,Dimension 1-96,DIM2-96,Dimension 2-96,Leoni AG,Sport & Loisirs,Sous-famille 5,Catégorie 1,Type 1,,,,,67,2025-06-16,68.81,48.17,CAT013
+97,ART000097,123456000097,Article 97,DIM1-97,Dimension 1-97,DIM2-97,Dimension 2-97,Orange Tunisie,Électronique,Sous-famille 2,Catégorie 2,Type 2,,,,,16,2025-06-16,231.24,161.87,CAT003
+98,ART000098,123456000098,Article 98,DIM1-98,Dimension 1-98,DIM2-98,Dimension 2-98,Délice Danone,Sport & Loisirs,Sous-famille 1,Catégorie 1,Type 1,,,,,3,2025-06-16,174.26,121.98,CAT009
+99,ART000099,123456000099,Article 99,DIM1-99,Dimension 1-99,DIM2-99,Dimension 2-99,Leoni AG,Cosmétiques,Sous-famille 4,Catégorie 2,Type 2,,,,,12,2025-06-16,394.87,276.41,CAT019
+100,ART000100,123456000100,Article 100,DIM1-100,Dimension 1-100,DIM2-100,Dimension 2-100,Groupe Poulina,Maison & Jardin,Sous-famille 1,Catégorie 2,Type 2,,,,,15,2025-06-16,188.44,131.91,CAT020
