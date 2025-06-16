@@ -1,21 +1,11 @@
 IdCategorie,Nom,Description
-CAT001,Alimentation,Produits alimentaires et boissons
-CAT002,Hygiène,Produits d'hygiène personnelle
-CAT003,Cosmétiques,Produits de beauté et cosmétiques
-CAT004,Vêtements,Vêtements et accessoires de mode
-CAT005,Électronique,Appareils électroniques et gadgets
-CAT006,Électroménager,Appareils électroménagers pour la maison
-CAT007,Maison & Jardin,Articles pour la maison et le jardin
-CAT008,Sport & Loisirs,Équipements sportifs et loisirs
-CAT009,Automobiles,Accessoires et pièces automobiles
-CAT010,Librairie,Livres et fournitures de bureau
-CAT011,Santé,Produits de santé et bien-être
-CAT012,Bébé & Enfant,Produits pour bébés et enfants
-CAT013,Informatique,Matériel informatique et logiciels
-CAT014,Téléphonie,Téléphones et accessoires
-CAT015,Jouets,Jouets et jeux pour enfants
-CAT016,Bijouterie,Bijoux et montres
-CAT017,Chaussures,Chaussures pour tous âges
-CAT018,Maroquinerie,Sacs et accessoires en cuir
-CAT019,Parfumerie,Parfums et fragrances
-CAT020,Boissons,Boissons alcoolisées et non-alcoolisées
+CAT001,Électronique,Produits électroniques et électroménagers
+CAT002,Vêtements,Vêtements et accessoires de mode
+CAT003,Alimentation,Produits alimentaires et boissons
+CAT004,Hygiène,Produits d'hygiène et de beauté
+CAT005,Maison,Articles pour la maison et décoration
+CAT006,Sport,Articles de sport et loisirs
+CAT007,Automobile,Pièces et accessoires automobiles
+CAT008,Informatique,Matériel informatique et accessoires
+CAT009,Téléphonie,Téléphones et accessoires
+CAT010,Santé,Produits de santé et bien-être
