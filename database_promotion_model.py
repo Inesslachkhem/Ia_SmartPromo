@@ -63,7 +63,7 @@ class DatabasePromotionModel:
     def _get_default_connection_string(self):
         """Get default connection string for SQL Server LocalDB"""
         # SQL Server LocalDB connection (from your appsettings.json)
-        return "mssql+pyodbc://(localdb)\\MSSQLLocalDB/Promotion?driver=ODBC+Driver+17+for+SQL+Server&trusted_connection=yes"
+        return "mssql+pyodbc://DESKTOP-S22JEMV\\SQLEXPRESS/SmartPromoDb_Fresh?driver=ODBC+Driver+17+for+SQL+Server&trusted_connection=yes"
 
     def connect_to_database(self):
         """Establish database connection"""
@@ -512,7 +512,11 @@ class DatabasePromotionModel:
             (stock_months - 3) / 10, 0, 0.3
         )  # Si le stock couvre plus de 3 mois, on considère que c'est excessif.
 
-        # 2. Calcul de la marge en pourcentage à la volée et du margin_factor dans un seul bloc
+        # 2. Calcul de la marge en pourcentage à la volée et du margin_factor dans un seul bloc 
+#         Base margin of 30% is considered normal (no effect)
+# Each additional 1% margin adds 0.01 to the factor
+# Factor is capped at 0.25 (25%)
+        
         if (
             "Prix_Vente_TND" in df_calc.columns
             and "Cout_Unitaire_TND" in df_calc.columns
@@ -570,7 +574,7 @@ class DatabasePromotionModel:
         # Combine all factors using business logic weights
         optimal_promotion = (
             rotation_factor * 0.25  # 25% weight - rotation
-            + stock_factor * 0.225  # 22.5% weight - inventory management
+            + stock_factor * 0.25  # 25% weight - inventory management
             + margin_factor * 0.20  # 20% weight - profitability protection
             + elasticity_factor * 0.30  # 30% weight - customer price sensitivity
         )
@@ -1257,7 +1261,7 @@ class DatabasePromotionModel:
                 print(f"❌ Error: {str(e)}")
                 continue
 
-    def save_promotion_to_database(self, prediction, article_code, target_date):
+    def save_promotion_to_database(self, prediction, article_code, target_date, date_creation=None):
         """Save generated promotion to database with isAccepted = false"""
         try:
             print(f"\n💾 Saving promotion to database...")
@@ -1276,7 +1280,7 @@ class DatabasePromotionModel:
                 "Prix_Vente_TND_Avant": prediction["current_price_tnd"],
                 "Prix_Vente_TND_Apres": prediction["promoted_price_tnd"],
                 "isAccepted": False,  # Default to false
-                "DateCreation": datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
+                "DateCreation": date_creation if date_creation else datetime.now().strftime("%Y-%m-%d %H:%M:%S"),
                 "PredictionConfidence": prediction.get("confidence", 0.85),
                 "SeasonalAdjustment": prediction.get("seasonal_demand_multiplier", 1.0),
                 "TemporalAdjustment": prediction.get("temporal_adjustment_factor", 1.0),
@@ -1288,10 +1292,10 @@ class DatabasePromotionModel:
             insert_query = """
             INSERT INTO Promotions (
                 DateFin, TauxReduction, CodeArticle, 
-                Prix_Vente_TND_Avant, Prix_Vente_TND_Apres, isAccepted
+                Prix_Vente_TND_Avant, Prix_Vente_TND_Apres, isAccepted, DateCreation
             ) VALUES (
                 :DateFin, :TauxReduction, :CodeArticle,
-                :Prix_Vente_TND_Avant, :Prix_Vente_TND_Apres, :isAccepted
+                :Prix_Vente_TND_Avant, :Prix_Vente_TND_Apres, :isAccepted, :DateCreation
             )
             """
 

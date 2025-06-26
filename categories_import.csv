@@ -1,11 +1,6 @@
 IdCategorie,Nom,Description
-CAT001,Électronique,Produits électroniques et électroménagers
-CAT002,Vêtements,Vêtements et accessoires de mode
-CAT003,Alimentation,Produits alimentaires et boissons
-CAT004,Hygiène,Produits d'hygiène et de beauté
-CAT005,Maison,Articles pour la maison et décoration
-CAT006,Sport,Articles de sport et loisirs
-CAT007,Automobile,Pièces et accessoires automobiles
-CAT008,Informatique,Matériel informatique et accessoires
-CAT009,Téléphonie,Téléphones et accessoires
-CAT010,Santé,Produits de santé et bien-être
+CAT001,Tops,Hauts pour femmes et hommes (t-shirts, chemises, blouses)
+CAT002,Bottoms,Bas incluant pantalons, jupes, shorts et jeans
+CAT003,Outerwear,V�tements d'ext�rieur comme manteaux, vestes et parkas
+CAT004,Footwear,Chaussures pour toutes saisons et occasions
+CAT005,Accessories,Accessoires de mode : sacs, ceintures, bijoux, chapeaux

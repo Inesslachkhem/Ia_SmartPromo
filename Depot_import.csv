@@ -1,0 +1,11 @@
+Id,Code,Libelle,TypeDepot
+1,DEP001,Depot Central Tunis,Principal
+2,DEP002,Depot Regional Nord,Secondaire
+3,DEP003,Depot Regional Sud,Secondaire
+4,DEP004,Depot Express Sfax,Distribution
+5,DEP005,Entrepot Sousse,Stockage
+6,DEP006,Depot Bizerte,Secondaire
+7,DEP007,Depot Nabeul,Distribution
+8,DEP008,Entrepot Kairouan,Stockage
+9,DEP009,Depot Gabes,Secondaire
+10,DEP010,Depot Central Monastr,Principal

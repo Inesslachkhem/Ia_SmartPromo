@@ -1,11 +1,4 @@
 Id,Code,Libelle,Adresse,Ville,Type,Secteur
-1,ETB001,Établissement 1,Adresse 1,Bizerte,Magasin,Centre Ville
-2,ETB002,Établissement 2,Adresse 2,Tunis,Magasin,Centre Commercial
-3,ETB003,Établissement 3,Adresse 3,Monastir,Magasin,Centre Ville
-4,ETB004,Établissement 4,Adresse 4,Gabès,Magasin,Centre Ville
-5,ETB005,Établissement 5,Adresse 5,Ben Arous,Supermarché,Centre Ville
-6,ETB006,Établissement 6,Adresse 6,Sfax,Hypermarché,Centre Ville
-7,ETB007,Établissement 7,Adresse 7,Nabeul,Boutique,Banlieue
-8,ETB008,Établissement 8,Adresse 8,Monastir,Boutique,Zone Industrielle
-9,ETB009,Établissement 9,Adresse 9,Ariana,Boutique,Banlieue
-10,ETB010,Établissement 10,Adresse 10,Monastir,Entrepôt,Banlieue
+1,ETB001,tablissement 1,Adresse 1,Bizerte,Magasin,Centre Ville
+2,ETB002,tablissement 2,Adresse 2,Tunis,Magasin,Centre Commercial
+3,ETB003,tablissement 3,Adresse 3,Monastir,Magasin,Centre Ville

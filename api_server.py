@@ -235,6 +235,7 @@ def generate_and_save_promotion():
         article_code = data.get("article_code", "").strip().upper()
         target_date = data.get("target_date", "").strip()
         auto_save = data.get("auto_save", True)
+        date_creation = data.get("dateCreation")
 
         if not article_code or not target_date:
             return (
@@ -297,7 +298,7 @@ def generate_and_save_promotion():
         # Save to database if requested
         if auto_save:
             success = ai_model.save_promotion_to_database(
-                prediction, article_code, target_date
+                prediction, article_code, target_date, date_creation
             )
             result["saved_to_database"] = success
             if success:
